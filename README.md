@@ -1,6 +1,7 @@
 # Final-Project
 Predicting March Madness games with machine learning. This is inspired by the [Kaggle March Mania](https://www.kaggle.com/c/mens-march-mania-2022) competition. Our data is sourced from this competition.
 
+
 ## Proposal
 We are going to use a group of college basketball datasets to predict which team is most likely to win in a head to head match in the March Madness competition.  We'll compare features such as historic rankings and average points, rebounds, and turnovers per game to predict this probability.
 
@@ -29,3 +30,5 @@ The raw output will be formatted as below.
 
 ### Visualizations
 We will use a variety of tools, including Tableau, Plotly, and Matplotlib to make an interactive head to head matchup predictor for users. We will also show a variety of Exploratory Data Analysis (EDA) visuals to tell the story of the nation's greatest tournament!
+
+![Cities](https://user-images.githubusercontent.com/95720986/167307458-9574b2dc-1ba4-4eed-a8d5-7360c93dbaf3.png)
