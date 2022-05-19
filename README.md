@@ -35,3 +35,7 @@ We will use a variety of tools, including Tableau, Plotly, and Matplotlib to mak
 
 ### Tableau Story
 https://public.tableau.com/app/profile/angie.greene/viz/FinalProject_16518756794360/WhosGoingtoWin?publish=yes
+
+### Google Slides Visualization
+https://docs.google.com/presentation/d/1HYjOiJzDm9tq-HdAaf0HMkdC65oxDQk9SOGrZIYbI_8/edit#slide=id.g12c832a7b4e_0_0
+
