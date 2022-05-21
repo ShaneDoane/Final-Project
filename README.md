@@ -42,11 +42,15 @@ Next, we engineered our features. Feature selection was influenced by the [Four 
 
 One notable omission at this current stage is if the game was played as a Home, Away, or Neutral game for the winning team. This was done for simplicity of the model at this time.
 
+Current features (formatted as the differential between winner and loser): Rankings, effective FG percentage (a measure of shot efficiency), FT percentage, Offensive and Defensive Rebounds, Assists, Turnovers, Steals, Blocks, and Personal Fouls.
+
 Feature importance below:
 
 ![image](https://user-images.githubusercontent.com/93338132/169670590-a10d1543-0ae3-49d5-870b-01d046da1d53.png)
 
 Our model was then trained and tested using scikit-learn's train_test_split method on regular season data. This was done because there is over 100,000 regular season games to work with, vs little over 2000 tournament games. We will use the regular season trained model to predict the tournament games.
+
+The model features are formatted as differentials because we will use season averages for teams in the tournament, then take the stat differentials between a given pair of teams, and predict the outcome with our model.
 
 ### Visualizations
 We will use a variety of tools, including Tableau, Plotly, and Matplotlib to make an interactive head to head matchup predictor for users. We will also show a variety of Exploratory Data Analysis (EDA) visuals to tell the story of the nation's greatest tournament!
