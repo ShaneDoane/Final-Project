@@ -1,7 +1,7 @@
 # Final-Project
 Predicting March Madness games with machine learning. This is inspired by the [Kaggle March Mania](https://www.kaggle.com/c/mens-march-mania-2022) competition. Our data is sourced from this competition.
 
-Our Google Slides [presentation]([url](https://docs.google.com/presentation/d/1HYjOiJzDm9tq-HdAaf0HMkdC65oxDQk9SOGrZIYbI_8/edit#slide=id.g12c832a7b4e_0_0)) will address relevant deliverables not accomplished in this ReadMe.
+Our Google Slides [presentation]([url](https://docs.google.com/presentation/d/1HYjOiJzDm9tq-HdAaf0HMkdC65oxDQk9SOGrZIYbI_8/edit#slide=id.g12d996d0a47_1_195)) will address relevant deliverables not accomplished in this ReadMe.
 
 ## Proposal
 We are going to use a group of college basketball datasets to predict which team is most likely to win in a head to head match in the March Madness competition.  We'll compare features such as historic rankings and average points, rebounds, and turnovers per game to predict this probability.
