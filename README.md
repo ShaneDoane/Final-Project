@@ -56,3 +56,11 @@ We will use a variety of tools, including Tableau, Plotly, and Matplotlib to mak
 
 Below is a map of all D1 Schools with Men's Basketball Programs
 ![Cities](https://user-images.githubusercontent.com/95720986/167307458-9574b2dc-1ba4-4eed-a8d5-7360c93dbaf3.png)
+
+### Tableau Story
+https://public.tableau.com/app/profile/angie.greene/viz/FinalProject_16518756794360/WhosGoingtoWin?publish=yes
+
+### Google Slides Visualization
+https://docs.google.com/presentation/d/1HYjOiJzDm9tq-HdAaf0HMkdC65oxDQk9SOGrZIYbI_8/edit#slide=id.g12c832a7b4e_0_0
+
+
