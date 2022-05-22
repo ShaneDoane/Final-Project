@@ -52,7 +52,7 @@ Our model was then trained and tested using scikit-learn's train_test_split meth
 The model features are formatted as differentials because we will use season averages for teams in the tournament, then take the stat differentials between a given pair of teams, and predict the outcome with our model.
 
 ## Visualizations
-We will use a variety of tools, including Tableau, Plotly, and Matplotlib to make an interactive head to head matchup predictor for users. We will also show a variety of Exploratory Data Analysis (EDA) visuals to tell the story of the nation's greatest tournament!
+We will use a variety of tools, including Tableau, to make an interactive head to head matchup predictor for users. We will also show a variety of Exploratory Data Analysis (EDA) visuals to tell the story of the nation's greatest tournament!
 
 Below is a map of all D1 Schools with Men's Basketball Programs
 ![Cities](https://user-images.githubusercontent.com/95720986/167307458-9574b2dc-1ba4-4eed-a8d5-7360c93dbaf3.png)
