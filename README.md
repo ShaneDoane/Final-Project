@@ -9,15 +9,14 @@ We are going to use a group of college basketball datasets to predict which team
 We will use Slack for team communications. 
 Google Drive will house our data files, due to GitHub file size constraints. 
 
-## Segment 1 Deliverables
 Our project roadmap can be found in these [Google Slides](https://docs.google.com/presentation/d/1cj5roKmtqg1G50iBWTQ_k9QtFI_a5Rb9JQhdKWZx1qg/edit#slide=id.g127d0f87571_0_5)
 
-### Database
+## Database
 Our database will consist of the following tables: Teams, Team_Rankings, Compact Results (both Regular season and tourney versions) and Detailed Regular Season Results (both regular season and tourney versions). The database will be hosted through AWS's RDS. The current ERD is shown below.
 
 ![image](https://user-images.githubusercontent.com/93338132/169716800-1ebe99e9-3e16-4120-a878-b948a25e0095.png)
 
-### Model
+## Model
 Our model is a random forest algorithm that produces the probability that Team A will win against Team B for all possible 2,278 March Madness games. 
 
 Our features include in-game basketball statistics (shooting percentage, rebounds, turnovers, etc.) and poll rankings that pertain to both the Winner and Loser of a game. We use detailed box score results from historic games during the 2003 season onward to train and test the model.  The model will determine feature importance and produce probability that a given team (Team A) will beat another given team (Team B). 
@@ -30,7 +29,7 @@ Features will be discussed in more detail in the next section but a random fores
 
 ![image](https://user-images.githubusercontent.com/93338132/169670770-676ff636-4619-4d26-885e-d7917a7e99b3.png)
 
-#### Model - Preprocessing & Feature Engineering
+### Model - Preprocessing & Feature Engineering
 Fortunately, the Kaggle data comes precleaned. However, to ready our data for random forest classification a few preprocessing steps were taken. 
 
 1. Dropped all results before 2003 season to enable us to pull in rankings for each game
@@ -51,7 +50,7 @@ Our model was then trained and tested using scikit-learn's train_test_split meth
 
 The model features are formatted as differentials because we will use season averages for teams in the tournament, then take the stat differentials between a given pair of teams, and predict the outcome with our model.
 
-### Visualizations
+## Visualizations
 We will use a variety of tools, including Tableau, Plotly, and Matplotlib to make an interactive head to head matchup predictor for users. We will also show a variety of Exploratory Data Analysis (EDA) visuals to tell the story of the nation's greatest tournament!
 
 Below is a map of all D1 Schools with Men's Basketball Programs
