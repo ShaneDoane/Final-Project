@@ -13,7 +13,7 @@ Google Drive will house our data files, due to GitHub file size constraints.
 Our project roadmap can be found in these [Google Slides](https://docs.google.com/presentation/d/1cj5roKmtqg1G50iBWTQ_k9QtFI_a5Rb9JQhdKWZx1qg/edit#slide=id.g127d0f87571_0_5)
 
 ### Database
-Our database will consist of the following tables: Teams, Team_Rankings, Compact Results (both Regular season and tourney versions) and Detailed Regular Season Results (both regular season and tourney versions). The database will be hosted through AWS's RDS. A non-exhaustive, provisional ERD is shown below.
+Our database will consist of the following tables: Teams, Team_Rankings, Compact Results (both Regular season and tourney versions) and Detailed Regular Season Results (both regular season and tourney versions). The database will be hosted through AWS's RDS. The current ERD is shown below.
 
 ![image](https://user-images.githubusercontent.com/93338132/169716800-1ebe99e9-3e16-4120-a878-b948a25e0095.png)
 
