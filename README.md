@@ -1,6 +1,7 @@
 # Final-Project
 Predicting March Madness games with machine learning. This is inspired by the [Kaggle March Mania](https://www.kaggle.com/c/mens-march-mania-2022) competition. Our data is sourced from this competition.
 
+Our [Google Slides presentation]([url](https://docs.google.com/presentation/d/1HYjOiJzDm9tq-HdAaf0HMkdC65oxDQk9SOGrZIYbI_8/edit#slide=id.g12c832a7b4e_0_0)) will address relevant deliverables not accomplished in this ReadMe.
 
 ## Proposal
 We are going to use a group of college basketball datasets to predict which team is most likely to win in a head to head match in the March Madness competition.  We'll compare features such as historic rankings and average points, rebounds, and turnovers per game to predict this probability.
@@ -9,7 +10,7 @@ We are going to use a group of college basketball datasets to predict which team
 We will use Slack for team communications. 
 Google Drive will house our data files, due to GitHub file size constraints. 
 
-Our project roadmap can be found in these [Google Slides](https://docs.google.com/presentation/d/1cj5roKmtqg1G50iBWTQ_k9QtFI_a5Rb9JQhdKWZx1qg/edit#slide=id.g127d0f87571_0_5)
+Our [project roadmap](https://docs.google.com/presentation/d/1cj5roKmtqg1G50iBWTQ_k9QtFI_a5Rb9JQhdKWZx1qg/edit#slide=id.g127d0f87571_0_5) is maintained in Google Slides.
 
 ## Database
 Our database will consist of the following tables: Teams, Team_Rankings, Compact Results (both Regular season and tourney versions) and Detailed Regular Season Results (both regular season and tourney versions). The database will be hosted through AWS's RDS. The current ERD is shown below.
@@ -60,6 +61,6 @@ Below is a map of all D1 Schools with Men's Basketball Programs
 https://public.tableau.com/app/profile/angie.greene/viz/FinalProject_16518756794360/WhosGoingtoWin?publish=yes
 
 ### Google Slides Visualization
-https://docs.google.com/presentation/d/1HYjOiJzDm9tq-HdAaf0HMkdC65oxDQk9SOGrZIYbI_8/edit#slide=id.g12c832a7b4e_0_0
+
 
 
