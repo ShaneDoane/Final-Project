@@ -1,0 +1,54 @@
+-- creating the conferences table 
+CREATE TABLE teams (
+	TeamID int NOT Null,
+	TeamName VARCHAR NOT NULL,
+	FirstD1Season INT NOT NULL,
+	LastD1Season INT NOT NULL,
+	PRIMARY KEY (TeamID)	
+);
+
+-- creating rankings table 
+CREATE TABLE rankings (
+	Season INT NOT NULL,
+	RankingDayNum INT NOT NULL,
+	SystemName VARCHAR NOT NULL,
+	TeamID INT NOT Null, 
+	OrdinalRank INT NOT NULL,
+	PRIMARY KEY (TeamID),
+FOREIGN KEY (TeamID) REFERENCES teams(TeamID)
+);
+
+-- creating conferences table 
+CREATE TABLE conferences (
+	Season INT NOT NULL,
+	TeamID INT NOT NULL,
+	ConfAbbrev VARCHAR NOT NULL,
+	PRIMARY KEY (TeamID),
+FOREIGN KEY (TeamID) REFERENCES teams (TeamID)
+);
+
+-- creating season results table 
+CREATE TABLE season_results (
+	Season INT NOT NULL,
+	DayNum INT NOT NULL,
+	TeamID INT NOT NULL,
+	Score INT NOT NULL,
+	Outcome VARCHAR NOT NULL,
+	NumOT INT NOT NULL,
+	FGM INT NOT NULL,
+	FGA INT NOT NULL,
+	FGM3 INT NOT NULL,
+	FGA3 INT NOT NULL,
+	FTM INT NOT NULL,
+	FTA INT NOT NULL,
+	OR INT NOT NULL,
+	DR INT NOT NULL,
+	Ast INT NOT NULL,
+	TO INT NOT NULL,
+	Stl INT NOT NULL,
+	Blk INT NOT NULL,
+	Ranking INT NOT NULL,
+	GameType VARCHAR NOT NULL,
+	FOREIGN KEY (TeamID) REFERENCES teams (TeamID),
+	FOREIGN KEY (Season) REFERENCES rankings (Season)	
+);

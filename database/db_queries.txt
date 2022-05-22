@@ -1,0 +1,146 @@
+-- creating the teams table 
+CREATE TABLE teams (
+	TeamID int NOT Null,
+	TeamName VARCHAR NOT NULL,
+	FirstD1Season INT NOT NULL,
+	LastD1Season INT NOT NULL,
+	PRIMARY KEY (TeamID)	
+);
+
+-- creating rankings table 
+CREATE TABLE rankings (
+	Season INT NOT NULL,
+	RankingDayNum INT NOT NULL,
+	SystemName VARCHAR NOT NULL,
+	TeamID INT NOT Null, 
+	OrdinalRank INT NOT NULL,
+	PRIMARY KEY (TeamID),
+FOREIGN KEY (TeamID) REFERENCES teams(TeamID)
+);
+
+-- creating conferences table 
+CREATE TABLE conferences (
+	Season INT NOT NULL,
+	TeamID INT NOT NULL,
+	ConfAbbrev VARCHAR NOT NULL,
+	PRIMARY KEY (TeamID),
+FOREIGN KEY (TeamID) REFERENCES teams (TeamID)
+);
+
+-- Building Detailed Results 
+CREATE TABLE all_game_results (
+	Season INT NOT NULL, 
+	DayNum INT NOT NULL,
+	WTeamID INT NOT NULL,
+	WScore INT NOT NULL,
+	LTeamID INT NOT NULL,
+	LScore INT NOT NULL,
+	WLoc VARCHAR NOT NULL,
+	NumOT INT NOT NULL,
+	WFGM INT NOT NULL,
+	WFGA INT NOT NULL,
+	WFGM3 INT NOT NULL,
+	WFGA3 INT NOT NULL,
+	WFTM INT NOT NULL,
+	WFTAINT INT NOT NULL,
+	WOR INT NOT NULL,
+	WDR INT NOT NULL,
+	WAst INT NOT NULL,
+	WTO INT NOT NULL,
+	WStl INT NOT NULL,
+	WBlk INT NOT NULL,
+	WPF INT NOT NULL,
+	LFGM INT NOT NULL,
+	LFGA INT NOT NULL,
+	LFGM3 INT NOT NULL,
+	LFGA3 INT NOT NULL,
+	LFTM INT NOT NULL,
+	LFTA INT NOT NULL,
+	LOR INT NOT NULL,
+	LDR INT NOT NULL,
+	LAst INT NOT NULL,
+	LTO INT NOT NULL,
+	LStl INT NOT NULL,
+	LBlk INT NOT NULL,
+	LPF INT NOT NULL,
+	GameType VARCHAR NOT NULL, 
+	WeekNum INT NOT NULL,
+	WSeason_Week_Team VARCHAR,
+	LSeason_Week_Team VARCHAR,
+	WOrdinalRank INT,
+	LOrdinalRank INT,
+	WFGpercent DECIMAL,
+	LFGpercent  DECIMAL,
+	WFG3percent  DECIMAL,
+	LFG3percent  DECIMAL,
+	WFTpercent  DECIMAL,
+	LFTpercent  DECIMAL 
+);
+
+-- Creating a table with rankings and team names 
+SELECT r.season,
+		r.rankingdaynum,
+		r.systemname,
+		r.teamid,
+		r.ordinalrank,
+		t.teamname
+INTO namedrankings
+FROM rankings as r
+LEFT JOIN teams as t
+ON r.teamid = t.teamid
+ORDER BY season DESC, rankingdaynum DESC, ordinalrank;
+
+-- reordering the columns of namedrankings
+ALTER TABLE namedrankings RENAME TO temp_namedrankings;
+
+CREATE TABLE rankings_with_team_names (
+	ordinalrank INT,
+	teamname VARCHAR,
+	teamid INT,
+	season INT,
+	rankingdaynum INT,
+	systemname VARCHAR
+)
+
+INSERT INTO rankings_with_team_names (ordinalrank, teamname, teamid, season, rankingdaynum, systemname) 
+SELECT ordinalrank, teamname, teamid, season, rankingdaynum, systemname 
+FROM temp_namedrankings
+
+-- creating conferences_with_team_names 
+SELECT c.season,
+		c.teamid,
+		c.confabbrev,
+		t.teamname
+INTO namedconf
+FROM conferences as c
+LEFT JOIN teams as t
+ON c.teamid = t.teamid
+
+-- reodering columns of namedconf
+CREATE TABLE conferences_with_team_names (
+	season INT,
+	teamname VARCHAR,
+	teamid INT,
+	confabbrev VARCHAR
+)
+
+INSERT INTO conferences_with_team_names (season, teamname, teamid, confabbrev)
+SELECT season, teamname, teamid, confabbrev
+FROM namedconf;
+
+SELECT * FROM conferences_with_team_names
+
+-- DROP TABLE namedconf
+
+-- CREATE SAG System table 
+SELECT ordinalrank,
+		teamname,
+		teamid,
+		season,
+		rankingdaynum,
+		systemname
+INTO sag_system
+FROM rankings_with_team_names
+WHERE systemname = 'SAG'
+
+SELECT * FROM sag_system
