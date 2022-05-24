@@ -1,0 +1,110 @@
+regular_season_detailed_results
+--
+Season INT FK >- sag_system.season
+DayNum INT
+WTeamID INT
+WScore INT
+LTeamID INT
+LScore INT,
+WLoc VARCHAR,
+NumOT INT,
+WFGM INT,
+WFGA INT,
+WFGM3 INT,
+WFGA3 INT,
+WFTM INT,
+WFTA INT,
+WOR INT,
+WDR INT,
+WAst INT,
+WTO INT,
+WStl INT,
+WBlk INT,
+WPF INT,
+LFGM INT,
+LFGA INT,
+LFGM3 INT,
+LFGA3 INT,
+LFTM INT,
+LFTA INT,
+LOR INT,
+LDR INT,
+LAst INT,
+LTO INT,
+LStl INT,
+LBlk INT,
+LPF INT
+
+all_game_results
+--
+Season INT FK >- rankings_with_team_names.season
+DayNum INT 
+WTeamID INT 
+WScore INT 
+LTeamID INT 
+LScore INT 
+WLoc VARCHAR
+NumOT INT 
+WFGM INT 
+WFGA INT 
+WFGM3 INT 
+WFGA3 INT 
+WFTM INT 
+WFTAINT INT 
+WOR INT 
+WDR INT 
+WAst INT 
+WTO INT 
+WStl INT 
+WBlk INT 
+WPF INT 
+LFGM INT
+LFGA INT 
+LFGM3 INT 
+LFGA3 INT 
+LFTM INT 
+LFTA INT 
+LOR INT 
+LDR INT 
+LAst INT
+LTO INT 
+LStl INT 
+LBlk INT 
+LPF INT 
+GameType VARCHAR 
+WeekNum INT 
+WSeason_Week_Team VARCHAR
+LSeason_Week_Team VARCHAR
+WOrdinalRank INT
+LOrdinalRank INT
+WFGpercent DECIMAL
+LFGpercent  DECIMAL
+WFG3percent  DECIMAL
+LFG3percent  DECIMAL
+WFTpercent  DECIMAL
+LFTpercent  DECIMAL 
+
+conferences_with_team_names
+--
+season INT PK FK >- regular_season_detailed_results.Season
+teamname VARCHAR 
+teamid INT PK FK >- rankings_with_team_names.teamid
+confabbrev VARCHAR
+
+rankings_with_team_names
+--
+ordinalrank INT
+teamname VARCHAR
+teamid INT PK
+season INT
+rankingdaynum INT PK
+systemname VARCHAR FK >- sag_system.systemname
+
+sag_system
+--
+ordinalrank INT
+teamname VARCHAR
+teamid INT PK FK >- rankings_with_team_names.teamid
+season INT FK >- all_game_results.Season
+rankingdaynum INT PK
+systemname VARCHAR 
