@@ -1,0 +1,2279 @@
+,lowidlose_prob,lowidwin_prob,LowIDwin,TeamA_ID,TeamB_ID,TeamA_Name,TeamB_Name,Winner
+0,0.408,0.592,1,1103,1104,Akron,Alabama,Akron
+1,0.504,0.496,0,1103,1112,Akron,Arizona,Arizona
+2,0.452,0.548,1,1103,1116,Akron,Arkansas,Akron
+3,0.464,0.536,1,1103,1120,Akron,Auburn,Akron
+4,0.512,0.488,0,1103,1124,Akron,Baylor,Baylor
+5,0.436,0.564,1,1103,1129,Akron,Boise St,Akron
+6,0.5,0.5,0,1103,1136,Akron,Bryant,Bryant
+7,0.492,0.508,1,1103,1151,Akron,Chattanooga,Akron
+8,0.496,0.504,1,1103,1159,Akron,Colgate,Akron
+9,0.536,0.464,0,1103,1161,Akron,Colorado St,Colorado St
+10,0.488,0.512,1,1103,1163,Akron,Connecticut,Akron
+11,0.444,0.556,1,1103,1166,Akron,Creighton,Akron
+12,0.5,0.5,0,1103,1168,Akron,CS Fullerton,CS Fullerton
+13,0.444,0.556,1,1103,1172,Akron,Davidson,Akron
+14,0.572,0.428,0,1103,1174,Akron,Delaware,Delaware
+15,0.544,0.456,0,1103,1181,Akron,Duke,Duke
+16,0.556,0.444,0,1103,1209,Akron,Georgia St,Georgia St
+17,0.548,0.452,0,1103,1211,Akron,Gonzaga,Gonzaga
+18,0.516,0.484,0,1103,1222,Akron,Houston,Houston
+19,0.536,0.464,0,1103,1228,Akron,Illinois,Illinois
+20,0.484,0.516,1,1103,1231,Akron,Indiana,Akron
+21,0.492,0.508,1,1103,1234,Akron,Iowa,Akron
+22,0.428,0.572,1,1103,1235,Akron,Iowa St,Akron
+23,0.56,0.44,0,1103,1240,Akron,Jacksonville St,Jacksonville St
+24,0.576,0.424,0,1103,1242,Akron,Kansas,Kansas
+25,0.512,0.488,0,1103,1246,Akron,Kentucky,Kentucky
+26,0.46,0.54,1,1103,1255,Akron,Longwood,Akron
+27,0.572,0.428,0,1103,1260,Akron,Loyola-Chicago,Loyola-Chicago
+28,0.428,0.572,1,1103,1261,Akron,LSU,Akron
+29,0.528,0.472,0,1103,1266,Akron,Marquette,Marquette
+30,0.476,0.524,1,1103,1272,Akron,Memphis,Akron
+31,0.484,0.516,1,1103,1274,Akron,Miami FL,Akron
+32,0.528,0.472,0,1103,1276,Akron,Michigan,Michigan
+33,0.516,0.484,0,1103,1277,Akron,Michigan St,Michigan St
+34,0.524,0.476,0,1103,1286,Akron,Montana St,Montana St
+35,0.472,0.528,1,1103,1293,Akron,Murray St,Akron
+36,0.484,0.516,1,1103,1308,Akron,New Mexico St,Akron
+37,0.496,0.504,1,1103,1313,Akron,Norfolk St,Akron
+38,0.492,0.508,1,1103,1314,Akron,North Carolina,Akron
+39,0.48,0.52,1,1103,1323,Akron,Notre Dame,Akron
+40,0.528,0.472,0,1103,1326,Akron,Ohio St,Ohio St
+41,0.44,0.56,1,1103,1344,Akron,Providence,Akron
+42,0.56,0.44,0,1103,1345,Akron,Purdue,Purdue
+43,0.448,0.552,1,1103,1350,Akron,Richmond,Akron
+44,0.476,0.524,1,1103,1353,Akron,Rutgers,Akron
+45,0.54,0.46,0,1103,1355,Akron,S Dakota St,S Dakota St
+46,0.42,0.58,1,1103,1361,Akron,San Diego St,Akron
+47,0.516,0.484,0,1103,1362,Akron,San Francisco,San Francisco
+48,0.46,0.54,1,1103,1371,Akron,Seton Hall,Akron
+49,0.508,0.492,0,1103,1388,Akron,St Mary's CA,St Mary's CA
+50,0.524,0.476,0,1103,1389,Akron,St Peter's,St Peter's
+51,0.44,0.56,1,1103,1394,Akron,TAM C. Christi,Akron
+52,0.448,0.552,1,1103,1395,Akron,TCU,Akron
+53,0.5,0.5,0,1103,1397,Akron,Tennessee,Tennessee
+54,0.496,0.504,1,1103,1400,Akron,Texas,Akron
+55,0.504,0.496,0,1103,1403,Akron,Texas Tech,Texas Tech
+56,0.496,0.504,1,1103,1411,Akron,TX Southern,Akron
+57,0.484,0.516,1,1103,1412,Akron,UAB,Akron
+58,0.552,0.448,0,1103,1417,Akron,UCLA,UCLA
+59,0.436,0.564,1,1103,1425,Akron,USC,Akron
+60,0.372,0.628,1,1103,1436,Akron,Vermont,Akron
+61,0.56,0.44,0,1103,1437,Akron,Villanova,Villanova
+62,0.48,0.52,1,1103,1439,Akron,Virginia Tech,Akron
+63,0.516,0.484,0,1103,1458,Akron,Wisconsin,Wisconsin
+64,0.428,0.572,1,1103,1460,Akron,Wright St,Akron
+65,0.492,0.508,1,1103,1461,Akron,Wyoming,Akron
+66,0.488,0.512,1,1103,1463,Akron,Yale,Akron
+67,0.396,0.604,1,1104,1112,Alabama,Arizona,Alabama
+68,0.48,0.52,1,1104,1116,Alabama,Arkansas,Alabama
+69,0.564,0.436,0,1104,1120,Alabama,Auburn,Auburn
+70,0.58,0.42,0,1104,1124,Alabama,Baylor,Baylor
+71,0.52,0.48,0,1104,1129,Alabama,Boise St,Boise St
+72,0.432,0.568,1,1104,1136,Alabama,Bryant,Alabama
+73,0.572,0.428,0,1104,1151,Alabama,Chattanooga,Chattanooga
+74,0.504,0.496,0,1104,1159,Alabama,Colgate,Colgate
+75,0.504,0.496,0,1104,1161,Alabama,Colorado St,Colorado St
+76,0.464,0.536,1,1104,1163,Alabama,Connecticut,Alabama
+77,0.512,0.488,0,1104,1166,Alabama,Creighton,Creighton
+78,0.572,0.428,0,1104,1168,Alabama,CS Fullerton,CS Fullerton
+79,0.504,0.496,0,1104,1172,Alabama,Davidson,Davidson
+80,0.528,0.472,0,1104,1174,Alabama,Delaware,Delaware
+81,0.492,0.508,1,1104,1181,Alabama,Duke,Alabama
+82,0.448,0.552,1,1104,1209,Alabama,Georgia St,Alabama
+83,0.452,0.548,1,1104,1211,Alabama,Gonzaga,Alabama
+84,0.56,0.44,0,1104,1222,Alabama,Houston,Houston
+85,0.46,0.54,1,1104,1228,Alabama,Illinois,Alabama
+86,0.464,0.536,1,1104,1231,Alabama,Indiana,Alabama
+87,0.46,0.54,1,1104,1234,Alabama,Iowa,Alabama
+88,0.596,0.404,0,1104,1235,Alabama,Iowa St,Iowa St
+89,0.512,0.488,0,1104,1240,Alabama,Jacksonville St,Jacksonville St
+90,0.464,0.536,1,1104,1242,Alabama,Kansas,Alabama
+91,0.5,0.5,0,1104,1246,Alabama,Kentucky,Kentucky
+92,0.556,0.444,0,1104,1255,Alabama,Longwood,Longwood
+93,0.512,0.488,0,1104,1260,Alabama,Loyola-Chicago,Loyola-Chicago
+94,0.568,0.432,0,1104,1261,Alabama,LSU,LSU
+95,0.536,0.464,0,1104,1266,Alabama,Marquette,Marquette
+96,0.604,0.396,0,1104,1272,Alabama,Memphis,Memphis
+97,0.568,0.432,0,1104,1274,Alabama,Miami FL,Miami FL
+98,0.456,0.544,1,1104,1276,Alabama,Michigan,Alabama
+99,0.404,0.596,1,1104,1277,Alabama,Michigan St,Alabama
+100,0.544,0.456,0,1104,1286,Alabama,Montana St,Montana St
+101,0.548,0.452,0,1104,1293,Alabama,Murray St,Murray St
+102,0.42,0.58,1,1104,1308,Alabama,New Mexico St,Alabama
+103,0.512,0.488,0,1104,1313,Alabama,Norfolk St,Norfolk St
+104,0.472,0.528,1,1104,1314,Alabama,North Carolina,Alabama
+105,0.552,0.448,0,1104,1323,Alabama,Notre Dame,Notre Dame
+106,0.42,0.58,1,1104,1326,Alabama,Ohio St,Alabama
+107,0.44,0.56,1,1104,1344,Alabama,Providence,Alabama
+108,0.38,0.62,1,1104,1345,Alabama,Purdue,Alabama
+109,0.572,0.428,0,1104,1350,Alabama,Richmond,Richmond
+110,0.46,0.54,1,1104,1353,Alabama,Rutgers,Alabama
+111,0.436,0.564,1,1104,1355,Alabama,S Dakota St,Alabama
+112,0.492,0.508,1,1104,1361,Alabama,San Diego St,Alabama
+113,0.508,0.492,0,1104,1362,Alabama,San Francisco,San Francisco
+114,0.488,0.512,1,1104,1371,Alabama,Seton Hall,Alabama
+115,0.508,0.492,0,1104,1388,Alabama,St Mary's CA,St Mary's CA
+116,0.56,0.44,0,1104,1389,Alabama,St Peter's,St Peter's
+117,0.536,0.464,0,1104,1394,Alabama,TAM C. Christi,TAM C. Christi
+118,0.44,0.56,1,1104,1395,Alabama,TCU,Alabama
+119,0.532,0.468,0,1104,1397,Alabama,Tennessee,Tennessee
+120,0.544,0.456,0,1104,1400,Alabama,Texas,Texas
+121,0.44,0.56,1,1104,1403,Alabama,Texas Tech,Alabama
+122,0.42,0.58,1,1104,1411,Alabama,TX Southern,Alabama
+123,0.524,0.476,0,1104,1412,Alabama,UAB,UAB
+124,0.456,0.544,1,1104,1417,Alabama,UCLA,Alabama
+125,0.464,0.536,1,1104,1425,Alabama,USC,Alabama
+126,0.516,0.484,0,1104,1436,Alabama,Vermont,Vermont
+127,0.484,0.516,1,1104,1437,Alabama,Villanova,Alabama
+128,0.46,0.54,1,1104,1439,Alabama,Virginia Tech,Alabama
+129,0.424,0.576,1,1104,1458,Alabama,Wisconsin,Alabama
+130,0.496,0.504,1,1104,1460,Alabama,Wright St,Alabama
+131,0.564,0.436,0,1104,1461,Alabama,Wyoming,Wyoming
+132,0.476,0.524,1,1104,1463,Alabama,Yale,Alabama
+133,0.528,0.472,0,1112,1116,Arizona,Arkansas,Arkansas
+134,0.48,0.52,1,1112,1120,Arizona,Auburn,Arizona
+135,0.58,0.42,0,1112,1124,Arizona,Baylor,Baylor
+136,0.524,0.476,0,1112,1129,Arizona,Boise St,Boise St
+137,0.512,0.488,0,1112,1136,Arizona,Bryant,Bryant
+138,0.516,0.484,0,1112,1151,Arizona,Chattanooga,Chattanooga
+139,0.552,0.448,0,1112,1159,Arizona,Colgate,Colgate
+140,0.572,0.428,0,1112,1161,Arizona,Colorado St,Colorado St
+141,0.5,0.5,0,1112,1163,Arizona,Connecticut,Connecticut
+142,0.456,0.544,1,1112,1166,Arizona,Creighton,Arizona
+143,0.576,0.424,0,1112,1168,Arizona,CS Fullerton,CS Fullerton
+144,0.532,0.468,0,1112,1172,Arizona,Davidson,Davidson
+145,0.548,0.452,0,1112,1174,Arizona,Delaware,Delaware
+146,0.476,0.524,1,1112,1181,Arizona,Duke,Arizona
+147,0.412,0.588,1,1112,1209,Arizona,Georgia St,Arizona
+148,0.428,0.572,1,1112,1211,Arizona,Gonzaga,Arizona
+149,0.488,0.512,1,1112,1222,Arizona,Houston,Arizona
+150,0.492,0.508,1,1112,1228,Arizona,Illinois,Arizona
+151,0.492,0.508,1,1112,1231,Arizona,Indiana,Arizona
+152,0.524,0.476,0,1112,1234,Arizona,Iowa,Iowa
+153,0.512,0.488,0,1112,1235,Arizona,Iowa St,Iowa St
+154,0.576,0.424,0,1112,1240,Arizona,Jacksonville St,Jacksonville St
+155,0.448,0.552,1,1112,1242,Arizona,Kansas,Arizona
+156,0.512,0.488,0,1112,1246,Arizona,Kentucky,Kentucky
+157,0.504,0.496,0,1112,1255,Arizona,Longwood,Longwood
+158,0.484,0.516,1,1112,1260,Arizona,Loyola-Chicago,Arizona
+159,0.564,0.436,0,1112,1261,Arizona,LSU,LSU
+160,0.508,0.492,0,1112,1266,Arizona,Marquette,Marquette
+161,0.416,0.584,1,1112,1272,Arizona,Memphis,Arizona
+162,0.496,0.504,1,1112,1274,Arizona,Miami FL,Arizona
+163,0.504,0.496,0,1112,1276,Arizona,Michigan,Michigan
+164,0.44,0.56,1,1112,1277,Arizona,Michigan St,Arizona
+165,0.528,0.472,0,1112,1286,Arizona,Montana St,Montana St
+166,0.476,0.524,1,1112,1293,Arizona,Murray St,Arizona
+167,0.492,0.508,1,1112,1308,Arizona,New Mexico St,Arizona
+168,0.532,0.468,0,1112,1313,Arizona,Norfolk St,Norfolk St
+169,0.492,0.508,1,1112,1314,Arizona,North Carolina,Arizona
+170,0.508,0.492,0,1112,1323,Arizona,Notre Dame,Notre Dame
+171,0.468,0.532,1,1112,1326,Arizona,Ohio St,Arizona
+172,0.532,0.468,0,1112,1344,Arizona,Providence,Providence
+173,0.44,0.56,1,1112,1345,Arizona,Purdue,Arizona
+174,0.544,0.456,0,1112,1350,Arizona,Richmond,Richmond
+175,0.484,0.516,1,1112,1353,Arizona,Rutgers,Arizona
+176,0.492,0.508,1,1112,1355,Arizona,S Dakota St,Arizona
+177,0.548,0.452,0,1112,1361,Arizona,San Diego St,San Diego St
+178,0.528,0.472,0,1112,1362,Arizona,San Francisco,San Francisco
+179,0.504,0.496,0,1112,1371,Arizona,Seton Hall,Seton Hall
+180,0.548,0.452,0,1112,1388,Arizona,St Mary's CA,St Mary's CA
+181,0.572,0.428,0,1112,1389,Arizona,St Peter's,St Peter's
+182,0.504,0.496,0,1112,1394,Arizona,TAM C. Christi,TAM C. Christi
+183,0.544,0.456,0,1112,1395,Arizona,TCU,TCU
+184,0.48,0.52,1,1112,1397,Arizona,Tennessee,Arizona
+185,0.572,0.428,0,1112,1400,Arizona,Texas,Texas
+186,0.584,0.416,0,1112,1403,Arizona,Texas Tech,Texas Tech
+187,0.548,0.452,0,1112,1411,Arizona,TX Southern,TX Southern
+188,0.512,0.488,0,1112,1412,Arizona,UAB,UAB
+189,0.508,0.492,0,1112,1417,Arizona,UCLA,UCLA
+190,0.536,0.464,0,1112,1425,Arizona,USC,USC
+191,0.556,0.444,0,1112,1436,Arizona,Vermont,Vermont
+192,0.512,0.488,0,1112,1437,Arizona,Villanova,Villanova
+193,0.544,0.456,0,1112,1439,Arizona,Virginia Tech,Virginia Tech
+194,0.52,0.48,0,1112,1458,Arizona,Wisconsin,Wisconsin
+195,0.532,0.468,0,1112,1460,Arizona,Wright St,Wright St
+196,0.548,0.452,0,1112,1461,Arizona,Wyoming,Wyoming
+197,0.572,0.428,0,1112,1463,Arizona,Yale,Yale
+198,0.552,0.448,0,1116,1120,Arkansas,Auburn,Auburn
+199,0.52,0.48,0,1116,1124,Arkansas,Baylor,Baylor
+200,0.496,0.504,1,1116,1129,Arkansas,Boise St,Arkansas
+201,0.412,0.588,1,1116,1136,Arkansas,Bryant,Arkansas
+202,0.468,0.532,1,1116,1151,Arkansas,Chattanooga,Arkansas
+203,0.456,0.544,1,1116,1159,Arkansas,Colgate,Arkansas
+204,0.496,0.504,1,1116,1161,Arkansas,Colorado St,Arkansas
+205,0.54,0.46,0,1116,1163,Arkansas,Connecticut,Connecticut
+206,0.448,0.552,1,1116,1166,Arkansas,Creighton,Arkansas
+207,0.484,0.516,1,1116,1168,Arkansas,CS Fullerton,Arkansas
+208,0.472,0.528,1,1116,1172,Arkansas,Davidson,Arkansas
+209,0.468,0.532,1,1116,1174,Arkansas,Delaware,Arkansas
+210,0.416,0.584,1,1116,1181,Arkansas,Duke,Arkansas
+211,0.472,0.528,1,1116,1209,Arkansas,Georgia St,Arkansas
+212,0.444,0.556,1,1116,1211,Arkansas,Gonzaga,Arkansas
+213,0.568,0.432,0,1116,1222,Arkansas,Houston,Houston
+214,0.416,0.584,1,1116,1228,Arkansas,Illinois,Arkansas
+215,0.508,0.492,0,1116,1231,Arkansas,Indiana,Indiana
+216,0.492,0.508,1,1116,1234,Arkansas,Iowa,Arkansas
+217,0.46,0.54,1,1116,1235,Arkansas,Iowa St,Arkansas
+218,0.52,0.48,0,1116,1240,Arkansas,Jacksonville St,Jacksonville St
+219,0.468,0.532,1,1116,1242,Arkansas,Kansas,Arkansas
+220,0.504,0.496,0,1116,1246,Arkansas,Kentucky,Kentucky
+221,0.476,0.524,1,1116,1255,Arkansas,Longwood,Arkansas
+222,0.456,0.544,1,1116,1260,Arkansas,Loyola-Chicago,Arkansas
+223,0.516,0.484,0,1116,1261,Arkansas,LSU,LSU
+224,0.58,0.42,0,1116,1266,Arkansas,Marquette,Marquette
+225,0.492,0.508,1,1116,1272,Arkansas,Memphis,Arkansas
+226,0.46,0.54,1,1116,1274,Arkansas,Miami FL,Arkansas
+227,0.424,0.576,1,1116,1276,Arkansas,Michigan,Arkansas
+228,0.492,0.508,1,1116,1277,Arkansas,Michigan St,Arkansas
+229,0.484,0.516,1,1116,1286,Arkansas,Montana St,Arkansas
+230,0.512,0.488,0,1116,1293,Arkansas,Murray St,Murray St
+231,0.444,0.556,1,1116,1308,Arkansas,New Mexico St,Arkansas
+232,0.452,0.548,1,1116,1313,Arkansas,Norfolk St,Arkansas
+233,0.408,0.592,1,1116,1314,Arkansas,North Carolina,Arkansas
+234,0.464,0.536,1,1116,1323,Arkansas,Notre Dame,Arkansas
+235,0.452,0.548,1,1116,1326,Arkansas,Ohio St,Arkansas
+236,0.448,0.552,1,1116,1344,Arkansas,Providence,Arkansas
+237,0.464,0.536,1,1116,1345,Arkansas,Purdue,Arkansas
+238,0.524,0.476,0,1116,1350,Arkansas,Richmond,Richmond
+239,0.48,0.52,1,1116,1353,Arkansas,Rutgers,Arkansas
+240,0.424,0.576,1,1116,1355,Arkansas,S Dakota St,Arkansas
+241,0.488,0.512,1,1116,1361,Arkansas,San Diego St,Arkansas
+242,0.46,0.54,1,1116,1362,Arkansas,San Francisco,Arkansas
+243,0.452,0.548,1,1116,1371,Arkansas,Seton Hall,Arkansas
+244,0.472,0.528,1,1116,1388,Arkansas,St Mary's CA,Arkansas
+245,0.516,0.484,0,1116,1389,Arkansas,St Peter's,St Peter's
+246,0.476,0.524,1,1116,1394,Arkansas,TAM C. Christi,Arkansas
+247,0.504,0.496,0,1116,1395,Arkansas,TCU,TCU
+248,0.62,0.38,0,1116,1397,Arkansas,Tennessee,Tennessee
+249,0.468,0.532,1,1116,1400,Arkansas,Texas,Arkansas
+250,0.44,0.56,1,1116,1403,Arkansas,Texas Tech,Arkansas
+251,0.588,0.412,0,1116,1411,Arkansas,TX Southern,TX Southern
+252,0.52,0.48,0,1116,1412,Arkansas,UAB,UAB
+253,0.464,0.536,1,1116,1417,Arkansas,UCLA,Arkansas
+254,0.404,0.596,1,1116,1425,Arkansas,USC,Arkansas
+255,0.432,0.568,1,1116,1436,Arkansas,Vermont,Arkansas
+256,0.436,0.564,1,1116,1437,Arkansas,Villanova,Arkansas
+257,0.436,0.564,1,1116,1439,Arkansas,Virginia Tech,Arkansas
+258,0.476,0.524,1,1116,1458,Arkansas,Wisconsin,Arkansas
+259,0.456,0.544,1,1116,1460,Arkansas,Wright St,Arkansas
+260,0.46,0.54,1,1116,1461,Arkansas,Wyoming,Arkansas
+261,0.44,0.56,1,1116,1463,Arkansas,Yale,Arkansas
+262,0.664,0.336,0,1120,1124,Auburn,Baylor,Baylor
+263,0.476,0.524,1,1120,1129,Auburn,Boise St,Auburn
+264,0.464,0.536,1,1120,1136,Auburn,Bryant,Auburn
+265,0.496,0.504,1,1120,1151,Auburn,Chattanooga,Auburn
+266,0.556,0.444,0,1120,1159,Auburn,Colgate,Colgate
+267,0.508,0.492,0,1120,1161,Auburn,Colorado St,Colorado St
+268,0.388,0.612,1,1120,1163,Auburn,Connecticut,Auburn
+269,0.436,0.564,1,1120,1166,Auburn,Creighton,Auburn
+270,0.536,0.464,0,1120,1168,Auburn,CS Fullerton,CS Fullerton
+271,0.452,0.548,1,1120,1172,Auburn,Davidson,Auburn
+272,0.604,0.396,0,1120,1174,Auburn,Delaware,Delaware
+273,0.456,0.544,1,1120,1181,Auburn,Duke,Auburn
+274,0.496,0.504,1,1120,1209,Auburn,Georgia St,Auburn
+275,0.436,0.564,1,1120,1211,Auburn,Gonzaga,Auburn
+276,0.52,0.48,0,1120,1222,Auburn,Houston,Houston
+277,0.456,0.544,1,1120,1228,Auburn,Illinois,Auburn
+278,0.544,0.456,0,1120,1231,Auburn,Indiana,Indiana
+279,0.48,0.52,1,1120,1234,Auburn,Iowa,Auburn
+280,0.496,0.504,1,1120,1235,Auburn,Iowa St,Auburn
+281,0.556,0.444,0,1120,1240,Auburn,Jacksonville St,Jacksonville St
+282,0.504,0.496,0,1120,1242,Auburn,Kansas,Kansas
+283,0.456,0.544,1,1120,1246,Auburn,Kentucky,Auburn
+284,0.5,0.5,0,1120,1255,Auburn,Longwood,Longwood
+285,0.464,0.536,1,1120,1260,Auburn,Loyola-Chicago,Auburn
+286,0.536,0.464,0,1120,1261,Auburn,LSU,LSU
+287,0.52,0.48,0,1120,1266,Auburn,Marquette,Marquette
+288,0.52,0.48,0,1120,1272,Auburn,Memphis,Memphis
+289,0.492,0.508,1,1120,1274,Auburn,Miami FL,Auburn
+290,0.488,0.512,1,1120,1276,Auburn,Michigan,Auburn
+291,0.48,0.52,1,1120,1277,Auburn,Michigan St,Auburn
+292,0.556,0.444,0,1120,1286,Auburn,Montana St,Montana St
+293,0.52,0.48,0,1120,1293,Auburn,Murray St,Murray St
+294,0.484,0.516,1,1120,1308,Auburn,New Mexico St,Auburn
+295,0.472,0.528,1,1120,1313,Auburn,Norfolk St,Auburn
+296,0.44,0.56,1,1120,1314,Auburn,North Carolina,Auburn
+297,0.492,0.508,1,1120,1323,Auburn,Notre Dame,Auburn
+298,0.528,0.472,0,1120,1326,Auburn,Ohio St,Ohio St
+299,0.46,0.54,1,1120,1344,Auburn,Providence,Auburn
+300,0.484,0.516,1,1120,1345,Auburn,Purdue,Auburn
+301,0.58,0.42,0,1120,1350,Auburn,Richmond,Richmond
+302,0.504,0.496,0,1120,1353,Auburn,Rutgers,Rutgers
+303,0.516,0.484,0,1120,1355,Auburn,S Dakota St,S Dakota St
+304,0.54,0.46,0,1120,1361,Auburn,San Diego St,San Diego St
+305,0.464,0.536,1,1120,1362,Auburn,San Francisco,Auburn
+306,0.524,0.476,0,1120,1371,Auburn,Seton Hall,Seton Hall
+307,0.488,0.512,1,1120,1388,Auburn,St Mary's CA,Auburn
+308,0.484,0.516,1,1120,1389,Auburn,St Peter's,Auburn
+309,0.46,0.54,1,1120,1394,Auburn,TAM C. Christi,Auburn
+310,0.552,0.448,0,1120,1395,Auburn,TCU,TCU
+311,0.632,0.368,0,1120,1397,Auburn,Tennessee,Tennessee
+312,0.52,0.48,0,1120,1400,Auburn,Texas,Texas
+313,0.56,0.44,0,1120,1403,Auburn,Texas Tech,Texas Tech
+314,0.54,0.46,0,1120,1411,Auburn,TX Southern,TX Southern
+315,0.544,0.456,0,1120,1412,Auburn,UAB,UAB
+316,0.484,0.516,1,1120,1417,Auburn,UCLA,Auburn
+317,0.424,0.576,1,1120,1425,Auburn,USC,Auburn
+318,0.488,0.512,1,1120,1436,Auburn,Vermont,Auburn
+319,0.52,0.48,0,1120,1437,Auburn,Villanova,Villanova
+320,0.476,0.524,1,1120,1439,Auburn,Virginia Tech,Auburn
+321,0.448,0.552,1,1120,1458,Auburn,Wisconsin,Auburn
+322,0.532,0.468,0,1120,1460,Auburn,Wright St,Wright St
+323,0.408,0.592,1,1120,1461,Auburn,Wyoming,Auburn
+324,0.5,0.5,0,1120,1463,Auburn,Yale,Yale
+325,0.52,0.48,0,1124,1129,Baylor,Boise St,Boise St
+326,0.448,0.552,1,1124,1136,Baylor,Bryant,Baylor
+327,0.36,0.64,1,1124,1151,Baylor,Chattanooga,Baylor
+328,0.484,0.516,1,1124,1159,Baylor,Colgate,Baylor
+329,0.44,0.56,1,1124,1161,Baylor,Colorado St,Baylor
+330,0.504,0.496,0,1124,1163,Baylor,Connecticut,Connecticut
+331,0.496,0.504,1,1124,1166,Baylor,Creighton,Baylor
+332,0.448,0.552,1,1124,1168,Baylor,CS Fullerton,Baylor
+333,0.436,0.564,1,1124,1172,Baylor,Davidson,Baylor
+334,0.368,0.632,1,1124,1174,Baylor,Delaware,Baylor
+335,0.436,0.564,1,1124,1181,Baylor,Duke,Baylor
+336,0.456,0.544,1,1124,1209,Baylor,Georgia St,Baylor
+337,0.468,0.532,1,1124,1211,Baylor,Gonzaga,Baylor
+338,0.412,0.588,1,1124,1222,Baylor,Houston,Baylor
+339,0.3,0.7,1,1124,1228,Baylor,Illinois,Baylor
+340,0.572,0.428,0,1124,1231,Baylor,Indiana,Indiana
+341,0.384,0.616,1,1124,1234,Baylor,Iowa,Baylor
+342,0.496,0.504,1,1124,1235,Baylor,Iowa St,Baylor
+343,0.44,0.56,1,1124,1240,Baylor,Jacksonville St,Baylor
+344,0.476,0.524,1,1124,1242,Baylor,Kansas,Baylor
+345,0.408,0.592,1,1124,1246,Baylor,Kentucky,Baylor
+346,0.452,0.548,1,1124,1255,Baylor,Longwood,Baylor
+347,0.512,0.488,0,1124,1260,Baylor,Loyola-Chicago,Loyola-Chicago
+348,0.576,0.424,0,1124,1261,Baylor,LSU,LSU
+349,0.528,0.472,0,1124,1266,Baylor,Marquette,Marquette
+350,0.436,0.564,1,1124,1272,Baylor,Memphis,Baylor
+351,0.404,0.596,1,1124,1274,Baylor,Miami FL,Baylor
+352,0.4,0.6,1,1124,1276,Baylor,Michigan,Baylor
+353,0.492,0.508,1,1124,1277,Baylor,Michigan St,Baylor
+354,0.456,0.544,1,1124,1286,Baylor,Montana St,Baylor
+355,0.396,0.604,1,1124,1293,Baylor,Murray St,Baylor
+356,0.472,0.528,1,1124,1308,Baylor,New Mexico St,Baylor
+357,0.576,0.424,0,1124,1313,Baylor,Norfolk St,Norfolk St
+358,0.444,0.556,1,1124,1314,Baylor,North Carolina,Baylor
+359,0.456,0.544,1,1124,1323,Baylor,Notre Dame,Baylor
+360,0.448,0.552,1,1124,1326,Baylor,Ohio St,Baylor
+361,0.464,0.536,1,1124,1344,Baylor,Providence,Baylor
+362,0.428,0.572,1,1124,1345,Baylor,Purdue,Baylor
+363,0.46,0.54,1,1124,1350,Baylor,Richmond,Baylor
+364,0.392,0.608,1,1124,1353,Baylor,Rutgers,Baylor
+365,0.456,0.544,1,1124,1355,Baylor,S Dakota St,Baylor
+366,0.492,0.508,1,1124,1361,Baylor,San Diego St,Baylor
+367,0.464,0.536,1,1124,1362,Baylor,San Francisco,Baylor
+368,0.456,0.544,1,1124,1371,Baylor,Seton Hall,Baylor
+369,0.408,0.592,1,1124,1388,Baylor,St Mary's CA,Baylor
+370,0.516,0.484,0,1124,1389,Baylor,St Peter's,St Peter's
+371,0.46,0.54,1,1124,1394,Baylor,TAM C. Christi,Baylor
+372,0.44,0.56,1,1124,1395,Baylor,TCU,Baylor
+373,0.464,0.536,1,1124,1397,Baylor,Tennessee,Baylor
+374,0.376,0.624,1,1124,1400,Baylor,Texas,Baylor
+375,0.508,0.492,0,1124,1403,Baylor,Texas Tech,Texas Tech
+376,0.448,0.552,1,1124,1411,Baylor,TX Southern,Baylor
+377,0.368,0.632,1,1124,1412,Baylor,UAB,Baylor
+378,0.432,0.568,1,1124,1417,Baylor,UCLA,Baylor
+379,0.428,0.572,1,1124,1425,Baylor,USC,Baylor
+380,0.428,0.572,1,1124,1436,Baylor,Vermont,Baylor
+381,0.432,0.568,1,1124,1437,Baylor,Villanova,Baylor
+382,0.388,0.612,1,1124,1439,Baylor,Virginia Tech,Baylor
+383,0.452,0.548,1,1124,1458,Baylor,Wisconsin,Baylor
+384,0.488,0.512,1,1124,1460,Baylor,Wright St,Baylor
+385,0.536,0.464,0,1124,1461,Baylor,Wyoming,Wyoming
+386,0.444,0.556,1,1124,1463,Baylor,Yale,Baylor
+387,0.504,0.496,0,1129,1136,Boise St,Bryant,Bryant
+388,0.484,0.516,1,1129,1151,Boise St,Chattanooga,Boise St
+389,0.436,0.564,1,1129,1159,Boise St,Colgate,Boise St
+390,0.496,0.504,1,1129,1161,Boise St,Colorado St,Boise St
+391,0.484,0.516,1,1129,1163,Boise St,Connecticut,Boise St
+392,0.42,0.58,1,1129,1166,Boise St,Creighton,Boise St
+393,0.592,0.408,0,1129,1168,Boise St,CS Fullerton,CS Fullerton
+394,0.512,0.488,0,1129,1172,Boise St,Davidson,Davidson
+395,0.512,0.488,0,1129,1174,Boise St,Delaware,Delaware
+396,0.424,0.576,1,1129,1181,Boise St,Duke,Boise St
+397,0.42,0.58,1,1129,1209,Boise St,Georgia St,Boise St
+398,0.428,0.572,1,1129,1211,Boise St,Gonzaga,Boise St
+399,0.5,0.5,0,1129,1222,Boise St,Houston,Houston
+400,0.444,0.556,1,1129,1228,Boise St,Illinois,Boise St
+401,0.572,0.428,0,1129,1231,Boise St,Indiana,Indiana
+402,0.536,0.464,0,1129,1234,Boise St,Iowa,Iowa
+403,0.564,0.436,0,1129,1235,Boise St,Iowa St,Iowa St
+404,0.444,0.556,1,1129,1240,Boise St,Jacksonville St,Boise St
+405,0.492,0.508,1,1129,1242,Boise St,Kansas,Boise St
+406,0.46,0.54,1,1129,1246,Boise St,Kentucky,Boise St
+407,0.54,0.46,0,1129,1255,Boise St,Longwood,Longwood
+408,0.448,0.552,1,1129,1260,Boise St,Loyola-Chicago,Boise St
+409,0.46,0.54,1,1129,1261,Boise St,LSU,Boise St
+410,0.48,0.52,1,1129,1266,Boise St,Marquette,Boise St
+411,0.536,0.464,0,1129,1272,Boise St,Memphis,Memphis
+412,0.564,0.436,0,1129,1274,Boise St,Miami FL,Miami FL
+413,0.424,0.576,1,1129,1276,Boise St,Michigan,Boise St
+414,0.452,0.548,1,1129,1277,Boise St,Michigan St,Boise St
+415,0.488,0.512,1,1129,1286,Boise St,Montana St,Boise St
+416,0.484,0.516,1,1129,1293,Boise St,Murray St,Boise St
+417,0.408,0.592,1,1129,1308,Boise St,New Mexico St,Boise St
+418,0.58,0.42,0,1129,1313,Boise St,Norfolk St,Norfolk St
+419,0.48,0.52,1,1129,1314,Boise St,North Carolina,Boise St
+420,0.492,0.508,1,1129,1323,Boise St,Notre Dame,Boise St
+421,0.456,0.544,1,1129,1326,Boise St,Ohio St,Boise St
+422,0.376,0.624,1,1129,1344,Boise St,Providence,Boise St
+423,0.408,0.592,1,1129,1345,Boise St,Purdue,Boise St
+424,0.488,0.512,1,1129,1350,Boise St,Richmond,Boise St
+425,0.452,0.548,1,1129,1353,Boise St,Rutgers,Boise St
+426,0.46,0.54,1,1129,1355,Boise St,S Dakota St,Boise St
+427,0.564,0.436,0,1129,1361,Boise St,San Diego St,San Diego St
+428,0.5,0.5,0,1129,1362,Boise St,San Francisco,San Francisco
+429,0.4,0.6,1,1129,1371,Boise St,Seton Hall,Boise St
+430,0.52,0.48,0,1129,1388,Boise St,St Mary's CA,St Mary's CA
+431,0.472,0.528,1,1129,1389,Boise St,St Peter's,Boise St
+432,0.464,0.536,1,1129,1394,Boise St,TAM C. Christi,Boise St
+433,0.524,0.476,0,1129,1395,Boise St,TCU,TCU
+434,0.504,0.496,0,1129,1397,Boise St,Tennessee,Tennessee
+435,0.512,0.488,0,1129,1400,Boise St,Texas,Texas
+436,0.548,0.452,0,1129,1403,Boise St,Texas Tech,Texas Tech
+437,0.464,0.536,1,1129,1411,Boise St,TX Southern,Boise St
+438,0.516,0.484,0,1129,1412,Boise St,UAB,UAB
+439,0.5,0.5,0,1129,1417,Boise St,UCLA,UCLA
+440,0.52,0.48,0,1129,1425,Boise St,USC,USC
+441,0.492,0.508,1,1129,1436,Boise St,Vermont,Boise St
+442,0.568,0.432,0,1129,1437,Boise St,Villanova,Villanova
+443,0.48,0.52,1,1129,1439,Boise St,Virginia Tech,Boise St
+444,0.376,0.624,1,1129,1458,Boise St,Wisconsin,Boise St
+445,0.452,0.548,1,1129,1460,Boise St,Wright St,Boise St
+446,0.496,0.504,1,1129,1461,Boise St,Wyoming,Boise St
+447,0.464,0.536,1,1129,1463,Boise St,Yale,Boise St
+448,0.572,0.428,0,1136,1151,Bryant,Chattanooga,Chattanooga
+449,0.444,0.556,1,1136,1159,Bryant,Colgate,Bryant
+450,0.616,0.384,0,1136,1161,Bryant,Colorado St,Colorado St
+451,0.564,0.436,0,1136,1163,Bryant,Connecticut,Connecticut
+452,0.588,0.412,0,1136,1166,Bryant,Creighton,Creighton
+453,0.428,0.572,1,1136,1168,Bryant,CS Fullerton,Bryant
+454,0.576,0.424,0,1136,1172,Bryant,Davidson,Davidson
+455,0.484,0.516,1,1136,1174,Bryant,Delaware,Bryant
+456,0.552,0.448,0,1136,1181,Bryant,Duke,Duke
+457,0.556,0.444,0,1136,1209,Bryant,Georgia St,Georgia St
+458,0.616,0.384,0,1136,1211,Bryant,Gonzaga,Gonzaga
+459,0.568,0.432,0,1136,1222,Bryant,Houston,Houston
+460,0.576,0.424,0,1136,1228,Bryant,Illinois,Illinois
+461,0.624,0.376,0,1136,1231,Bryant,Indiana,Indiana
+462,0.516,0.484,0,1136,1234,Bryant,Iowa,Iowa
+463,0.56,0.44,0,1136,1235,Bryant,Iowa St,Iowa St
+464,0.508,0.492,0,1136,1240,Bryant,Jacksonville St,Jacksonville St
+465,0.544,0.456,0,1136,1242,Bryant,Kansas,Kansas
+466,0.572,0.428,0,1136,1246,Bryant,Kentucky,Kentucky
+467,0.524,0.476,0,1136,1255,Bryant,Longwood,Longwood
+468,0.544,0.456,0,1136,1260,Bryant,Loyola-Chicago,Loyola-Chicago
+469,0.468,0.532,1,1136,1261,Bryant,LSU,Bryant
+470,0.644,0.356,0,1136,1266,Bryant,Marquette,Marquette
+471,0.6,0.4,0,1136,1272,Bryant,Memphis,Memphis
+472,0.588,0.412,0,1136,1274,Bryant,Miami FL,Miami FL
+473,0.556,0.444,0,1136,1276,Bryant,Michigan,Michigan
+474,0.652,0.348,0,1136,1277,Bryant,Michigan St,Michigan St
+475,0.448,0.552,1,1136,1286,Bryant,Montana St,Bryant
+476,0.556,0.444,0,1136,1293,Bryant,Murray St,Murray St
+477,0.536,0.464,0,1136,1308,Bryant,New Mexico St,New Mexico St
+478,0.492,0.508,1,1136,1313,Bryant,Norfolk St,Bryant
+479,0.568,0.432,0,1136,1314,Bryant,North Carolina,North Carolina
+480,0.58,0.42,0,1136,1323,Bryant,Notre Dame,Notre Dame
+481,0.556,0.444,0,1136,1326,Bryant,Ohio St,Ohio St
+482,0.584,0.416,0,1136,1344,Bryant,Providence,Providence
+483,0.56,0.44,0,1136,1345,Bryant,Purdue,Purdue
+484,0.584,0.416,0,1136,1350,Bryant,Richmond,Richmond
+485,0.54,0.46,0,1136,1353,Bryant,Rutgers,Rutgers
+486,0.616,0.384,0,1136,1355,Bryant,S Dakota St,S Dakota St
+487,0.584,0.416,0,1136,1361,Bryant,San Diego St,San Diego St
+488,0.624,0.376,0,1136,1362,Bryant,San Francisco,San Francisco
+489,0.504,0.496,0,1136,1371,Bryant,Seton Hall,Seton Hall
+490,0.604,0.396,0,1136,1388,Bryant,St Mary's CA,St Mary's CA
+491,0.58,0.42,0,1136,1389,Bryant,St Peter's,St Peter's
+492,0.52,0.48,0,1136,1394,Bryant,TAM C. Christi,TAM C. Christi
+493,0.564,0.436,0,1136,1395,Bryant,TCU,TCU
+494,0.6,0.4,0,1136,1397,Bryant,Tennessee,Tennessee
+495,0.576,0.424,0,1136,1400,Bryant,Texas,Texas
+496,0.612,0.388,0,1136,1403,Bryant,Texas Tech,Texas Tech
+497,0.488,0.512,1,1136,1411,Bryant,TX Southern,Bryant
+498,0.5,0.5,0,1136,1412,Bryant,UAB,UAB
+499,0.504,0.496,0,1136,1417,Bryant,UCLA,UCLA
+500,0.528,0.472,0,1136,1425,Bryant,USC,USC
+501,0.536,0.464,0,1136,1436,Bryant,Vermont,Vermont
+502,0.596,0.404,0,1136,1437,Bryant,Villanova,Villanova
+503,0.544,0.456,0,1136,1439,Bryant,Virginia Tech,Virginia Tech
+504,0.576,0.424,0,1136,1458,Bryant,Wisconsin,Wisconsin
+505,0.452,0.548,1,1136,1460,Bryant,Wright St,Bryant
+506,0.616,0.384,0,1136,1461,Bryant,Wyoming,Wyoming
+507,0.504,0.496,0,1136,1463,Bryant,Yale,Yale
+508,0.444,0.556,1,1151,1159,Chattanooga,Colgate,Chattanooga
+509,0.492,0.508,1,1151,1161,Chattanooga,Colorado St,Chattanooga
+510,0.44,0.56,1,1151,1163,Chattanooga,Connecticut,Chattanooga
+511,0.456,0.544,1,1151,1166,Chattanooga,Creighton,Chattanooga
+512,0.456,0.544,1,1151,1168,Chattanooga,CS Fullerton,Chattanooga
+513,0.48,0.52,1,1151,1172,Chattanooga,Davidson,Chattanooga
+514,0.38,0.62,1,1151,1174,Chattanooga,Delaware,Chattanooga
+515,0.476,0.524,1,1151,1181,Chattanooga,Duke,Chattanooga
+516,0.496,0.504,1,1151,1209,Chattanooga,Georgia St,Chattanooga
+517,0.416,0.584,1,1151,1211,Chattanooga,Gonzaga,Chattanooga
+518,0.476,0.524,1,1151,1222,Chattanooga,Houston,Chattanooga
+519,0.456,0.544,1,1151,1228,Chattanooga,Illinois,Chattanooga
+520,0.512,0.488,0,1151,1231,Chattanooga,Indiana,Indiana
+521,0.5,0.5,0,1151,1234,Chattanooga,Iowa,Iowa
+522,0.456,0.544,1,1151,1235,Chattanooga,Iowa St,Chattanooga
+523,0.44,0.56,1,1151,1240,Chattanooga,Jacksonville St,Chattanooga
+524,0.512,0.488,0,1151,1242,Chattanooga,Kansas,Kansas
+525,0.468,0.532,1,1151,1246,Chattanooga,Kentucky,Chattanooga
+526,0.476,0.524,1,1151,1255,Chattanooga,Longwood,Chattanooga
+527,0.46,0.54,1,1151,1260,Chattanooga,Loyola-Chicago,Chattanooga
+528,0.432,0.568,1,1151,1261,Chattanooga,LSU,Chattanooga
+529,0.568,0.432,0,1151,1266,Chattanooga,Marquette,Marquette
+530,0.528,0.472,0,1151,1272,Chattanooga,Memphis,Memphis
+531,0.54,0.46,0,1151,1274,Chattanooga,Miami FL,Miami FL
+532,0.444,0.556,1,1151,1276,Chattanooga,Michigan,Chattanooga
+533,0.532,0.468,0,1151,1277,Chattanooga,Michigan St,Michigan St
+534,0.484,0.516,1,1151,1286,Chattanooga,Montana St,Chattanooga
+535,0.568,0.432,0,1151,1293,Chattanooga,Murray St,Murray St
+536,0.436,0.564,1,1151,1308,Chattanooga,New Mexico St,Chattanooga
+537,0.476,0.524,1,1151,1313,Chattanooga,Norfolk St,Chattanooga
+538,0.416,0.584,1,1151,1314,Chattanooga,North Carolina,Chattanooga
+539,0.528,0.472,0,1151,1323,Chattanooga,Notre Dame,Notre Dame
+540,0.484,0.516,1,1151,1326,Chattanooga,Ohio St,Chattanooga
+541,0.428,0.572,1,1151,1344,Chattanooga,Providence,Chattanooga
+542,0.408,0.592,1,1151,1345,Chattanooga,Purdue,Chattanooga
+543,0.592,0.408,0,1151,1350,Chattanooga,Richmond,Richmond
+544,0.536,0.464,0,1151,1353,Chattanooga,Rutgers,Rutgers
+545,0.512,0.488,0,1151,1355,Chattanooga,S Dakota St,S Dakota St
+546,0.528,0.472,0,1151,1361,Chattanooga,San Diego St,San Diego St
+547,0.52,0.48,0,1151,1362,Chattanooga,San Francisco,San Francisco
+548,0.504,0.496,0,1151,1371,Chattanooga,Seton Hall,Seton Hall
+549,0.496,0.504,1,1151,1388,Chattanooga,St Mary's CA,Chattanooga
+550,0.504,0.496,0,1151,1389,Chattanooga,St Peter's,St Peter's
+551,0.432,0.568,1,1151,1394,Chattanooga,TAM C. Christi,Chattanooga
+552,0.556,0.444,0,1151,1395,Chattanooga,TCU,TCU
+553,0.484,0.516,1,1151,1397,Chattanooga,Tennessee,Chattanooga
+554,0.448,0.552,1,1151,1400,Chattanooga,Texas,Chattanooga
+555,0.44,0.56,1,1151,1403,Chattanooga,Texas Tech,Chattanooga
+556,0.46,0.54,1,1151,1411,Chattanooga,TX Southern,Chattanooga
+557,0.488,0.512,1,1151,1412,Chattanooga,UAB,Chattanooga
+558,0.464,0.536,1,1151,1417,Chattanooga,UCLA,Chattanooga
+559,0.452,0.548,1,1151,1425,Chattanooga,USC,Chattanooga
+560,0.492,0.508,1,1151,1436,Chattanooga,Vermont,Chattanooga
+561,0.524,0.476,0,1151,1437,Chattanooga,Villanova,Villanova
+562,0.44,0.56,1,1151,1439,Chattanooga,Virginia Tech,Chattanooga
+563,0.436,0.564,1,1151,1458,Chattanooga,Wisconsin,Chattanooga
+564,0.424,0.576,1,1151,1460,Chattanooga,Wright St,Chattanooga
+565,0.404,0.596,1,1151,1461,Chattanooga,Wyoming,Chattanooga
+566,0.524,0.476,0,1151,1463,Chattanooga,Yale,Yale
+567,0.616,0.384,0,1159,1161,Colgate,Colorado St,Colorado St
+568,0.588,0.412,0,1159,1163,Colgate,Connecticut,Connecticut
+569,0.532,0.468,0,1159,1166,Colgate,Creighton,Creighton
+570,0.456,0.544,1,1159,1168,Colgate,CS Fullerton,Colgate
+571,0.508,0.492,0,1159,1172,Colgate,Davidson,Davidson
+572,0.36,0.64,1,1159,1174,Colgate,Delaware,Colgate
+573,0.48,0.52,1,1159,1181,Colgate,Duke,Colgate
+574,0.548,0.452,0,1159,1209,Colgate,Georgia St,Georgia St
+575,0.528,0.472,0,1159,1211,Colgate,Gonzaga,Gonzaga
+576,0.488,0.512,1,1159,1222,Colgate,Houston,Colgate
+577,0.54,0.46,0,1159,1228,Colgate,Illinois,Illinois
+578,0.46,0.54,1,1159,1231,Colgate,Indiana,Colgate
+579,0.504,0.496,0,1159,1234,Colgate,Iowa,Iowa
+580,0.576,0.424,0,1159,1235,Colgate,Iowa St,Iowa St
+581,0.412,0.588,1,1159,1240,Colgate,Jacksonville St,Colgate
+582,0.556,0.444,0,1159,1242,Colgate,Kansas,Kansas
+583,0.48,0.52,1,1159,1246,Colgate,Kentucky,Colgate
+584,0.508,0.492,0,1159,1255,Colgate,Longwood,Longwood
+585,0.564,0.436,0,1159,1260,Colgate,Loyola-Chicago,Loyola-Chicago
+586,0.516,0.484,0,1159,1261,Colgate,LSU,LSU
+587,0.512,0.488,0,1159,1266,Colgate,Marquette,Marquette
+588,0.508,0.492,0,1159,1272,Colgate,Memphis,Memphis
+589,0.532,0.468,0,1159,1274,Colgate,Miami FL,Miami FL
+590,0.472,0.528,1,1159,1276,Colgate,Michigan,Colgate
+591,0.516,0.484,0,1159,1277,Colgate,Michigan St,Michigan St
+592,0.376,0.624,1,1159,1286,Colgate,Montana St,Colgate
+593,0.416,0.584,1,1159,1293,Colgate,Murray St,Colgate
+594,0.448,0.552,1,1159,1308,Colgate,New Mexico St,Colgate
+595,0.536,0.464,0,1159,1313,Colgate,Norfolk St,Norfolk St
+596,0.512,0.488,0,1159,1314,Colgate,North Carolina,North Carolina
+597,0.484,0.516,1,1159,1323,Colgate,Notre Dame,Colgate
+598,0.58,0.42,0,1159,1326,Colgate,Ohio St,Ohio St
+599,0.524,0.476,0,1159,1344,Colgate,Providence,Providence
+600,0.508,0.492,0,1159,1345,Colgate,Purdue,Purdue
+601,0.496,0.504,1,1159,1350,Colgate,Richmond,Colgate
+602,0.448,0.552,1,1159,1353,Colgate,Rutgers,Colgate
+603,0.48,0.52,1,1159,1355,Colgate,S Dakota St,Colgate
+604,0.54,0.46,0,1159,1361,Colgate,San Diego St,San Diego St
+605,0.584,0.416,0,1159,1362,Colgate,San Francisco,San Francisco
+606,0.404,0.596,1,1159,1371,Colgate,Seton Hall,Colgate
+607,0.472,0.528,1,1159,1388,Colgate,St Mary's CA,Colgate
+608,0.556,0.444,0,1159,1389,Colgate,St Peter's,St Peter's
+609,0.488,0.512,1,1159,1394,Colgate,TAM C. Christi,Colgate
+610,0.524,0.476,0,1159,1395,Colgate,TCU,TCU
+611,0.624,0.376,0,1159,1397,Colgate,Tennessee,Tennessee
+612,0.564,0.436,0,1159,1400,Colgate,Texas,Texas
+613,0.564,0.436,0,1159,1403,Colgate,Texas Tech,Texas Tech
+614,0.552,0.448,0,1159,1411,Colgate,TX Southern,TX Southern
+615,0.6,0.4,0,1159,1412,Colgate,UAB,UAB
+616,0.624,0.376,0,1159,1417,Colgate,UCLA,UCLA
+617,0.48,0.52,1,1159,1425,Colgate,USC,Colgate
+618,0.452,0.548,1,1159,1436,Colgate,Vermont,Colgate
+619,0.496,0.504,1,1159,1437,Colgate,Villanova,Colgate
+620,0.46,0.54,1,1159,1439,Colgate,Virginia Tech,Colgate
+621,0.576,0.424,0,1159,1458,Colgate,Wisconsin,Wisconsin
+622,0.388,0.612,1,1159,1460,Colgate,Wright St,Colgate
+623,0.508,0.492,0,1159,1461,Colgate,Wyoming,Wyoming
+624,0.436,0.564,1,1159,1463,Colgate,Yale,Colgate
+625,0.584,0.416,0,1161,1163,Colorado St,Connecticut,Connecticut
+626,0.444,0.556,1,1161,1166,Colorado St,Creighton,Colorado St
+627,0.48,0.52,1,1161,1168,Colorado St,CS Fullerton,Colorado St
+628,0.452,0.548,1,1161,1172,Colorado St,Davidson,Colorado St
+629,0.472,0.528,1,1161,1174,Colorado St,Delaware,Colorado St
+630,0.464,0.536,1,1161,1181,Colorado St,Duke,Colorado St
+631,0.652,0.348,0,1161,1209,Colorado St,Georgia St,Georgia St
+632,0.508,0.492,0,1161,1211,Colorado St,Gonzaga,Gonzaga
+633,0.496,0.504,1,1161,1222,Colorado St,Houston,Colorado St
+634,0.496,0.504,1,1161,1228,Colorado St,Illinois,Colorado St
+635,0.488,0.512,1,1161,1231,Colorado St,Indiana,Colorado St
+636,0.5,0.5,0,1161,1234,Colorado St,Iowa,Iowa
+637,0.488,0.512,1,1161,1235,Colorado St,Iowa St,Colorado St
+638,0.48,0.52,1,1161,1240,Colorado St,Jacksonville St,Colorado St
+639,0.456,0.544,1,1161,1242,Colorado St,Kansas,Colorado St
+640,0.504,0.496,0,1161,1246,Colorado St,Kentucky,Kentucky
+641,0.588,0.412,0,1161,1255,Colorado St,Longwood,Longwood
+642,0.372,0.628,1,1161,1260,Colorado St,Loyola-Chicago,Colorado St
+643,0.524,0.476,0,1161,1261,Colorado St,LSU,LSU
+644,0.544,0.456,0,1161,1266,Colorado St,Marquette,Marquette
+645,0.528,0.472,0,1161,1272,Colorado St,Memphis,Memphis
+646,0.552,0.448,0,1161,1274,Colorado St,Miami FL,Miami FL
+647,0.484,0.516,1,1161,1276,Colorado St,Michigan,Colorado St
+648,0.416,0.584,1,1161,1277,Colorado St,Michigan St,Colorado St
+649,0.472,0.528,1,1161,1286,Colorado St,Montana St,Colorado St
+650,0.476,0.524,1,1161,1293,Colorado St,Murray St,Colorado St
+651,0.424,0.576,1,1161,1308,Colorado St,New Mexico St,Colorado St
+652,0.596,0.404,0,1161,1313,Colorado St,Norfolk St,Norfolk St
+653,0.424,0.576,1,1161,1314,Colorado St,North Carolina,Colorado St
+654,0.424,0.576,1,1161,1323,Colorado St,Notre Dame,Colorado St
+655,0.448,0.552,1,1161,1326,Colorado St,Ohio St,Colorado St
+656,0.476,0.524,1,1161,1344,Colorado St,Providence,Colorado St
+657,0.5,0.5,0,1161,1345,Colorado St,Purdue,Purdue
+658,0.556,0.444,0,1161,1350,Colorado St,Richmond,Richmond
+659,0.6,0.4,0,1161,1353,Colorado St,Rutgers,Rutgers
+660,0.448,0.552,1,1161,1355,Colorado St,S Dakota St,Colorado St
+661,0.572,0.428,0,1161,1361,Colorado St,San Diego St,San Diego St
+662,0.56,0.44,0,1161,1362,Colorado St,San Francisco,San Francisco
+663,0.512,0.488,0,1161,1371,Colorado St,Seton Hall,Seton Hall
+664,0.488,0.512,1,1161,1388,Colorado St,St Mary's CA,Colorado St
+665,0.524,0.476,0,1161,1389,Colorado St,St Peter's,St Peter's
+666,0.5,0.5,0,1161,1394,Colorado St,TAM C. Christi,TAM C. Christi
+667,0.6,0.4,0,1161,1395,Colorado St,TCU,TCU
+668,0.424,0.576,1,1161,1397,Colorado St,Tennessee,Colorado St
+669,0.54,0.46,0,1161,1400,Colorado St,Texas,Texas
+670,0.492,0.508,1,1161,1403,Colorado St,Texas Tech,Colorado St
+671,0.604,0.396,0,1161,1411,Colorado St,TX Southern,TX Southern
+672,0.532,0.468,0,1161,1412,Colorado St,UAB,UAB
+673,0.584,0.416,0,1161,1417,Colorado St,UCLA,UCLA
+674,0.572,0.428,0,1161,1425,Colorado St,USC,USC
+675,0.412,0.588,1,1161,1436,Colorado St,Vermont,Colorado St
+676,0.452,0.548,1,1161,1437,Colorado St,Villanova,Colorado St
+677,0.48,0.52,1,1161,1439,Colorado St,Virginia Tech,Colorado St
+678,0.54,0.46,0,1161,1458,Colorado St,Wisconsin,Wisconsin
+679,0.42,0.58,1,1161,1460,Colorado St,Wright St,Colorado St
+680,0.432,0.568,1,1161,1461,Colorado St,Wyoming,Colorado St
+681,0.444,0.556,1,1161,1463,Colorado St,Yale,Colorado St
+682,0.532,0.468,0,1163,1166,Connecticut,Creighton,Creighton
+683,0.552,0.448,0,1163,1168,Connecticut,CS Fullerton,CS Fullerton
+684,0.52,0.48,0,1163,1172,Connecticut,Davidson,Davidson
+685,0.592,0.408,0,1163,1174,Connecticut,Delaware,Delaware
+686,0.472,0.528,1,1163,1181,Connecticut,Duke,Connecticut
+687,0.632,0.368,0,1163,1209,Connecticut,Georgia St,Georgia St
+688,0.516,0.484,0,1163,1211,Connecticut,Gonzaga,Gonzaga
+689,0.48,0.52,1,1163,1222,Connecticut,Houston,Connecticut
+690,0.476,0.524,1,1163,1228,Connecticut,Illinois,Connecticut
+691,0.58,0.42,0,1163,1231,Connecticut,Indiana,Indiana
+692,0.628,0.372,0,1163,1234,Connecticut,Iowa,Iowa
+693,0.6,0.4,0,1163,1235,Connecticut,Iowa St,Iowa St
+694,0.588,0.412,0,1163,1240,Connecticut,Jacksonville St,Jacksonville St
+695,0.564,0.436,0,1163,1242,Connecticut,Kansas,Kansas
+696,0.504,0.496,0,1163,1246,Connecticut,Kentucky,Kentucky
+697,0.584,0.416,0,1163,1255,Connecticut,Longwood,Longwood
+698,0.5,0.5,0,1163,1260,Connecticut,Loyola-Chicago,Loyola-Chicago
+699,0.492,0.508,1,1163,1261,Connecticut,LSU,Connecticut
+700,0.644,0.356,0,1163,1266,Connecticut,Marquette,Marquette
+701,0.532,0.468,0,1163,1272,Connecticut,Memphis,Memphis
+702,0.512,0.488,0,1163,1274,Connecticut,Miami FL,Miami FL
+703,0.496,0.504,1,1163,1276,Connecticut,Michigan,Connecticut
+704,0.444,0.556,1,1163,1277,Connecticut,Michigan St,Connecticut
+705,0.552,0.448,0,1163,1286,Connecticut,Montana St,Montana St
+706,0.544,0.456,0,1163,1293,Connecticut,Murray St,Murray St
+707,0.572,0.428,0,1163,1308,Connecticut,New Mexico St,New Mexico St
+708,0.648,0.352,0,1163,1313,Connecticut,Norfolk St,Norfolk St
+709,0.512,0.488,0,1163,1314,Connecticut,North Carolina,North Carolina
+710,0.496,0.504,1,1163,1323,Connecticut,Notre Dame,Connecticut
+711,0.512,0.488,0,1163,1326,Connecticut,Ohio St,Ohio St
+712,0.524,0.476,0,1163,1344,Connecticut,Providence,Providence
+713,0.428,0.572,1,1163,1345,Connecticut,Purdue,Connecticut
+714,0.552,0.448,0,1163,1350,Connecticut,Richmond,Richmond
+715,0.66,0.34,0,1163,1353,Connecticut,Rutgers,Rutgers
+716,0.476,0.524,1,1163,1355,Connecticut,S Dakota St,Connecticut
+717,0.62,0.38,0,1163,1361,Connecticut,San Diego St,San Diego St
+718,0.616,0.384,0,1163,1362,Connecticut,San Francisco,San Francisco
+719,0.48,0.52,1,1163,1371,Connecticut,Seton Hall,Connecticut
+720,0.596,0.404,0,1163,1388,Connecticut,St Mary's CA,St Mary's CA
+721,0.62,0.38,0,1163,1389,Connecticut,St Peter's,St Peter's
+722,0.504,0.496,0,1163,1394,Connecticut,TAM C. Christi,TAM C. Christi
+723,0.572,0.428,0,1163,1395,Connecticut,TCU,TCU
+724,0.66,0.34,0,1163,1397,Connecticut,Tennessee,Tennessee
+725,0.596,0.404,0,1163,1400,Connecticut,Texas,Texas
+726,0.58,0.42,0,1163,1403,Connecticut,Texas Tech,Texas Tech
+727,0.524,0.476,0,1163,1411,Connecticut,TX Southern,TX Southern
+728,0.56,0.44,0,1163,1412,Connecticut,UAB,UAB
+729,0.552,0.448,0,1163,1417,Connecticut,UCLA,UCLA
+730,0.504,0.496,0,1163,1425,Connecticut,USC,USC
+731,0.468,0.532,1,1163,1436,Connecticut,Vermont,Connecticut
+732,0.504,0.496,0,1163,1437,Connecticut,Villanova,Villanova
+733,0.508,0.492,0,1163,1439,Connecticut,Virginia Tech,Virginia Tech
+734,0.504,0.496,0,1163,1458,Connecticut,Wisconsin,Wisconsin
+735,0.592,0.408,0,1163,1460,Connecticut,Wright St,Wright St
+736,0.54,0.46,0,1163,1461,Connecticut,Wyoming,Wyoming
+737,0.636,0.364,0,1163,1463,Connecticut,Yale,Yale
+738,0.54,0.46,0,1166,1168,Creighton,CS Fullerton,CS Fullerton
+739,0.488,0.512,1,1166,1172,Creighton,Davidson,Creighton
+740,0.468,0.532,1,1166,1174,Creighton,Delaware,Creighton
+741,0.52,0.48,0,1166,1181,Creighton,Duke,Duke
+742,0.532,0.468,0,1166,1209,Creighton,Georgia St,Georgia St
+743,0.392,0.608,1,1166,1211,Creighton,Gonzaga,Creighton
+744,0.524,0.476,0,1166,1222,Creighton,Houston,Houston
+745,0.472,0.528,1,1166,1228,Creighton,Illinois,Creighton
+746,0.584,0.416,0,1166,1231,Creighton,Indiana,Indiana
+747,0.46,0.54,1,1166,1234,Creighton,Iowa,Creighton
+748,0.52,0.48,0,1166,1235,Creighton,Iowa St,Iowa St
+749,0.544,0.456,0,1166,1240,Creighton,Jacksonville St,Jacksonville St
+750,0.472,0.528,1,1166,1242,Creighton,Kansas,Creighton
+751,0.472,0.528,1,1166,1246,Creighton,Kentucky,Creighton
+752,0.444,0.556,1,1166,1255,Creighton,Longwood,Creighton
+753,0.528,0.472,0,1166,1260,Creighton,Loyola-Chicago,Loyola-Chicago
+754,0.552,0.448,0,1166,1261,Creighton,LSU,LSU
+755,0.576,0.424,0,1166,1266,Creighton,Marquette,Marquette
+756,0.488,0.512,1,1166,1272,Creighton,Memphis,Creighton
+757,0.532,0.468,0,1166,1274,Creighton,Miami FL,Miami FL
+758,0.464,0.536,1,1166,1276,Creighton,Michigan,Creighton
+759,0.48,0.52,1,1166,1277,Creighton,Michigan St,Creighton
+760,0.56,0.44,0,1166,1286,Creighton,Montana St,Montana St
+761,0.568,0.432,0,1166,1293,Creighton,Murray St,Murray St
+762,0.528,0.472,0,1166,1308,Creighton,New Mexico St,New Mexico St
+763,0.592,0.408,0,1166,1313,Creighton,Norfolk St,Norfolk St
+764,0.496,0.504,1,1166,1314,Creighton,North Carolina,Creighton
+765,0.56,0.44,0,1166,1323,Creighton,Notre Dame,Notre Dame
+766,0.492,0.508,1,1166,1326,Creighton,Ohio St,Creighton
+767,0.504,0.496,0,1166,1344,Creighton,Providence,Providence
+768,0.472,0.528,1,1166,1345,Creighton,Purdue,Creighton
+769,0.536,0.464,0,1166,1350,Creighton,Richmond,Richmond
+770,0.524,0.476,0,1166,1353,Creighton,Rutgers,Rutgers
+771,0.468,0.532,1,1166,1355,Creighton,S Dakota St,Creighton
+772,0.5,0.5,0,1166,1361,Creighton,San Diego St,San Diego St
+773,0.576,0.424,0,1166,1362,Creighton,San Francisco,San Francisco
+774,0.52,0.48,0,1166,1371,Creighton,Seton Hall,Seton Hall
+775,0.532,0.468,0,1166,1388,Creighton,St Mary's CA,St Mary's CA
+776,0.52,0.48,0,1166,1389,Creighton,St Peter's,St Peter's
+777,0.532,0.468,0,1166,1394,Creighton,TAM C. Christi,TAM C. Christi
+778,0.496,0.504,1,1166,1395,Creighton,TCU,Creighton
+779,0.504,0.496,0,1166,1397,Creighton,Tennessee,Tennessee
+780,0.516,0.484,0,1166,1400,Creighton,Texas,Texas
+781,0.528,0.472,0,1166,1403,Creighton,Texas Tech,Texas Tech
+782,0.536,0.464,0,1166,1411,Creighton,TX Southern,TX Southern
+783,0.608,0.392,0,1166,1412,Creighton,UAB,UAB
+784,0.488,0.512,1,1166,1417,Creighton,UCLA,Creighton
+785,0.504,0.496,0,1166,1425,Creighton,USC,USC
+786,0.508,0.492,0,1166,1436,Creighton,Vermont,Vermont
+787,0.46,0.54,1,1166,1437,Creighton,Villanova,Creighton
+788,0.484,0.516,1,1166,1439,Creighton,Virginia Tech,Creighton
+789,0.436,0.564,1,1166,1458,Creighton,Wisconsin,Creighton
+790,0.528,0.472,0,1166,1460,Creighton,Wright St,Wright St
+791,0.412,0.588,1,1166,1461,Creighton,Wyoming,Creighton
+792,0.56,0.44,0,1166,1463,Creighton,Yale,Yale
+793,0.44,0.56,1,1168,1172,CS Fullerton,Davidson,CS Fullerton
+794,0.468,0.532,1,1168,1174,CS Fullerton,Delaware,CS Fullerton
+795,0.516,0.484,0,1168,1181,CS Fullerton,Duke,Duke
+796,0.508,0.492,0,1168,1209,CS Fullerton,Georgia St,Georgia St
+797,0.524,0.476,0,1168,1211,CS Fullerton,Gonzaga,Gonzaga
+798,0.536,0.464,0,1168,1222,CS Fullerton,Houston,Houston
+799,0.52,0.48,0,1168,1228,CS Fullerton,Illinois,Illinois
+800,0.52,0.48,0,1168,1231,CS Fullerton,Indiana,Indiana
+801,0.548,0.452,0,1168,1234,CS Fullerton,Iowa,Iowa
+802,0.616,0.384,0,1168,1235,CS Fullerton,Iowa St,Iowa St
+803,0.496,0.504,1,1168,1240,CS Fullerton,Jacksonville St,CS Fullerton
+804,0.572,0.428,0,1168,1242,CS Fullerton,Kansas,Kansas
+805,0.54,0.46,0,1168,1246,CS Fullerton,Kentucky,Kentucky
+806,0.56,0.44,0,1168,1255,CS Fullerton,Longwood,Longwood
+807,0.54,0.46,0,1168,1260,CS Fullerton,Loyola-Chicago,Loyola-Chicago
+808,0.444,0.556,1,1168,1261,CS Fullerton,LSU,CS Fullerton
+809,0.608,0.392,0,1168,1266,CS Fullerton,Marquette,Marquette
+810,0.52,0.48,0,1168,1272,CS Fullerton,Memphis,Memphis
+811,0.508,0.492,0,1168,1274,CS Fullerton,Miami FL,Miami FL
+812,0.552,0.448,0,1168,1276,CS Fullerton,Michigan,Michigan
+813,0.512,0.488,0,1168,1277,CS Fullerton,Michigan St,Michigan St
+814,0.464,0.536,1,1168,1286,CS Fullerton,Montana St,CS Fullerton
+815,0.512,0.488,0,1168,1293,CS Fullerton,Murray St,Murray St
+816,0.472,0.528,1,1168,1308,CS Fullerton,New Mexico St,CS Fullerton
+817,0.512,0.488,0,1168,1313,CS Fullerton,Norfolk St,Norfolk St
+818,0.52,0.48,0,1168,1314,CS Fullerton,North Carolina,North Carolina
+819,0.464,0.536,1,1168,1323,CS Fullerton,Notre Dame,CS Fullerton
+820,0.548,0.452,0,1168,1326,CS Fullerton,Ohio St,Ohio St
+821,0.484,0.516,1,1168,1344,CS Fullerton,Providence,CS Fullerton
+822,0.468,0.532,1,1168,1345,CS Fullerton,Purdue,CS Fullerton
+823,0.536,0.464,0,1168,1350,CS Fullerton,Richmond,Richmond
+824,0.488,0.512,1,1168,1353,CS Fullerton,Rutgers,CS Fullerton
+825,0.476,0.524,1,1168,1355,CS Fullerton,S Dakota St,CS Fullerton
+826,0.516,0.484,0,1168,1361,CS Fullerton,San Diego St,San Diego St
+827,0.484,0.516,1,1168,1362,CS Fullerton,San Francisco,CS Fullerton
+828,0.488,0.512,1,1168,1371,CS Fullerton,Seton Hall,CS Fullerton
+829,0.544,0.456,0,1168,1388,CS Fullerton,St Mary's CA,St Mary's CA
+830,0.556,0.444,0,1168,1389,CS Fullerton,St Peter's,St Peter's
+831,0.524,0.476,0,1168,1394,CS Fullerton,TAM C. Christi,TAM C. Christi
+832,0.464,0.536,1,1168,1395,CS Fullerton,TCU,CS Fullerton
+833,0.524,0.476,0,1168,1397,CS Fullerton,Tennessee,Tennessee
+834,0.556,0.444,0,1168,1400,CS Fullerton,Texas,Texas
+835,0.516,0.484,0,1168,1403,CS Fullerton,Texas Tech,Texas Tech
+836,0.52,0.48,0,1168,1411,CS Fullerton,TX Southern,TX Southern
+837,0.476,0.524,1,1168,1412,CS Fullerton,UAB,CS Fullerton
+838,0.544,0.456,0,1168,1417,CS Fullerton,UCLA,UCLA
+839,0.508,0.492,0,1168,1425,CS Fullerton,USC,USC
+840,0.376,0.624,1,1168,1436,CS Fullerton,Vermont,CS Fullerton
+841,0.564,0.436,0,1168,1437,CS Fullerton,Villanova,Villanova
+842,0.492,0.508,1,1168,1439,CS Fullerton,Virginia Tech,CS Fullerton
+843,0.516,0.484,0,1168,1458,CS Fullerton,Wisconsin,Wisconsin
+844,0.452,0.548,1,1168,1460,CS Fullerton,Wright St,CS Fullerton
+845,0.476,0.524,1,1168,1461,CS Fullerton,Wyoming,CS Fullerton
+846,0.476,0.524,1,1168,1463,CS Fullerton,Yale,CS Fullerton
+847,0.596,0.404,0,1172,1174,Davidson,Delaware,Delaware
+848,0.456,0.544,1,1172,1181,Davidson,Duke,Davidson
+849,0.608,0.392,0,1172,1209,Davidson,Georgia St,Georgia St
+850,0.488,0.512,1,1172,1211,Davidson,Gonzaga,Davidson
+851,0.468,0.532,1,1172,1222,Davidson,Houston,Davidson
+852,0.452,0.548,1,1172,1228,Davidson,Illinois,Davidson
+853,0.464,0.536,1,1172,1231,Davidson,Indiana,Davidson
+854,0.512,0.488,0,1172,1234,Davidson,Iowa,Iowa
+855,0.488,0.512,1,1172,1235,Davidson,Iowa St,Davidson
+856,0.468,0.532,1,1172,1240,Davidson,Jacksonville St,Davidson
+857,0.388,0.612,1,1172,1242,Davidson,Kansas,Davidson
+858,0.5,0.5,0,1172,1246,Davidson,Kentucky,Kentucky
+859,0.588,0.412,0,1172,1255,Davidson,Longwood,Longwood
+860,0.504,0.496,0,1172,1260,Davidson,Loyola-Chicago,Loyola-Chicago
+861,0.532,0.468,0,1172,1261,Davidson,LSU,LSU
+862,0.52,0.48,0,1172,1266,Davidson,Marquette,Marquette
+863,0.528,0.472,0,1172,1272,Davidson,Memphis,Memphis
+864,0.552,0.448,0,1172,1274,Davidson,Miami FL,Miami FL
+865,0.432,0.568,1,1172,1276,Davidson,Michigan,Davidson
+866,0.564,0.436,0,1172,1277,Davidson,Michigan St,Michigan St
+867,0.468,0.532,1,1172,1286,Davidson,Montana St,Davidson
+868,0.532,0.468,0,1172,1293,Davidson,Murray St,Murray St
+869,0.616,0.384,0,1172,1308,Davidson,New Mexico St,New Mexico St
+870,0.516,0.484,0,1172,1313,Davidson,Norfolk St,Norfolk St
+871,0.524,0.476,0,1172,1314,Davidson,North Carolina,North Carolina
+872,0.512,0.488,0,1172,1323,Davidson,Notre Dame,Notre Dame
+873,0.456,0.544,1,1172,1326,Davidson,Ohio St,Davidson
+874,0.44,0.56,1,1172,1344,Davidson,Providence,Davidson
+875,0.5,0.5,0,1172,1345,Davidson,Purdue,Purdue
+876,0.6,0.4,0,1172,1350,Davidson,Richmond,Richmond
+877,0.512,0.488,0,1172,1353,Davidson,Rutgers,Rutgers
+878,0.56,0.44,0,1172,1355,Davidson,S Dakota St,S Dakota St
+879,0.492,0.508,1,1172,1361,Davidson,San Diego St,Davidson
+880,0.472,0.528,1,1172,1362,Davidson,San Francisco,Davidson
+881,0.536,0.464,0,1172,1371,Davidson,Seton Hall,Seton Hall
+882,0.572,0.428,0,1172,1388,Davidson,St Mary's CA,St Mary's CA
+883,0.512,0.488,0,1172,1389,Davidson,St Peter's,St Peter's
+884,0.408,0.592,1,1172,1394,Davidson,TAM C. Christi,Davidson
+885,0.528,0.472,0,1172,1395,Davidson,TCU,TCU
+886,0.496,0.504,1,1172,1397,Davidson,Tennessee,Davidson
+887,0.532,0.468,0,1172,1400,Davidson,Texas,Texas
+888,0.452,0.548,1,1172,1403,Davidson,Texas Tech,Davidson
+889,0.644,0.356,0,1172,1411,Davidson,TX Southern,TX Southern
+890,0.488,0.512,1,1172,1412,Davidson,UAB,Davidson
+891,0.436,0.564,1,1172,1417,Davidson,UCLA,Davidson
+892,0.496,0.504,1,1172,1425,Davidson,USC,Davidson
+893,0.444,0.556,1,1172,1436,Davidson,Vermont,Davidson
+894,0.548,0.452,0,1172,1437,Davidson,Villanova,Villanova
+895,0.496,0.504,1,1172,1439,Davidson,Virginia Tech,Davidson
+896,0.392,0.608,1,1172,1458,Davidson,Wisconsin,Davidson
+897,0.48,0.52,1,1172,1460,Davidson,Wright St,Davidson
+898,0.472,0.528,1,1172,1461,Davidson,Wyoming,Davidson
+899,0.46,0.54,1,1172,1463,Davidson,Yale,Davidson
+900,0.532,0.468,0,1174,1181,Delaware,Duke,Duke
+901,0.54,0.46,0,1174,1209,Delaware,Georgia St,Georgia St
+902,0.516,0.484,0,1174,1211,Delaware,Gonzaga,Gonzaga
+903,0.444,0.556,1,1174,1222,Delaware,Houston,Delaware
+904,0.452,0.548,1,1174,1228,Delaware,Illinois,Delaware
+905,0.44,0.56,1,1174,1231,Delaware,Indiana,Delaware
+906,0.592,0.408,0,1174,1234,Delaware,Iowa,Iowa
+907,0.528,0.472,0,1174,1235,Delaware,Iowa St,Iowa St
+908,0.512,0.488,0,1174,1240,Delaware,Jacksonville St,Jacksonville St
+909,0.48,0.52,1,1174,1242,Delaware,Kansas,Delaware
+910,0.464,0.536,1,1174,1246,Delaware,Kentucky,Delaware
+911,0.496,0.504,1,1174,1255,Delaware,Longwood,Delaware
+912,0.46,0.54,1,1174,1260,Delaware,Loyola-Chicago,Delaware
+913,0.504,0.496,0,1174,1261,Delaware,LSU,LSU
+914,0.612,0.388,0,1174,1266,Delaware,Marquette,Marquette
+915,0.456,0.544,1,1174,1272,Delaware,Memphis,Delaware
+916,0.544,0.456,0,1174,1274,Delaware,Miami FL,Miami FL
+917,0.428,0.572,1,1174,1276,Delaware,Michigan,Delaware
+918,0.528,0.472,0,1174,1277,Delaware,Michigan St,Michigan St
+919,0.416,0.584,1,1174,1286,Delaware,Montana St,Delaware
+920,0.452,0.548,1,1174,1293,Delaware,Murray St,Delaware
+921,0.46,0.54,1,1174,1308,Delaware,New Mexico St,Delaware
+922,0.54,0.46,0,1174,1313,Delaware,Norfolk St,Norfolk St
+923,0.492,0.508,1,1174,1314,Delaware,North Carolina,Delaware
+924,0.392,0.608,1,1174,1323,Delaware,Notre Dame,Delaware
+925,0.524,0.476,0,1174,1326,Delaware,Ohio St,Ohio St
+926,0.424,0.576,1,1174,1344,Delaware,Providence,Delaware
+927,0.516,0.484,0,1174,1345,Delaware,Purdue,Purdue
+928,0.484,0.516,1,1174,1350,Delaware,Richmond,Delaware
+929,0.468,0.532,1,1174,1353,Delaware,Rutgers,Delaware
+930,0.496,0.504,1,1174,1355,Delaware,S Dakota St,Delaware
+931,0.552,0.448,0,1174,1361,Delaware,San Diego St,San Diego St
+932,0.448,0.552,1,1174,1362,Delaware,San Francisco,Delaware
+933,0.456,0.544,1,1174,1371,Delaware,Seton Hall,Delaware
+934,0.416,0.584,1,1174,1388,Delaware,St Mary's CA,Delaware
+935,0.564,0.436,0,1174,1389,Delaware,St Peter's,St Peter's
+936,0.5,0.5,0,1174,1394,Delaware,TAM C. Christi,TAM C. Christi
+937,0.544,0.456,0,1174,1395,Delaware,TCU,TCU
+938,0.564,0.436,0,1174,1397,Delaware,Tennessee,Tennessee
+939,0.54,0.46,0,1174,1400,Delaware,Texas,Texas
+940,0.536,0.464,0,1174,1403,Delaware,Texas Tech,Texas Tech
+941,0.572,0.428,0,1174,1411,Delaware,TX Southern,TX Southern
+942,0.596,0.404,0,1174,1412,Delaware,UAB,UAB
+943,0.5,0.5,0,1174,1417,Delaware,UCLA,UCLA
+944,0.516,0.484,0,1174,1425,Delaware,USC,USC
+945,0.456,0.544,1,1174,1436,Delaware,Vermont,Delaware
+946,0.528,0.472,0,1174,1437,Delaware,Villanova,Villanova
+947,0.424,0.576,1,1174,1439,Delaware,Virginia Tech,Delaware
+948,0.536,0.464,0,1174,1458,Delaware,Wisconsin,Wisconsin
+949,0.508,0.492,0,1174,1460,Delaware,Wright St,Wright St
+950,0.48,0.52,1,1174,1461,Delaware,Wyoming,Delaware
+951,0.528,0.472,0,1174,1463,Delaware,Yale,Yale
+952,0.464,0.536,1,1181,1209,Duke,Georgia St,Duke
+953,0.516,0.484,0,1181,1211,Duke,Gonzaga,Gonzaga
+954,0.592,0.408,0,1181,1222,Duke,Houston,Houston
+955,0.392,0.608,1,1181,1228,Duke,Illinois,Duke
+956,0.476,0.524,1,1181,1231,Duke,Indiana,Duke
+957,0.48,0.52,1,1181,1234,Duke,Iowa,Duke
+958,0.484,0.516,1,1181,1235,Duke,Iowa St,Duke
+959,0.508,0.492,0,1181,1240,Duke,Jacksonville St,Jacksonville St
+960,0.444,0.556,1,1181,1242,Duke,Kansas,Duke
+961,0.508,0.492,0,1181,1246,Duke,Kentucky,Kentucky
+962,0.568,0.432,0,1181,1255,Duke,Longwood,Longwood
+963,0.472,0.528,1,1181,1260,Duke,Loyola-Chicago,Duke
+964,0.492,0.508,1,1181,1261,Duke,LSU,Duke
+965,0.616,0.384,0,1181,1266,Duke,Marquette,Marquette
+966,0.488,0.512,1,1181,1272,Duke,Memphis,Duke
+967,0.524,0.476,0,1181,1274,Duke,Miami FL,Miami FL
+968,0.408,0.592,1,1181,1276,Duke,Michigan,Duke
+969,0.392,0.608,1,1181,1277,Duke,Michigan St,Duke
+970,0.504,0.496,0,1181,1286,Duke,Montana St,Montana St
+971,0.468,0.532,1,1181,1293,Duke,Murray St,Duke
+972,0.46,0.54,1,1181,1308,Duke,New Mexico St,Duke
+973,0.52,0.48,0,1181,1313,Duke,Norfolk St,Norfolk St
+974,0.428,0.572,1,1181,1314,Duke,North Carolina,Duke
+975,0.436,0.564,1,1181,1323,Duke,Notre Dame,Duke
+976,0.468,0.532,1,1181,1326,Duke,Ohio St,Duke
+977,0.548,0.452,0,1181,1344,Duke,Providence,Providence
+978,0.424,0.576,1,1181,1345,Duke,Purdue,Duke
+979,0.544,0.456,0,1181,1350,Duke,Richmond,Richmond
+980,0.432,0.568,1,1181,1353,Duke,Rutgers,Duke
+981,0.444,0.556,1,1181,1355,Duke,S Dakota St,Duke
+982,0.528,0.472,0,1181,1361,Duke,San Diego St,San Diego St
+983,0.432,0.568,1,1181,1362,Duke,San Francisco,Duke
+984,0.532,0.468,0,1181,1371,Duke,Seton Hall,Seton Hall
+985,0.484,0.516,1,1181,1388,Duke,St Mary's CA,Duke
+986,0.492,0.508,1,1181,1389,Duke,St Peter's,Duke
+987,0.484,0.516,1,1181,1394,Duke,TAM C. Christi,Duke
+988,0.5,0.5,0,1181,1395,Duke,TCU,TCU
+989,0.576,0.424,0,1181,1397,Duke,Tennessee,Tennessee
+990,0.472,0.528,1,1181,1400,Duke,Texas,Duke
+991,0.452,0.548,1,1181,1403,Duke,Texas Tech,Duke
+992,0.532,0.468,0,1181,1411,Duke,TX Southern,TX Southern
+993,0.556,0.444,0,1181,1412,Duke,UAB,UAB
+994,0.472,0.528,1,1181,1417,Duke,UCLA,Duke
+995,0.6,0.4,0,1181,1425,Duke,USC,USC
+996,0.596,0.404,0,1181,1436,Duke,Vermont,Vermont
+997,0.404,0.596,1,1181,1437,Duke,Villanova,Duke
+998,0.46,0.54,1,1181,1439,Duke,Virginia Tech,Duke
+999,0.488,0.512,1,1181,1458,Duke,Wisconsin,Duke
+1000,0.508,0.492,0,1181,1460,Duke,Wright St,Wright St
+1001,0.488,0.512,1,1181,1461,Duke,Wyoming,Duke
+1002,0.548,0.452,0,1181,1463,Duke,Yale,Yale
+1003,0.556,0.444,0,1209,1211,Georgia St,Gonzaga,Gonzaga
+1004,0.564,0.436,0,1209,1222,Georgia St,Houston,Houston
+1005,0.564,0.436,0,1209,1228,Georgia St,Illinois,Illinois
+1006,0.548,0.452,0,1209,1231,Georgia St,Indiana,Indiana
+1007,0.584,0.416,0,1209,1234,Georgia St,Iowa,Iowa
+1008,0.576,0.424,0,1209,1235,Georgia St,Iowa St,Iowa St
+1009,0.384,0.616,1,1209,1240,Georgia St,Jacksonville St,Georgia St
+1010,0.568,0.432,0,1209,1242,Georgia St,Kansas,Kansas
+1011,0.62,0.38,0,1209,1246,Georgia St,Kentucky,Kentucky
+1012,0.452,0.548,1,1209,1255,Georgia St,Longwood,Georgia St
+1013,0.616,0.384,0,1209,1260,Georgia St,Loyola-Chicago,Loyola-Chicago
+1014,0.54,0.46,0,1209,1261,Georgia St,LSU,LSU
+1015,0.588,0.412,0,1209,1266,Georgia St,Marquette,Marquette
+1016,0.552,0.448,0,1209,1272,Georgia St,Memphis,Memphis
+1017,0.524,0.476,0,1209,1274,Georgia St,Miami FL,Miami FL
+1018,0.56,0.44,0,1209,1276,Georgia St,Michigan,Michigan
+1019,0.576,0.424,0,1209,1277,Georgia St,Michigan St,Michigan St
+1020,0.452,0.548,1,1209,1286,Georgia St,Montana St,Georgia St
+1021,0.484,0.516,1,1209,1293,Georgia St,Murray St,Georgia St
+1022,0.476,0.524,1,1209,1308,Georgia St,New Mexico St,Georgia St
+1023,0.496,0.504,1,1209,1313,Georgia St,Norfolk St,Georgia St
+1024,0.592,0.408,0,1209,1314,Georgia St,North Carolina,North Carolina
+1025,0.508,0.492,0,1209,1323,Georgia St,Notre Dame,Notre Dame
+1026,0.604,0.396,0,1209,1326,Georgia St,Ohio St,Ohio St
+1027,0.608,0.392,0,1209,1344,Georgia St,Providence,Providence
+1028,0.572,0.428,0,1209,1345,Georgia St,Purdue,Purdue
+1029,0.492,0.508,1,1209,1350,Georgia St,Richmond,Georgia St
+1030,0.464,0.536,1,1209,1353,Georgia St,Rutgers,Georgia St
+1031,0.536,0.464,0,1209,1355,Georgia St,S Dakota St,S Dakota St
+1032,0.6,0.4,0,1209,1361,Georgia St,San Diego St,San Diego St
+1033,0.556,0.444,0,1209,1362,Georgia St,San Francisco,San Francisco
+1034,0.52,0.48,0,1209,1371,Georgia St,Seton Hall,Seton Hall
+1035,0.56,0.44,0,1209,1388,Georgia St,St Mary's CA,St Mary's CA
+1036,0.476,0.524,1,1209,1389,Georgia St,St Peter's,Georgia St
+1037,0.452,0.548,1,1209,1394,Georgia St,TAM C. Christi,Georgia St
+1038,0.54,0.46,0,1209,1395,Georgia St,TCU,TCU
+1039,0.58,0.42,0,1209,1397,Georgia St,Tennessee,Tennessee
+1040,0.632,0.368,0,1209,1400,Georgia St,Texas,Texas
+1041,0.516,0.484,0,1209,1403,Georgia St,Texas Tech,Texas Tech
+1042,0.48,0.52,1,1209,1411,Georgia St,TX Southern,Georgia St
+1043,0.52,0.48,0,1209,1412,Georgia St,UAB,UAB
+1044,0.56,0.44,0,1209,1417,Georgia St,UCLA,UCLA
+1045,0.588,0.412,0,1209,1425,Georgia St,USC,USC
+1046,0.46,0.54,1,1209,1436,Georgia St,Vermont,Georgia St
+1047,0.572,0.428,0,1209,1437,Georgia St,Villanova,Villanova
+1048,0.62,0.38,0,1209,1439,Georgia St,Virginia Tech,Virginia Tech
+1049,0.588,0.412,0,1209,1458,Georgia St,Wisconsin,Wisconsin
+1050,0.384,0.616,1,1209,1460,Georgia St,Wright St,Georgia St
+1051,0.52,0.48,0,1209,1461,Georgia St,Wyoming,Wyoming
+1052,0.48,0.52,1,1209,1463,Georgia St,Yale,Georgia St
+1053,0.492,0.508,1,1211,1222,Gonzaga,Houston,Gonzaga
+1054,0.516,0.484,0,1211,1228,Gonzaga,Illinois,Illinois
+1055,0.448,0.552,1,1211,1231,Gonzaga,Indiana,Gonzaga
+1056,0.496,0.504,1,1211,1234,Gonzaga,Iowa,Gonzaga
+1057,0.5,0.5,0,1211,1235,Gonzaga,Iowa St,Iowa St
+1058,0.54,0.46,0,1211,1240,Gonzaga,Jacksonville St,Jacksonville St
+1059,0.456,0.544,1,1211,1242,Gonzaga,Kansas,Gonzaga
+1060,0.428,0.572,1,1211,1246,Gonzaga,Kentucky,Gonzaga
+1061,0.468,0.532,1,1211,1255,Gonzaga,Longwood,Gonzaga
+1062,0.524,0.476,0,1211,1260,Gonzaga,Loyola-Chicago,Loyola-Chicago
+1063,0.464,0.536,1,1211,1261,Gonzaga,LSU,Gonzaga
+1064,0.464,0.536,1,1211,1266,Gonzaga,Marquette,Gonzaga
+1065,0.508,0.492,0,1211,1272,Gonzaga,Memphis,Memphis
+1066,0.56,0.44,0,1211,1274,Gonzaga,Miami FL,Miami FL
+1067,0.556,0.444,0,1211,1276,Gonzaga,Michigan,Michigan
+1068,0.472,0.528,1,1211,1277,Gonzaga,Michigan St,Gonzaga
+1069,0.616,0.384,0,1211,1286,Gonzaga,Montana St,Montana St
+1070,0.484,0.516,1,1211,1293,Gonzaga,Murray St,Gonzaga
+1071,0.504,0.496,0,1211,1308,Gonzaga,New Mexico St,New Mexico St
+1072,0.468,0.532,1,1211,1313,Gonzaga,Norfolk St,Gonzaga
+1073,0.456,0.544,1,1211,1314,Gonzaga,North Carolina,Gonzaga
+1074,0.532,0.468,0,1211,1323,Gonzaga,Notre Dame,Notre Dame
+1075,0.452,0.548,1,1211,1326,Gonzaga,Ohio St,Gonzaga
+1076,0.524,0.476,0,1211,1344,Gonzaga,Providence,Providence
+1077,0.436,0.564,1,1211,1345,Gonzaga,Purdue,Gonzaga
+1078,0.532,0.468,0,1211,1350,Gonzaga,Richmond,Richmond
+1079,0.436,0.564,1,1211,1353,Gonzaga,Rutgers,Gonzaga
+1080,0.448,0.552,1,1211,1355,Gonzaga,S Dakota St,Gonzaga
+1081,0.552,0.448,0,1211,1361,Gonzaga,San Diego St,San Diego St
+1082,0.5,0.5,0,1211,1362,Gonzaga,San Francisco,San Francisco
+1083,0.44,0.56,1,1211,1371,Gonzaga,Seton Hall,Gonzaga
+1084,0.56,0.44,0,1211,1388,Gonzaga,St Mary's CA,St Mary's CA
+1085,0.468,0.532,1,1211,1389,Gonzaga,St Peter's,Gonzaga
+1086,0.504,0.496,0,1211,1394,Gonzaga,TAM C. Christi,TAM C. Christi
+1087,0.456,0.544,1,1211,1395,Gonzaga,TCU,Gonzaga
+1088,0.524,0.476,0,1211,1397,Gonzaga,Tennessee,Tennessee
+1089,0.5,0.5,0,1211,1400,Gonzaga,Texas,Texas
+1090,0.5,0.5,0,1211,1403,Gonzaga,Texas Tech,Texas Tech
+1091,0.588,0.412,0,1211,1411,Gonzaga,TX Southern,TX Southern
+1092,0.572,0.428,0,1211,1412,Gonzaga,UAB,UAB
+1093,0.428,0.572,1,1211,1417,Gonzaga,UCLA,Gonzaga
+1094,0.584,0.416,0,1211,1425,Gonzaga,USC,USC
+1095,0.548,0.452,0,1211,1436,Gonzaga,Vermont,Vermont
+1096,0.552,0.448,0,1211,1437,Gonzaga,Villanova,Villanova
+1097,0.532,0.468,0,1211,1439,Gonzaga,Virginia Tech,Virginia Tech
+1098,0.604,0.396,0,1211,1458,Gonzaga,Wisconsin,Wisconsin
+1099,0.496,0.504,1,1211,1460,Gonzaga,Wright St,Gonzaga
+1100,0.472,0.528,1,1211,1461,Gonzaga,Wyoming,Gonzaga
+1101,0.556,0.444,0,1211,1463,Gonzaga,Yale,Yale
+1102,0.48,0.52,1,1222,1228,Houston,Illinois,Houston
+1103,0.48,0.52,1,1222,1231,Houston,Indiana,Houston
+1104,0.456,0.544,1,1222,1234,Houston,Iowa,Houston
+1105,0.372,0.628,1,1222,1235,Houston,Iowa St,Houston
+1106,0.52,0.48,0,1222,1240,Houston,Jacksonville St,Jacksonville St
+1107,0.42,0.58,1,1222,1242,Houston,Kansas,Houston
+1108,0.396,0.604,1,1222,1246,Houston,Kentucky,Houston
+1109,0.568,0.432,0,1222,1255,Houston,Longwood,Longwood
+1110,0.472,0.528,1,1222,1260,Houston,Loyola-Chicago,Houston
+1111,0.464,0.536,1,1222,1261,Houston,LSU,Houston
+1112,0.416,0.584,1,1222,1266,Houston,Marquette,Houston
+1113,0.508,0.492,0,1222,1272,Houston,Memphis,Memphis
+1114,0.544,0.456,0,1222,1274,Houston,Miami FL,Miami FL
+1115,0.456,0.544,1,1222,1276,Houston,Michigan,Houston
+1116,0.392,0.608,1,1222,1277,Houston,Michigan St,Houston
+1117,0.448,0.552,1,1222,1286,Houston,Montana St,Houston
+1118,0.532,0.468,0,1222,1293,Houston,Murray St,Murray St
+1119,0.356,0.644,1,1222,1308,Houston,New Mexico St,Houston
+1120,0.48,0.52,1,1222,1313,Houston,Norfolk St,Houston
+1121,0.52,0.48,0,1222,1314,Houston,North Carolina,North Carolina
+1122,0.388,0.612,1,1222,1323,Houston,Notre Dame,Houston
+1123,0.524,0.476,0,1222,1326,Houston,Ohio St,Ohio St
+1124,0.46,0.54,1,1222,1344,Houston,Providence,Houston
+1125,0.46,0.54,1,1222,1345,Houston,Purdue,Houston
+1126,0.504,0.496,0,1222,1350,Houston,Richmond,Richmond
+1127,0.376,0.624,1,1222,1353,Houston,Rutgers,Houston
+1128,0.496,0.504,1,1222,1355,Houston,S Dakota St,Houston
+1129,0.508,0.492,0,1222,1361,Houston,San Diego St,San Diego St
+1130,0.464,0.536,1,1222,1362,Houston,San Francisco,Houston
+1131,0.48,0.52,1,1222,1371,Houston,Seton Hall,Houston
+1132,0.476,0.524,1,1222,1388,Houston,St Mary's CA,Houston
+1133,0.568,0.432,0,1222,1389,Houston,St Peter's,St Peter's
+1134,0.584,0.416,0,1222,1394,Houston,TAM C. Christi,TAM C. Christi
+1135,0.512,0.488,0,1222,1395,Houston,TCU,TCU
+1136,0.556,0.444,0,1222,1397,Houston,Tennessee,Tennessee
+1137,0.404,0.596,1,1222,1400,Houston,Texas,Houston
+1138,0.46,0.54,1,1222,1403,Houston,Texas Tech,Houston
+1139,0.492,0.508,1,1222,1411,Houston,TX Southern,Houston
+1140,0.432,0.568,1,1222,1412,Houston,UAB,Houston
+1141,0.444,0.556,1,1222,1417,Houston,UCLA,Houston
+1142,0.448,0.552,1,1222,1425,Houston,USC,Houston
+1143,0.424,0.576,1,1222,1436,Houston,Vermont,Houston
+1144,0.468,0.532,1,1222,1437,Houston,Villanova,Houston
+1145,0.404,0.596,1,1222,1439,Houston,Virginia Tech,Houston
+1146,0.448,0.552,1,1222,1458,Houston,Wisconsin,Houston
+1147,0.44,0.56,1,1222,1460,Houston,Wright St,Houston
+1148,0.44,0.56,1,1222,1461,Houston,Wyoming,Houston
+1149,0.512,0.488,0,1222,1463,Houston,Yale,Yale
+1150,0.52,0.48,0,1228,1231,Illinois,Indiana,Indiana
+1151,0.5,0.5,0,1228,1234,Illinois,Iowa,Iowa
+1152,0.524,0.476,0,1228,1235,Illinois,Iowa St,Iowa St
+1153,0.52,0.48,0,1228,1240,Illinois,Jacksonville St,Jacksonville St
+1154,0.56,0.44,0,1228,1242,Illinois,Kansas,Kansas
+1155,0.548,0.452,0,1228,1246,Illinois,Kentucky,Kentucky
+1156,0.516,0.484,0,1228,1255,Illinois,Longwood,Longwood
+1157,0.484,0.516,1,1228,1260,Illinois,Loyola-Chicago,Illinois
+1158,0.492,0.508,1,1228,1261,Illinois,LSU,Illinois
+1159,0.536,0.464,0,1228,1266,Illinois,Marquette,Marquette
+1160,0.516,0.484,0,1228,1272,Illinois,Memphis,Memphis
+1161,0.484,0.516,1,1228,1274,Illinois,Miami FL,Illinois
+1162,0.456,0.544,1,1228,1276,Illinois,Michigan,Illinois
+1163,0.54,0.46,0,1228,1277,Illinois,Michigan St,Michigan St
+1164,0.544,0.456,0,1228,1286,Illinois,Montana St,Montana St
+1165,0.54,0.46,0,1228,1293,Illinois,Murray St,Murray St
+1166,0.472,0.528,1,1228,1308,Illinois,New Mexico St,Illinois
+1167,0.552,0.448,0,1228,1313,Illinois,Norfolk St,Norfolk St
+1168,0.456,0.544,1,1228,1314,Illinois,North Carolina,Illinois
+1169,0.484,0.516,1,1228,1323,Illinois,Notre Dame,Illinois
+1170,0.512,0.488,0,1228,1326,Illinois,Ohio St,Ohio St
+1171,0.544,0.456,0,1228,1344,Illinois,Providence,Providence
+1172,0.456,0.544,1,1228,1345,Illinois,Purdue,Illinois
+1173,0.508,0.492,0,1228,1350,Illinois,Richmond,Richmond
+1174,0.488,0.512,1,1228,1353,Illinois,Rutgers,Illinois
+1175,0.444,0.556,1,1228,1355,Illinois,S Dakota St,Illinois
+1176,0.512,0.488,0,1228,1361,Illinois,San Diego St,San Diego St
+1177,0.52,0.48,0,1228,1362,Illinois,San Francisco,San Francisco
+1178,0.472,0.528,1,1228,1371,Illinois,Seton Hall,Illinois
+1179,0.512,0.488,0,1228,1388,Illinois,St Mary's CA,St Mary's CA
+1180,0.484,0.516,1,1228,1389,Illinois,St Peter's,Illinois
+1181,0.432,0.568,1,1228,1394,Illinois,TAM C. Christi,Illinois
+1182,0.544,0.456,0,1228,1395,Illinois,TCU,TCU
+1183,0.556,0.444,0,1228,1397,Illinois,Tennessee,Tennessee
+1184,0.512,0.488,0,1228,1400,Illinois,Texas,Texas
+1185,0.548,0.452,0,1228,1403,Illinois,Texas Tech,Texas Tech
+1186,0.54,0.46,0,1228,1411,Illinois,TX Southern,TX Southern
+1187,0.572,0.428,0,1228,1412,Illinois,UAB,UAB
+1188,0.508,0.492,0,1228,1417,Illinois,UCLA,UCLA
+1189,0.552,0.448,0,1228,1425,Illinois,USC,USC
+1190,0.468,0.532,1,1228,1436,Illinois,Vermont,Illinois
+1191,0.392,0.608,1,1228,1437,Illinois,Villanova,Illinois
+1192,0.444,0.556,1,1228,1439,Illinois,Virginia Tech,Illinois
+1193,0.512,0.488,0,1228,1458,Illinois,Wisconsin,Wisconsin
+1194,0.484,0.516,1,1228,1460,Illinois,Wright St,Illinois
+1195,0.484,0.516,1,1228,1461,Illinois,Wyoming,Illinois
+1196,0.548,0.452,0,1228,1463,Illinois,Yale,Yale
+1197,0.54,0.46,0,1231,1234,Indiana,Iowa,Iowa
+1198,0.48,0.52,1,1231,1235,Indiana,Iowa St,Indiana
+1199,0.468,0.532,1,1231,1240,Indiana,Jacksonville St,Indiana
+1200,0.476,0.524,1,1231,1242,Indiana,Kansas,Indiana
+1201,0.532,0.468,0,1231,1246,Indiana,Kentucky,Kentucky
+1202,0.564,0.436,0,1231,1255,Indiana,Longwood,Longwood
+1203,0.556,0.444,0,1231,1260,Indiana,Loyola-Chicago,Loyola-Chicago
+1204,0.532,0.468,0,1231,1261,Indiana,LSU,LSU
+1205,0.484,0.516,1,1231,1266,Indiana,Marquette,Indiana
+1206,0.484,0.516,1,1231,1272,Indiana,Memphis,Indiana
+1207,0.528,0.472,0,1231,1274,Indiana,Miami FL,Miami FL
+1208,0.452,0.548,1,1231,1276,Indiana,Michigan,Indiana
+1209,0.476,0.524,1,1231,1277,Indiana,Michigan St,Indiana
+1210,0.412,0.588,1,1231,1286,Indiana,Montana St,Indiana
+1211,0.548,0.452,0,1231,1293,Indiana,Murray St,Murray St
+1212,0.38,0.62,1,1231,1308,Indiana,New Mexico St,Indiana
+1213,0.528,0.472,0,1231,1313,Indiana,Norfolk St,Norfolk St
+1214,0.424,0.576,1,1231,1314,Indiana,North Carolina,Indiana
+1215,0.476,0.524,1,1231,1323,Indiana,Notre Dame,Indiana
+1216,0.4,0.6,1,1231,1326,Indiana,Ohio St,Indiana
+1217,0.424,0.576,1,1231,1344,Indiana,Providence,Indiana
+1218,0.54,0.46,0,1231,1345,Indiana,Purdue,Purdue
+1219,0.524,0.476,0,1231,1350,Indiana,Richmond,Richmond
+1220,0.468,0.532,1,1231,1353,Indiana,Rutgers,Indiana
+1221,0.44,0.56,1,1231,1355,Indiana,S Dakota St,Indiana
+1222,0.6,0.4,0,1231,1361,Indiana,San Diego St,San Diego St
+1223,0.568,0.432,0,1231,1362,Indiana,San Francisco,San Francisco
+1224,0.484,0.516,1,1231,1371,Indiana,Seton Hall,Indiana
+1225,0.508,0.492,0,1231,1388,Indiana,St Mary's CA,St Mary's CA
+1226,0.508,0.492,0,1231,1389,Indiana,St Peter's,St Peter's
+1227,0.54,0.46,0,1231,1394,Indiana,TAM C. Christi,TAM C. Christi
+1228,0.464,0.536,1,1231,1395,Indiana,TCU,Indiana
+1229,0.56,0.44,0,1231,1397,Indiana,Tennessee,Tennessee
+1230,0.448,0.552,1,1231,1400,Indiana,Texas,Indiana
+1231,0.552,0.448,0,1231,1403,Indiana,Texas Tech,Texas Tech
+1232,0.508,0.492,0,1231,1411,Indiana,TX Southern,TX Southern
+1233,0.544,0.456,0,1231,1412,Indiana,UAB,UAB
+1234,0.452,0.548,1,1231,1417,Indiana,UCLA,Indiana
+1235,0.448,0.552,1,1231,1425,Indiana,USC,Indiana
+1236,0.5,0.5,0,1231,1436,Indiana,Vermont,Vermont
+1237,0.536,0.464,0,1231,1437,Indiana,Villanova,Villanova
+1238,0.416,0.584,1,1231,1439,Indiana,Virginia Tech,Indiana
+1239,0.452,0.548,1,1231,1458,Indiana,Wisconsin,Indiana
+1240,0.504,0.496,0,1231,1460,Indiana,Wright St,Wright St
+1241,0.508,0.492,0,1231,1461,Indiana,Wyoming,Wyoming
+1242,0.484,0.516,1,1231,1463,Indiana,Yale,Indiana
+1243,0.592,0.408,0,1234,1235,Iowa,Iowa St,Iowa St
+1244,0.552,0.448,0,1234,1240,Iowa,Jacksonville St,Jacksonville St
+1245,0.472,0.528,1,1234,1242,Iowa,Kansas,Iowa
+1246,0.496,0.504,1,1234,1246,Iowa,Kentucky,Iowa
+1247,0.48,0.52,1,1234,1255,Iowa,Longwood,Iowa
+1248,0.52,0.48,0,1234,1260,Iowa,Loyola-Chicago,Loyola-Chicago
+1249,0.536,0.464,0,1234,1261,Iowa,LSU,LSU
+1250,0.616,0.384,0,1234,1266,Iowa,Marquette,Marquette
+1251,0.468,0.532,1,1234,1272,Iowa,Memphis,Iowa
+1252,0.408,0.592,1,1234,1274,Iowa,Miami FL,Iowa
+1253,0.44,0.56,1,1234,1276,Iowa,Michigan,Iowa
+1254,0.596,0.404,0,1234,1277,Iowa,Michigan St,Michigan St
+1255,0.496,0.504,1,1234,1286,Iowa,Montana St,Iowa
+1256,0.452,0.548,1,1234,1293,Iowa,Murray St,Iowa
+1257,0.46,0.54,1,1234,1308,Iowa,New Mexico St,Iowa
+1258,0.52,0.48,0,1234,1313,Iowa,Norfolk St,Norfolk St
+1259,0.424,0.576,1,1234,1314,Iowa,North Carolina,Iowa
+1260,0.54,0.46,0,1234,1323,Iowa,Notre Dame,Notre Dame
+1261,0.524,0.476,0,1234,1326,Iowa,Ohio St,Ohio St
+1262,0.496,0.504,1,1234,1344,Iowa,Providence,Iowa
+1263,0.46,0.54,1,1234,1345,Iowa,Purdue,Iowa
+1264,0.584,0.416,0,1234,1350,Iowa,Richmond,Richmond
+1265,0.508,0.492,0,1234,1353,Iowa,Rutgers,Rutgers
+1266,0.476,0.524,1,1234,1355,Iowa,S Dakota St,Iowa
+1267,0.56,0.44,0,1234,1361,Iowa,San Diego St,San Diego St
+1268,0.456,0.544,1,1234,1362,Iowa,San Francisco,Iowa
+1269,0.528,0.472,0,1234,1371,Iowa,Seton Hall,Seton Hall
+1270,0.54,0.46,0,1234,1388,Iowa,St Mary's CA,St Mary's CA
+1271,0.584,0.416,0,1234,1389,Iowa,St Peter's,St Peter's
+1272,0.516,0.484,0,1234,1394,Iowa,TAM C. Christi,TAM C. Christi
+1273,0.548,0.452,0,1234,1395,Iowa,TCU,TCU
+1274,0.544,0.456,0,1234,1397,Iowa,Tennessee,Tennessee
+1275,0.44,0.56,1,1234,1400,Iowa,Texas,Iowa
+1276,0.368,0.632,1,1234,1403,Iowa,Texas Tech,Iowa
+1277,0.472,0.528,1,1234,1411,Iowa,TX Southern,Iowa
+1278,0.436,0.564,1,1234,1412,Iowa,UAB,Iowa
+1279,0.428,0.572,1,1234,1417,Iowa,UCLA,Iowa
+1280,0.392,0.608,1,1234,1425,Iowa,USC,Iowa
+1281,0.476,0.524,1,1234,1436,Iowa,Vermont,Iowa
+1282,0.432,0.568,1,1234,1437,Iowa,Villanova,Iowa
+1283,0.48,0.52,1,1234,1439,Iowa,Virginia Tech,Iowa
+1284,0.384,0.616,1,1234,1458,Iowa,Wisconsin,Iowa
+1285,0.448,0.552,1,1234,1460,Iowa,Wright St,Iowa
+1286,0.564,0.436,0,1234,1461,Iowa,Wyoming,Wyoming
+1287,0.48,0.52,1,1234,1463,Iowa,Yale,Iowa
+1288,0.468,0.532,1,1235,1240,Iowa St,Jacksonville St,Iowa St
+1289,0.528,0.472,0,1235,1242,Iowa St,Kansas,Kansas
+1290,0.46,0.54,1,1235,1246,Iowa St,Kentucky,Iowa St
+1291,0.368,0.632,1,1235,1255,Iowa St,Longwood,Iowa St
+1292,0.432,0.568,1,1235,1260,Iowa St,Loyola-Chicago,Iowa St
+1293,0.568,0.432,0,1235,1261,Iowa St,LSU,LSU
+1294,0.5,0.5,0,1235,1266,Iowa St,Marquette,Marquette
+1295,0.48,0.52,1,1235,1272,Iowa St,Memphis,Iowa St
+1296,0.456,0.544,1,1235,1274,Iowa St,Miami FL,Iowa St
+1297,0.42,0.58,1,1235,1276,Iowa St,Michigan,Iowa St
+1298,0.492,0.508,1,1235,1277,Iowa St,Michigan St,Iowa St
+1299,0.444,0.556,1,1235,1286,Iowa St,Montana St,Iowa St
+1300,0.496,0.504,1,1235,1293,Iowa St,Murray St,Iowa St
+1301,0.428,0.572,1,1235,1308,Iowa St,New Mexico St,Iowa St
+1302,0.404,0.596,1,1235,1313,Iowa St,Norfolk St,Iowa St
+1303,0.424,0.576,1,1235,1314,Iowa St,North Carolina,Iowa St
+1304,0.412,0.588,1,1235,1323,Iowa St,Notre Dame,Iowa St
+1305,0.408,0.592,1,1235,1326,Iowa St,Ohio St,Iowa St
+1306,0.456,0.544,1,1235,1344,Iowa St,Providence,Iowa St
+1307,0.472,0.528,1,1235,1345,Iowa St,Purdue,Iowa St
+1308,0.496,0.504,1,1235,1350,Iowa St,Richmond,Iowa St
+1309,0.444,0.556,1,1235,1353,Iowa St,Rutgers,Iowa St
+1310,0.4,0.6,1,1235,1355,Iowa St,S Dakota St,Iowa St
+1311,0.496,0.504,1,1235,1361,Iowa St,San Diego St,Iowa St
+1312,0.456,0.544,1,1235,1362,Iowa St,San Francisco,Iowa St
+1313,0.492,0.508,1,1235,1371,Iowa St,Seton Hall,Iowa St
+1314,0.412,0.588,1,1235,1388,Iowa St,St Mary's CA,Iowa St
+1315,0.432,0.568,1,1235,1389,Iowa St,St Peter's,Iowa St
+1316,0.436,0.564,1,1235,1394,Iowa St,TAM C. Christi,Iowa St
+1317,0.416,0.584,1,1235,1395,Iowa St,TCU,Iowa St
+1318,0.508,0.492,0,1235,1397,Iowa St,Tennessee,Tennessee
+1319,0.424,0.576,1,1235,1400,Iowa St,Texas,Iowa St
+1320,0.428,0.572,1,1235,1403,Iowa St,Texas Tech,Iowa St
+1321,0.448,0.552,1,1235,1411,Iowa St,TX Southern,Iowa St
+1322,0.496,0.504,1,1235,1412,Iowa St,UAB,Iowa St
+1323,0.476,0.524,1,1235,1417,Iowa St,UCLA,Iowa St
+1324,0.44,0.56,1,1235,1425,Iowa St,USC,Iowa St
+1325,0.404,0.596,1,1235,1436,Iowa St,Vermont,Iowa St
+1326,0.46,0.54,1,1235,1437,Iowa St,Villanova,Iowa St
+1327,0.448,0.552,1,1235,1439,Iowa St,Virginia Tech,Iowa St
+1328,0.42,0.58,1,1235,1458,Iowa St,Wisconsin,Iowa St
+1329,0.424,0.576,1,1235,1460,Iowa St,Wright St,Iowa St
+1330,0.552,0.448,0,1235,1461,Iowa St,Wyoming,Wyoming
+1331,0.44,0.56,1,1235,1463,Iowa St,Yale,Iowa St
+1332,0.6,0.4,0,1240,1242,Jacksonville St,Kansas,Kansas
+1333,0.524,0.476,0,1240,1246,Jacksonville St,Kentucky,Kentucky
+1334,0.456,0.544,1,1240,1255,Jacksonville St,Longwood,Jacksonville St
+1335,0.544,0.456,0,1240,1260,Jacksonville St,Loyola-Chicago,Loyola-Chicago
+1336,0.568,0.432,0,1240,1261,Jacksonville St,LSU,LSU
+1337,0.512,0.488,0,1240,1266,Jacksonville St,Marquette,Marquette
+1338,0.492,0.508,1,1240,1272,Jacksonville St,Memphis,Jacksonville St
+1339,0.484,0.516,1,1240,1274,Jacksonville St,Miami FL,Jacksonville St
+1340,0.504,0.496,0,1240,1276,Jacksonville St,Michigan,Michigan
+1341,0.584,0.416,0,1240,1277,Jacksonville St,Michigan St,Michigan St
+1342,0.404,0.596,1,1240,1286,Jacksonville St,Montana St,Jacksonville St
+1343,0.436,0.564,1,1240,1293,Jacksonville St,Murray St,Jacksonville St
+1344,0.448,0.552,1,1240,1308,Jacksonville St,New Mexico St,Jacksonville St
+1345,0.42,0.58,1,1240,1313,Jacksonville St,Norfolk St,Jacksonville St
+1346,0.464,0.536,1,1240,1314,Jacksonville St,North Carolina,Jacksonville St
+1347,0.464,0.536,1,1240,1323,Jacksonville St,Notre Dame,Jacksonville St
+1348,0.584,0.416,0,1240,1326,Jacksonville St,Ohio St,Ohio St
+1349,0.412,0.588,1,1240,1344,Jacksonville St,Providence,Jacksonville St
+1350,0.576,0.424,0,1240,1345,Jacksonville St,Purdue,Purdue
+1351,0.484,0.516,1,1240,1350,Jacksonville St,Richmond,Jacksonville St
+1352,0.364,0.636,1,1240,1353,Jacksonville St,Rutgers,Jacksonville St
+1353,0.504,0.496,0,1240,1355,Jacksonville St,S Dakota St,S Dakota St
+1354,0.576,0.424,0,1240,1361,Jacksonville St,San Diego St,San Diego St
+1355,0.516,0.484,0,1240,1362,Jacksonville St,San Francisco,San Francisco
+1356,0.496,0.504,1,1240,1371,Jacksonville St,Seton Hall,Jacksonville St
+1357,0.476,0.524,1,1240,1388,Jacksonville St,St Mary's CA,Jacksonville St
+1358,0.46,0.54,1,1240,1389,Jacksonville St,St Peter's,Jacksonville St
+1359,0.456,0.544,1,1240,1394,Jacksonville St,TAM C. Christi,Jacksonville St
+1360,0.432,0.568,1,1240,1395,Jacksonville St,TCU,Jacksonville St
+1361,0.608,0.392,0,1240,1397,Jacksonville St,Tennessee,Tennessee
+1362,0.532,0.468,0,1240,1400,Jacksonville St,Texas,Texas
+1363,0.6,0.4,0,1240,1403,Jacksonville St,Texas Tech,Texas Tech
+1364,0.428,0.572,1,1240,1411,Jacksonville St,TX Southern,Jacksonville St
+1365,0.452,0.548,1,1240,1412,Jacksonville St,UAB,Jacksonville St
+1366,0.58,0.42,0,1240,1417,Jacksonville St,UCLA,UCLA
+1367,0.46,0.54,1,1240,1425,Jacksonville St,USC,Jacksonville St
+1368,0.46,0.54,1,1240,1436,Jacksonville St,Vermont,Jacksonville St
+1369,0.556,0.444,0,1240,1437,Jacksonville St,Villanova,Villanova
+1370,0.492,0.508,1,1240,1439,Jacksonville St,Virginia Tech,Jacksonville St
+1371,0.492,0.508,1,1240,1458,Jacksonville St,Wisconsin,Jacksonville St
+1372,0.444,0.556,1,1240,1460,Jacksonville St,Wright St,Jacksonville St
+1373,0.464,0.536,1,1240,1461,Jacksonville St,Wyoming,Jacksonville St
+1374,0.42,0.58,1,1240,1463,Jacksonville St,Yale,Jacksonville St
+1375,0.524,0.476,0,1242,1246,Kansas,Kentucky,Kentucky
+1376,0.524,0.476,0,1242,1255,Kansas,Longwood,Longwood
+1377,0.48,0.52,1,1242,1260,Kansas,Loyola-Chicago,Kansas
+1378,0.496,0.504,1,1242,1261,Kansas,LSU,Kansas
+1379,0.54,0.46,0,1242,1266,Kansas,Marquette,Marquette
+1380,0.512,0.488,0,1242,1272,Kansas,Memphis,Memphis
+1381,0.536,0.464,0,1242,1274,Kansas,Miami FL,Miami FL
+1382,0.492,0.508,1,1242,1276,Kansas,Michigan,Kansas
+1383,0.408,0.592,1,1242,1277,Kansas,Michigan St,Kansas
+1384,0.488,0.512,1,1242,1286,Kansas,Montana St,Kansas
+1385,0.512,0.488,0,1242,1293,Kansas,Murray St,Murray St
+1386,0.448,0.552,1,1242,1308,Kansas,New Mexico St,Kansas
+1387,0.488,0.512,1,1242,1313,Kansas,Norfolk St,Kansas
+1388,0.456,0.544,1,1242,1314,Kansas,North Carolina,Kansas
+1389,0.42,0.58,1,1242,1323,Kansas,Notre Dame,Kansas
+1390,0.424,0.576,1,1242,1326,Kansas,Ohio St,Kansas
+1391,0.472,0.528,1,1242,1344,Kansas,Providence,Kansas
+1392,0.432,0.568,1,1242,1345,Kansas,Purdue,Kansas
+1393,0.496,0.504,1,1242,1350,Kansas,Richmond,Kansas
+1394,0.496,0.504,1,1242,1353,Kansas,Rutgers,Kansas
+1395,0.544,0.456,0,1242,1355,Kansas,S Dakota St,S Dakota St
+1396,0.64,0.36,0,1242,1361,Kansas,San Diego St,San Diego St
+1397,0.44,0.56,1,1242,1362,Kansas,San Francisco,Kansas
+1398,0.4,0.6,1,1242,1371,Kansas,Seton Hall,Kansas
+1399,0.5,0.5,0,1242,1388,Kansas,St Mary's CA,St Mary's CA
+1400,0.516,0.484,0,1242,1389,Kansas,St Peter's,St Peter's
+1401,0.456,0.544,1,1242,1394,Kansas,TAM C. Christi,Kansas
+1402,0.48,0.52,1,1242,1395,Kansas,TCU,Kansas
+1403,0.572,0.428,0,1242,1397,Kansas,Tennessee,Tennessee
+1404,0.524,0.476,0,1242,1400,Kansas,Texas,Texas
+1405,0.552,0.448,0,1242,1403,Kansas,Texas Tech,Texas Tech
+1406,0.436,0.564,1,1242,1411,Kansas,TX Southern,Kansas
+1407,0.524,0.476,0,1242,1412,Kansas,UAB,UAB
+1408,0.492,0.508,1,1242,1417,Kansas,UCLA,Kansas
+1409,0.508,0.492,0,1242,1425,Kansas,USC,USC
+1410,0.524,0.476,0,1242,1436,Kansas,Vermont,Vermont
+1411,0.416,0.584,1,1242,1437,Kansas,Villanova,Kansas
+1412,0.464,0.536,1,1242,1439,Kansas,Virginia Tech,Kansas
+1413,0.508,0.492,0,1242,1458,Kansas,Wisconsin,Wisconsin
+1414,0.476,0.524,1,1242,1460,Kansas,Wright St,Kansas
+1415,0.504,0.496,0,1242,1461,Kansas,Wyoming,Wyoming
+1416,0.428,0.572,1,1242,1463,Kansas,Yale,Kansas
+1417,0.492,0.508,1,1246,1255,Kentucky,Longwood,Kentucky
+1418,0.456,0.544,1,1246,1260,Kentucky,Loyola-Chicago,Kentucky
+1419,0.516,0.484,0,1246,1261,Kentucky,LSU,LSU
+1420,0.676,0.324,0,1246,1266,Kentucky,Marquette,Marquette
+1421,0.536,0.464,0,1246,1272,Kentucky,Memphis,Memphis
+1422,0.448,0.552,1,1246,1274,Kentucky,Miami FL,Kentucky
+1423,0.448,0.552,1,1246,1276,Kentucky,Michigan,Kentucky
+1424,0.496,0.504,1,1246,1277,Kentucky,Michigan St,Kentucky
+1425,0.484,0.516,1,1246,1286,Kentucky,Montana St,Kentucky
+1426,0.564,0.436,0,1246,1293,Kentucky,Murray St,Murray St
+1427,0.464,0.536,1,1246,1308,Kentucky,New Mexico St,Kentucky
+1428,0.448,0.552,1,1246,1313,Kentucky,Norfolk St,Kentucky
+1429,0.444,0.556,1,1246,1314,Kentucky,North Carolina,Kentucky
+1430,0.488,0.512,1,1246,1323,Kentucky,Notre Dame,Kentucky
+1431,0.524,0.476,0,1246,1326,Kentucky,Ohio St,Ohio St
+1432,0.58,0.42,0,1246,1344,Kentucky,Providence,Providence
+1433,0.508,0.492,0,1246,1345,Kentucky,Purdue,Purdue
+1434,0.528,0.472,0,1246,1350,Kentucky,Richmond,Richmond
+1435,0.4,0.6,1,1246,1353,Kentucky,Rutgers,Kentucky
+1436,0.496,0.504,1,1246,1355,Kentucky,S Dakota St,Kentucky
+1437,0.592,0.408,0,1246,1361,Kentucky,San Diego St,San Diego St
+1438,0.48,0.52,1,1246,1362,Kentucky,San Francisco,Kentucky
+1439,0.572,0.428,0,1246,1371,Kentucky,Seton Hall,Seton Hall
+1440,0.428,0.572,1,1246,1388,Kentucky,St Mary's CA,Kentucky
+1441,0.472,0.528,1,1246,1389,Kentucky,St Peter's,Kentucky
+1442,0.528,0.472,0,1246,1394,Kentucky,TAM C. Christi,TAM C. Christi
+1443,0.532,0.468,0,1246,1395,Kentucky,TCU,TCU
+1444,0.516,0.484,0,1246,1397,Kentucky,Tennessee,Tennessee
+1445,0.528,0.472,0,1246,1400,Kentucky,Texas,Texas
+1446,0.452,0.548,1,1246,1403,Kentucky,Texas Tech,Kentucky
+1447,0.532,0.468,0,1246,1411,Kentucky,TX Southern,TX Southern
+1448,0.52,0.48,0,1246,1412,Kentucky,UAB,UAB
+1449,0.428,0.572,1,1246,1417,Kentucky,UCLA,Kentucky
+1450,0.532,0.468,0,1246,1425,Kentucky,USC,USC
+1451,0.568,0.432,0,1246,1436,Kentucky,Vermont,Vermont
+1452,0.348,0.652,1,1246,1437,Kentucky,Villanova,Kentucky
+1453,0.46,0.54,1,1246,1439,Kentucky,Virginia Tech,Kentucky
+1454,0.508,0.492,0,1246,1458,Kentucky,Wisconsin,Wisconsin
+1455,0.52,0.48,0,1246,1460,Kentucky,Wright St,Wright St
+1456,0.464,0.536,1,1246,1461,Kentucky,Wyoming,Kentucky
+1457,0.448,0.552,1,1246,1463,Kentucky,Yale,Kentucky
+1458,0.624,0.376,0,1255,1260,Longwood,Loyola-Chicago,Loyola-Chicago
+1459,0.408,0.592,1,1255,1261,Longwood,LSU,Longwood
+1460,0.704,0.296,0,1255,1266,Longwood,Marquette,Marquette
+1461,0.504,0.496,0,1255,1272,Longwood,Memphis,Memphis
+1462,0.6,0.4,0,1255,1274,Longwood,Miami FL,Miami FL
+1463,0.536,0.464,0,1255,1276,Longwood,Michigan,Michigan
+1464,0.612,0.388,0,1255,1277,Longwood,Michigan St,Michigan St
+1465,0.528,0.472,0,1255,1286,Longwood,Montana St,Montana St
+1466,0.452,0.548,1,1255,1293,Longwood,Murray St,Longwood
+1467,0.456,0.544,1,1255,1308,Longwood,New Mexico St,Longwood
+1468,0.412,0.588,1,1255,1313,Longwood,Norfolk St,Longwood
+1469,0.54,0.46,0,1255,1314,Longwood,North Carolina,North Carolina
+1470,0.548,0.452,0,1255,1323,Longwood,Notre Dame,Notre Dame
+1471,0.608,0.392,0,1255,1326,Longwood,Ohio St,Ohio St
+1472,0.484,0.516,1,1255,1344,Longwood,Providence,Longwood
+1473,0.564,0.436,0,1255,1345,Longwood,Purdue,Purdue
+1474,0.572,0.428,0,1255,1350,Longwood,Richmond,Richmond
+1475,0.432,0.568,1,1255,1353,Longwood,Rutgers,Longwood
+1476,0.524,0.476,0,1255,1355,Longwood,S Dakota St,S Dakota St
+1477,0.476,0.524,1,1255,1361,Longwood,San Diego St,Longwood
+1478,0.488,0.512,1,1255,1362,Longwood,San Francisco,Longwood
+1479,0.516,0.484,0,1255,1371,Longwood,Seton Hall,Seton Hall
+1480,0.556,0.444,0,1255,1388,Longwood,St Mary's CA,St Mary's CA
+1481,0.428,0.572,1,1255,1389,Longwood,St Peter's,Longwood
+1482,0.408,0.592,1,1255,1394,Longwood,TAM C. Christi,Longwood
+1483,0.5,0.5,0,1255,1395,Longwood,TCU,TCU
+1484,0.564,0.436,0,1255,1397,Longwood,Tennessee,Tennessee
+1485,0.568,0.432,0,1255,1400,Longwood,Texas,Texas
+1486,0.564,0.436,0,1255,1403,Longwood,Texas Tech,Texas Tech
+1487,0.52,0.48,0,1255,1411,Longwood,TX Southern,TX Southern
+1488,0.524,0.476,0,1255,1412,Longwood,UAB,UAB
+1489,0.556,0.444,0,1255,1417,Longwood,UCLA,UCLA
+1490,0.492,0.508,1,1255,1425,Longwood,USC,Longwood
+1491,0.472,0.528,1,1255,1436,Longwood,Vermont,Longwood
+1492,0.552,0.448,0,1255,1437,Longwood,Villanova,Villanova
+1493,0.556,0.444,0,1255,1439,Longwood,Virginia Tech,Virginia Tech
+1494,0.604,0.396,0,1255,1458,Longwood,Wisconsin,Wisconsin
+1495,0.412,0.588,1,1255,1460,Longwood,Wright St,Longwood
+1496,0.548,0.452,0,1255,1461,Longwood,Wyoming,Wyoming
+1497,0.424,0.576,1,1255,1463,Longwood,Yale,Longwood
+1498,0.488,0.512,1,1260,1261,Loyola-Chicago,LSU,Loyola-Chicago
+1499,0.536,0.464,0,1260,1266,Loyola-Chicago,Marquette,Marquette
+1500,0.524,0.476,0,1260,1272,Loyola-Chicago,Memphis,Memphis
+1501,0.556,0.444,0,1260,1274,Loyola-Chicago,Miami FL,Miami FL
+1502,0.5,0.5,0,1260,1276,Loyola-Chicago,Michigan,Michigan
+1503,0.548,0.452,0,1260,1277,Loyola-Chicago,Michigan St,Michigan St
+1504,0.42,0.58,1,1260,1286,Loyola-Chicago,Montana St,Loyola-Chicago
+1505,0.544,0.456,0,1260,1293,Loyola-Chicago,Murray St,Murray St
+1506,0.504,0.496,0,1260,1308,Loyola-Chicago,New Mexico St,New Mexico St
+1507,0.552,0.448,0,1260,1313,Loyola-Chicago,Norfolk St,Norfolk St
+1508,0.412,0.588,1,1260,1314,Loyola-Chicago,North Carolina,Loyola-Chicago
+1509,0.436,0.564,1,1260,1323,Loyola-Chicago,Notre Dame,Loyola-Chicago
+1510,0.484,0.516,1,1260,1326,Loyola-Chicago,Ohio St,Loyola-Chicago
+1511,0.488,0.512,1,1260,1344,Loyola-Chicago,Providence,Loyola-Chicago
+1512,0.504,0.496,0,1260,1345,Loyola-Chicago,Purdue,Purdue
+1513,0.48,0.52,1,1260,1350,Loyola-Chicago,Richmond,Loyola-Chicago
+1514,0.56,0.44,0,1260,1353,Loyola-Chicago,Rutgers,Rutgers
+1515,0.44,0.56,1,1260,1355,Loyola-Chicago,S Dakota St,Loyola-Chicago
+1516,0.564,0.436,0,1260,1361,Loyola-Chicago,San Diego St,San Diego St
+1517,0.544,0.456,0,1260,1362,Loyola-Chicago,San Francisco,San Francisco
+1518,0.44,0.56,1,1260,1371,Loyola-Chicago,Seton Hall,Loyola-Chicago
+1519,0.48,0.52,1,1260,1388,Loyola-Chicago,St Mary's CA,Loyola-Chicago
+1520,0.496,0.504,1,1260,1389,Loyola-Chicago,St Peter's,Loyola-Chicago
+1521,0.448,0.552,1,1260,1394,Loyola-Chicago,TAM C. Christi,Loyola-Chicago
+1522,0.58,0.42,0,1260,1395,Loyola-Chicago,TCU,TCU
+1523,0.54,0.46,0,1260,1397,Loyola-Chicago,Tennessee,Tennessee
+1524,0.496,0.504,1,1260,1400,Loyola-Chicago,Texas,Loyola-Chicago
+1525,0.54,0.46,0,1260,1403,Loyola-Chicago,Texas Tech,Texas Tech
+1526,0.536,0.464,0,1260,1411,Loyola-Chicago,TX Southern,TX Southern
+1527,0.524,0.476,0,1260,1412,Loyola-Chicago,UAB,UAB
+1528,0.572,0.428,0,1260,1417,Loyola-Chicago,UCLA,UCLA
+1529,0.544,0.456,0,1260,1425,Loyola-Chicago,USC,USC
+1530,0.392,0.608,1,1260,1436,Loyola-Chicago,Vermont,Loyola-Chicago
+1531,0.416,0.584,1,1260,1437,Loyola-Chicago,Villanova,Loyola-Chicago
+1532,0.48,0.52,1,1260,1439,Loyola-Chicago,Virginia Tech,Loyola-Chicago
+1533,0.444,0.556,1,1260,1458,Loyola-Chicago,Wisconsin,Loyola-Chicago
+1534,0.492,0.508,1,1260,1460,Loyola-Chicago,Wright St,Loyola-Chicago
+1535,0.492,0.508,1,1260,1461,Loyola-Chicago,Wyoming,Loyola-Chicago
+1536,0.504,0.496,0,1260,1463,Loyola-Chicago,Yale,Yale
+1537,0.44,0.56,1,1261,1266,LSU,Marquette,LSU
+1538,0.424,0.576,1,1261,1272,LSU,Memphis,LSU
+1539,0.48,0.52,1,1261,1274,LSU,Miami FL,LSU
+1540,0.524,0.476,0,1261,1276,LSU,Michigan,Michigan
+1541,0.428,0.572,1,1261,1277,LSU,Michigan St,LSU
+1542,0.484,0.516,1,1261,1286,LSU,Montana St,LSU
+1543,0.468,0.532,1,1261,1293,LSU,Murray St,LSU
+1544,0.48,0.52,1,1261,1308,LSU,New Mexico St,LSU
+1545,0.512,0.488,0,1261,1313,LSU,Norfolk St,Norfolk St
+1546,0.476,0.524,1,1261,1314,LSU,North Carolina,LSU
+1547,0.488,0.512,1,1261,1323,LSU,Notre Dame,LSU
+1548,0.436,0.564,1,1261,1326,LSU,Ohio St,LSU
+1549,0.464,0.536,1,1261,1344,LSU,Providence,LSU
+1550,0.424,0.576,1,1261,1345,LSU,Purdue,LSU
+1551,0.48,0.52,1,1261,1350,LSU,Richmond,LSU
+1552,0.424,0.576,1,1261,1353,LSU,Rutgers,LSU
+1553,0.46,0.54,1,1261,1355,LSU,S Dakota St,LSU
+1554,0.5,0.5,0,1261,1361,LSU,San Diego St,San Diego St
+1555,0.412,0.588,1,1261,1362,LSU,San Francisco,LSU
+1556,0.46,0.54,1,1261,1371,LSU,Seton Hall,LSU
+1557,0.512,0.488,0,1261,1388,LSU,St Mary's CA,St Mary's CA
+1558,0.52,0.48,0,1261,1389,LSU,St Peter's,St Peter's
+1559,0.496,0.504,1,1261,1394,LSU,TAM C. Christi,LSU
+1560,0.4,0.6,1,1261,1395,LSU,TCU,LSU
+1561,0.4,0.6,1,1261,1397,LSU,Tennessee,LSU
+1562,0.46,0.54,1,1261,1400,LSU,Texas,LSU
+1563,0.448,0.552,1,1261,1403,LSU,Texas Tech,LSU
+1564,0.424,0.576,1,1261,1411,LSU,TX Southern,LSU
+1565,0.5,0.5,0,1261,1412,LSU,UAB,UAB
+1566,0.424,0.576,1,1261,1417,LSU,UCLA,LSU
+1567,0.464,0.536,1,1261,1425,LSU,USC,LSU
+1568,0.472,0.528,1,1261,1436,LSU,Vermont,LSU
+1569,0.504,0.496,0,1261,1437,LSU,Villanova,Villanova
+1570,0.512,0.488,0,1261,1439,LSU,Virginia Tech,Virginia Tech
+1571,0.436,0.564,1,1261,1458,LSU,Wisconsin,LSU
+1572,0.472,0.528,1,1261,1460,LSU,Wright St,LSU
+1573,0.512,0.488,0,1261,1461,LSU,Wyoming,Wyoming
+1574,0.452,0.548,1,1261,1463,LSU,Yale,LSU
+1575,0.484,0.516,1,1266,1272,Marquette,Memphis,Marquette
+1576,0.488,0.512,1,1266,1274,Marquette,Miami FL,Marquette
+1577,0.42,0.58,1,1266,1276,Marquette,Michigan,Marquette
+1578,0.52,0.48,0,1266,1277,Marquette,Michigan St,Michigan St
+1579,0.528,0.472,0,1266,1286,Marquette,Montana St,Montana St
+1580,0.504,0.496,0,1266,1293,Marquette,Murray St,Murray St
+1581,0.452,0.548,1,1266,1308,Marquette,New Mexico St,Marquette
+1582,0.54,0.46,0,1266,1313,Marquette,Norfolk St,Norfolk St
+1583,0.408,0.592,1,1266,1314,Marquette,North Carolina,Marquette
+1584,0.5,0.5,0,1266,1323,Marquette,Notre Dame,Notre Dame
+1585,0.492,0.508,1,1266,1326,Marquette,Ohio St,Marquette
+1586,0.396,0.604,1,1266,1344,Marquette,Providence,Marquette
+1587,0.476,0.524,1,1266,1345,Marquette,Purdue,Marquette
+1588,0.556,0.444,0,1266,1350,Marquette,Richmond,Richmond
+1589,0.42,0.58,1,1266,1353,Marquette,Rutgers,Marquette
+1590,0.404,0.596,1,1266,1355,Marquette,S Dakota St,Marquette
+1591,0.564,0.436,0,1266,1361,Marquette,San Diego St,San Diego St
+1592,0.504,0.496,0,1266,1362,Marquette,San Francisco,San Francisco
+1593,0.48,0.52,1,1266,1371,Marquette,Seton Hall,Marquette
+1594,0.46,0.54,1,1266,1388,Marquette,St Mary's CA,Marquette
+1595,0.492,0.508,1,1266,1389,Marquette,St Peter's,Marquette
+1596,0.484,0.516,1,1266,1394,Marquette,TAM C. Christi,Marquette
+1597,0.564,0.436,0,1266,1395,Marquette,TCU,TCU
+1598,0.476,0.524,1,1266,1397,Marquette,Tennessee,Marquette
+1599,0.536,0.464,0,1266,1400,Marquette,Texas,Texas
+1600,0.484,0.516,1,1266,1403,Marquette,Texas Tech,Marquette
+1601,0.644,0.356,0,1266,1411,Marquette,TX Southern,TX Southern
+1602,0.556,0.444,0,1266,1412,Marquette,UAB,UAB
+1603,0.536,0.464,0,1266,1417,Marquette,UCLA,UCLA
+1604,0.448,0.552,1,1266,1425,Marquette,USC,Marquette
+1605,0.468,0.532,1,1266,1436,Marquette,Vermont,Marquette
+1606,0.428,0.572,1,1266,1437,Marquette,Villanova,Marquette
+1607,0.476,0.524,1,1266,1439,Marquette,Virginia Tech,Marquette
+1608,0.484,0.516,1,1266,1458,Marquette,Wisconsin,Marquette
+1609,0.48,0.52,1,1266,1460,Marquette,Wright St,Marquette
+1610,0.416,0.584,1,1266,1461,Marquette,Wyoming,Marquette
+1611,0.492,0.508,1,1266,1463,Marquette,Yale,Marquette
+1612,0.488,0.512,1,1272,1274,Memphis,Miami FL,Memphis
+1613,0.484,0.516,1,1272,1276,Memphis,Michigan,Memphis
+1614,0.396,0.604,1,1272,1277,Memphis,Michigan St,Memphis
+1615,0.504,0.496,0,1272,1286,Memphis,Montana St,Montana St
+1616,0.484,0.516,1,1272,1293,Memphis,Murray St,Memphis
+1617,0.468,0.532,1,1272,1308,Memphis,New Mexico St,Memphis
+1618,0.524,0.476,0,1272,1313,Memphis,Norfolk St,Norfolk St
+1619,0.452,0.548,1,1272,1314,Memphis,North Carolina,Memphis
+1620,0.532,0.468,0,1272,1323,Memphis,Notre Dame,Notre Dame
+1621,0.42,0.58,1,1272,1326,Memphis,Ohio St,Memphis
+1622,0.4,0.6,1,1272,1344,Memphis,Providence,Memphis
+1623,0.476,0.524,1,1272,1345,Memphis,Purdue,Memphis
+1624,0.512,0.488,0,1272,1350,Memphis,Richmond,Richmond
+1625,0.412,0.588,1,1272,1353,Memphis,Rutgers,Memphis
+1626,0.516,0.484,0,1272,1355,Memphis,S Dakota St,S Dakota St
+1627,0.524,0.476,0,1272,1361,Memphis,San Diego St,San Diego St
+1628,0.392,0.608,1,1272,1362,Memphis,San Francisco,Memphis
+1629,0.444,0.556,1,1272,1371,Memphis,Seton Hall,Memphis
+1630,0.468,0.532,1,1272,1388,Memphis,St Mary's CA,Memphis
+1631,0.424,0.576,1,1272,1389,Memphis,St Peter's,Memphis
+1632,0.508,0.492,0,1272,1394,Memphis,TAM C. Christi,TAM C. Christi
+1633,0.488,0.512,1,1272,1395,Memphis,TCU,Memphis
+1634,0.512,0.488,0,1272,1397,Memphis,Tennessee,Tennessee
+1635,0.492,0.508,1,1272,1400,Memphis,Texas,Memphis
+1636,0.468,0.532,1,1272,1403,Memphis,Texas Tech,Memphis
+1637,0.42,0.58,1,1272,1411,Memphis,TX Southern,Memphis
+1638,0.508,0.492,0,1272,1412,Memphis,UAB,UAB
+1639,0.42,0.58,1,1272,1417,Memphis,UCLA,Memphis
+1640,0.452,0.548,1,1272,1425,Memphis,USC,Memphis
+1641,0.584,0.416,0,1272,1436,Memphis,Vermont,Vermont
+1642,0.468,0.532,1,1272,1437,Memphis,Villanova,Memphis
+1643,0.472,0.528,1,1272,1439,Memphis,Virginia Tech,Memphis
+1644,0.376,0.624,1,1272,1458,Memphis,Wisconsin,Memphis
+1645,0.464,0.536,1,1272,1460,Memphis,Wright St,Memphis
+1646,0.572,0.428,0,1272,1461,Memphis,Wyoming,Wyoming
+1647,0.456,0.544,1,1272,1463,Memphis,Yale,Memphis
+1648,0.508,0.492,0,1274,1276,Miami FL,Michigan,Michigan
+1649,0.556,0.444,0,1274,1277,Miami FL,Michigan St,Michigan St
+1650,0.388,0.612,1,1274,1286,Miami FL,Montana St,Miami FL
+1651,0.512,0.488,0,1274,1293,Miami FL,Murray St,Murray St
+1652,0.424,0.576,1,1274,1308,Miami FL,New Mexico St,Miami FL
+1653,0.436,0.564,1,1274,1313,Miami FL,Norfolk St,Miami FL
+1654,0.444,0.556,1,1274,1314,Miami FL,North Carolina,Miami FL
+1655,0.556,0.444,0,1274,1323,Miami FL,Notre Dame,Notre Dame
+1656,0.488,0.512,1,1274,1326,Miami FL,Ohio St,Miami FL
+1657,0.404,0.596,1,1274,1344,Miami FL,Providence,Miami FL
+1658,0.42,0.58,1,1274,1345,Miami FL,Purdue,Miami FL
+1659,0.528,0.472,0,1274,1350,Miami FL,Richmond,Richmond
+1660,0.576,0.424,0,1274,1353,Miami FL,Rutgers,Rutgers
+1661,0.436,0.564,1,1274,1355,Miami FL,S Dakota St,Miami FL
+1662,0.468,0.532,1,1274,1361,Miami FL,San Diego St,Miami FL
+1663,0.416,0.584,1,1274,1362,Miami FL,San Francisco,Miami FL
+1664,0.528,0.472,0,1274,1371,Miami FL,Seton Hall,Seton Hall
+1665,0.544,0.456,0,1274,1388,Miami FL,St Mary's CA,St Mary's CA
+1666,0.424,0.576,1,1274,1389,Miami FL,St Peter's,Miami FL
+1667,0.488,0.512,1,1274,1394,Miami FL,TAM C. Christi,Miami FL
+1668,0.504,0.496,0,1274,1395,Miami FL,TCU,TCU
+1669,0.52,0.48,0,1274,1397,Miami FL,Tennessee,Tennessee
+1670,0.396,0.604,1,1274,1400,Miami FL,Texas,Miami FL
+1671,0.396,0.604,1,1274,1403,Miami FL,Texas Tech,Miami FL
+1672,0.624,0.376,0,1274,1411,Miami FL,TX Southern,TX Southern
+1673,0.544,0.456,0,1274,1412,Miami FL,UAB,UAB
+1674,0.592,0.408,0,1274,1417,Miami FL,UCLA,UCLA
+1675,0.46,0.54,1,1274,1425,Miami FL,USC,Miami FL
+1676,0.472,0.528,1,1274,1436,Miami FL,Vermont,Miami FL
+1677,0.48,0.52,1,1274,1437,Miami FL,Villanova,Miami FL
+1678,0.476,0.524,1,1274,1439,Miami FL,Virginia Tech,Miami FL
+1679,0.484,0.516,1,1274,1458,Miami FL,Wisconsin,Miami FL
+1680,0.484,0.516,1,1274,1460,Miami FL,Wright St,Miami FL
+1681,0.444,0.556,1,1274,1461,Miami FL,Wyoming,Miami FL
+1682,0.412,0.588,1,1274,1463,Miami FL,Yale,Miami FL
+1683,0.508,0.492,0,1276,1277,Michigan,Michigan St,Michigan St
+1684,0.448,0.552,1,1276,1286,Michigan,Montana St,Michigan
+1685,0.516,0.484,0,1276,1293,Michigan,Murray St,Murray St
+1686,0.46,0.54,1,1276,1308,Michigan,New Mexico St,Michigan
+1687,0.48,0.52,1,1276,1313,Michigan,Norfolk St,Michigan
+1688,0.496,0.504,1,1276,1314,Michigan,North Carolina,Michigan
+1689,0.556,0.444,0,1276,1323,Michigan,Notre Dame,Notre Dame
+1690,0.504,0.496,0,1276,1326,Michigan,Ohio St,Ohio St
+1691,0.352,0.648,1,1276,1344,Michigan,Providence,Michigan
+1692,0.496,0.504,1,1276,1345,Michigan,Purdue,Michigan
+1693,0.5,0.5,0,1276,1350,Michigan,Richmond,Richmond
+1694,0.556,0.444,0,1276,1353,Michigan,Rutgers,Rutgers
+1695,0.468,0.532,1,1276,1355,Michigan,S Dakota St,Michigan
+1696,0.612,0.388,0,1276,1361,Michigan,San Diego St,San Diego St
+1697,0.488,0.512,1,1276,1362,Michigan,San Francisco,Michigan
+1698,0.516,0.484,0,1276,1371,Michigan,Seton Hall,Seton Hall
+1699,0.568,0.432,0,1276,1388,Michigan,St Mary's CA,St Mary's CA
+1700,0.564,0.436,0,1276,1389,Michigan,St Peter's,St Peter's
+1701,0.472,0.528,1,1276,1394,Michigan,TAM C. Christi,Michigan
+1702,0.548,0.452,0,1276,1395,Michigan,TCU,TCU
+1703,0.528,0.472,0,1276,1397,Michigan,Tennessee,Tennessee
+1704,0.556,0.444,0,1276,1400,Michigan,Texas,Texas
+1705,0.584,0.416,0,1276,1403,Michigan,Texas Tech,Texas Tech
+1706,0.48,0.52,1,1276,1411,Michigan,TX Southern,Michigan
+1707,0.568,0.432,0,1276,1412,Michigan,UAB,UAB
+1708,0.516,0.484,0,1276,1417,Michigan,UCLA,UCLA
+1709,0.444,0.556,1,1276,1425,Michigan,USC,Michigan
+1710,0.412,0.588,1,1276,1436,Michigan,Vermont,Michigan
+1711,0.484,0.516,1,1276,1437,Michigan,Villanova,Michigan
+1712,0.464,0.536,1,1276,1439,Michigan,Virginia Tech,Michigan
+1713,0.436,0.564,1,1276,1458,Michigan,Wisconsin,Michigan
+1714,0.484,0.516,1,1276,1460,Michigan,Wright St,Michigan
+1715,0.432,0.568,1,1276,1461,Michigan,Wyoming,Michigan
+1716,0.456,0.544,1,1276,1463,Michigan,Yale,Michigan
+1717,0.504,0.496,0,1277,1286,Michigan St,Montana St,Montana St
+1718,0.548,0.452,0,1277,1293,Michigan St,Murray St,Murray St
+1719,0.52,0.48,0,1277,1308,Michigan St,New Mexico St,New Mexico St
+1720,0.552,0.448,0,1277,1313,Michigan St,Norfolk St,Norfolk St
+1721,0.52,0.48,0,1277,1314,Michigan St,North Carolina,North Carolina
+1722,0.436,0.564,1,1277,1323,Michigan St,Notre Dame,Michigan St
+1723,0.428,0.572,1,1277,1326,Michigan St,Ohio St,Michigan St
+1724,0.42,0.58,1,1277,1344,Michigan St,Providence,Michigan St
+1725,0.54,0.46,0,1277,1345,Michigan St,Purdue,Purdue
+1726,0.556,0.444,0,1277,1350,Michigan St,Richmond,Richmond
+1727,0.568,0.432,0,1277,1353,Michigan St,Rutgers,Rutgers
+1728,0.504,0.496,0,1277,1355,Michigan St,S Dakota St,S Dakota St
+1729,0.632,0.368,0,1277,1361,Michigan St,San Diego St,San Diego St
+1730,0.532,0.468,0,1277,1362,Michigan St,San Francisco,San Francisco
+1731,0.556,0.444,0,1277,1371,Michigan St,Seton Hall,Seton Hall
+1732,0.516,0.484,0,1277,1388,Michigan St,St Mary's CA,St Mary's CA
+1733,0.588,0.412,0,1277,1389,Michigan St,St Peter's,St Peter's
+1734,0.496,0.504,1,1277,1394,Michigan St,TAM C. Christi,Michigan St
+1735,0.56,0.44,0,1277,1395,Michigan St,TCU,TCU
+1736,0.492,0.508,1,1277,1397,Michigan St,Tennessee,Michigan St
+1737,0.52,0.48,0,1277,1400,Michigan St,Texas,Texas
+1738,0.528,0.472,0,1277,1403,Michigan St,Texas Tech,Texas Tech
+1739,0.548,0.452,0,1277,1411,Michigan St,TX Southern,TX Southern
+1740,0.564,0.436,0,1277,1412,Michigan St,UAB,UAB
+1741,0.504,0.496,0,1277,1417,Michigan St,UCLA,UCLA
+1742,0.488,0.512,1,1277,1425,Michigan St,USC,Michigan St
+1743,0.5,0.5,0,1277,1436,Michigan St,Vermont,Vermont
+1744,0.504,0.496,0,1277,1437,Michigan St,Villanova,Villanova
+1745,0.42,0.58,1,1277,1439,Michigan St,Virginia Tech,Michigan St
+1746,0.472,0.528,1,1277,1458,Michigan St,Wisconsin,Michigan St
+1747,0.5,0.5,0,1277,1460,Michigan St,Wright St,Wright St
+1748,0.548,0.452,0,1277,1461,Michigan St,Wyoming,Wyoming
+1749,0.572,0.428,0,1277,1463,Michigan St,Yale,Yale
+1750,0.488,0.512,1,1286,1293,Montana St,Murray St,Montana St
+1751,0.432,0.568,1,1286,1308,Montana St,New Mexico St,Montana St
+1752,0.536,0.464,0,1286,1313,Montana St,Norfolk St,Norfolk St
+1753,0.528,0.472,0,1286,1314,Montana St,North Carolina,North Carolina
+1754,0.424,0.576,1,1286,1323,Montana St,Notre Dame,Montana St
+1755,0.52,0.48,0,1286,1326,Montana St,Ohio St,Ohio St
+1756,0.528,0.472,0,1286,1344,Montana St,Providence,Providence
+1757,0.556,0.444,0,1286,1345,Montana St,Purdue,Purdue
+1758,0.46,0.54,1,1286,1350,Montana St,Richmond,Montana St
+1759,0.456,0.544,1,1286,1353,Montana St,Rutgers,Montana St
+1760,0.432,0.568,1,1286,1355,Montana St,S Dakota St,Montana St
+1761,0.524,0.476,0,1286,1361,Montana St,San Diego St,San Diego St
+1762,0.436,0.564,1,1286,1362,Montana St,San Francisco,Montana St
+1763,0.468,0.532,1,1286,1371,Montana St,Seton Hall,Montana St
+1764,0.484,0.516,1,1286,1388,Montana St,St Mary's CA,Montana St
+1765,0.56,0.44,0,1286,1389,Montana St,St Peter's,St Peter's
+1766,0.44,0.56,1,1286,1394,Montana St,TAM C. Christi,Montana St
+1767,0.44,0.56,1,1286,1395,Montana St,TCU,Montana St
+1768,0.584,0.416,0,1286,1397,Montana St,Tennessee,Tennessee
+1769,0.54,0.46,0,1286,1400,Montana St,Texas,Texas
+1770,0.532,0.468,0,1286,1403,Montana St,Texas Tech,Texas Tech
+1771,0.528,0.472,0,1286,1411,Montana St,TX Southern,TX Southern
+1772,0.46,0.54,1,1286,1412,Montana St,UAB,Montana St
+1773,0.532,0.468,0,1286,1417,Montana St,UCLA,UCLA
+1774,0.452,0.548,1,1286,1425,Montana St,USC,Montana St
+1775,0.428,0.572,1,1286,1436,Montana St,Vermont,Montana St
+1776,0.54,0.46,0,1286,1437,Montana St,Villanova,Villanova
+1777,0.552,0.448,0,1286,1439,Montana St,Virginia Tech,Virginia Tech
+1778,0.5,0.5,0,1286,1458,Montana St,Wisconsin,Wisconsin
+1779,0.408,0.592,1,1286,1460,Montana St,Wright St,Montana St
+1780,0.488,0.512,1,1286,1461,Montana St,Wyoming,Montana St
+1781,0.452,0.548,1,1286,1463,Montana St,Yale,Montana St
+1782,0.52,0.48,0,1293,1308,Murray St,New Mexico St,New Mexico St
+1783,0.436,0.564,1,1293,1313,Murray St,Norfolk St,Murray St
+1784,0.432,0.568,1,1293,1314,Murray St,North Carolina,Murray St
+1785,0.352,0.648,1,1293,1323,Murray St,Notre Dame,Murray St
+1786,0.432,0.568,1,1293,1326,Murray St,Ohio St,Murray St
+1787,0.428,0.572,1,1293,1344,Murray St,Providence,Murray St
+1788,0.46,0.54,1,1293,1345,Murray St,Purdue,Murray St
+1789,0.54,0.46,0,1293,1350,Murray St,Richmond,Richmond
+1790,0.408,0.592,1,1293,1353,Murray St,Rutgers,Murray St
+1791,0.504,0.496,0,1293,1355,Murray St,S Dakota St,S Dakota St
+1792,0.396,0.604,1,1293,1361,Murray St,San Diego St,Murray St
+1793,0.476,0.524,1,1293,1362,Murray St,San Francisco,Murray St
+1794,0.432,0.568,1,1293,1371,Murray St,Seton Hall,Murray St
+1795,0.476,0.524,1,1293,1388,Murray St,St Mary's CA,Murray St
+1796,0.44,0.56,1,1293,1389,Murray St,St Peter's,Murray St
+1797,0.444,0.556,1,1293,1394,Murray St,TAM C. Christi,Murray St
+1798,0.488,0.512,1,1293,1395,Murray St,TCU,Murray St
+1799,0.5,0.5,0,1293,1397,Murray St,Tennessee,Tennessee
+1800,0.468,0.532,1,1293,1400,Murray St,Texas,Murray St
+1801,0.488,0.512,1,1293,1403,Murray St,Texas Tech,Murray St
+1802,0.484,0.516,1,1293,1411,Murray St,TX Southern,Murray St
+1803,0.52,0.48,0,1293,1412,Murray St,UAB,UAB
+1804,0.408,0.592,1,1293,1417,Murray St,UCLA,Murray St
+1805,0.424,0.576,1,1293,1425,Murray St,USC,Murray St
+1806,0.368,0.632,1,1293,1436,Murray St,Vermont,Murray St
+1807,0.488,0.512,1,1293,1437,Murray St,Villanova,Murray St
+1808,0.512,0.488,0,1293,1439,Murray St,Virginia Tech,Virginia Tech
+1809,0.408,0.592,1,1293,1458,Murray St,Wisconsin,Murray St
+1810,0.4,0.6,1,1293,1460,Murray St,Wright St,Murray St
+1811,0.472,0.528,1,1293,1461,Murray St,Wyoming,Murray St
+1812,0.368,0.632,1,1293,1463,Murray St,Yale,Murray St
+1813,0.528,0.472,0,1308,1313,New Mexico St,Norfolk St,Norfolk St
+1814,0.504,0.496,0,1308,1314,New Mexico St,North Carolina,North Carolina
+1815,0.56,0.44,0,1308,1323,New Mexico St,Notre Dame,Notre Dame
+1816,0.512,0.488,0,1308,1326,New Mexico St,Ohio St,Ohio St
+1817,0.432,0.568,1,1308,1344,New Mexico St,Providence,New Mexico St
+1818,0.552,0.448,0,1308,1345,New Mexico St,Purdue,Purdue
+1819,0.616,0.384,0,1308,1350,New Mexico St,Richmond,Richmond
+1820,0.512,0.488,0,1308,1353,New Mexico St,Rutgers,Rutgers
+1821,0.504,0.496,0,1308,1355,New Mexico St,S Dakota St,S Dakota St
+1822,0.6,0.4,0,1308,1361,New Mexico St,San Diego St,San Diego St
+1823,0.58,0.42,0,1308,1362,New Mexico St,San Francisco,San Francisco
+1824,0.544,0.456,0,1308,1371,New Mexico St,Seton Hall,Seton Hall
+1825,0.524,0.476,0,1308,1388,New Mexico St,St Mary's CA,St Mary's CA
+1826,0.548,0.452,0,1308,1389,New Mexico St,St Peter's,St Peter's
+1827,0.504,0.496,0,1308,1394,New Mexico St,TAM C. Christi,TAM C. Christi
+1828,0.52,0.48,0,1308,1395,New Mexico St,TCU,TCU
+1829,0.504,0.496,0,1308,1397,New Mexico St,Tennessee,Tennessee
+1830,0.46,0.54,1,1308,1400,New Mexico St,Texas,New Mexico St
+1831,0.496,0.504,1,1308,1403,New Mexico St,Texas Tech,New Mexico St
+1832,0.512,0.488,0,1308,1411,New Mexico St,TX Southern,TX Southern
+1833,0.548,0.452,0,1308,1412,New Mexico St,UAB,UAB
+1834,0.472,0.528,1,1308,1417,New Mexico St,UCLA,New Mexico St
+1835,0.464,0.536,1,1308,1425,New Mexico St,USC,New Mexico St
+1836,0.552,0.448,0,1308,1436,New Mexico St,Vermont,Vermont
+1837,0.512,0.488,0,1308,1437,New Mexico St,Villanova,Villanova
+1838,0.46,0.54,1,1308,1439,New Mexico St,Virginia Tech,New Mexico St
+1839,0.428,0.572,1,1308,1458,New Mexico St,Wisconsin,New Mexico St
+1840,0.496,0.504,1,1308,1460,New Mexico St,Wright St,New Mexico St
+1841,0.476,0.524,1,1308,1461,New Mexico St,Wyoming,New Mexico St
+1842,0.532,0.468,0,1308,1463,New Mexico St,Yale,Yale
+1843,0.512,0.488,0,1313,1314,Norfolk St,North Carolina,North Carolina
+1844,0.572,0.428,0,1313,1323,Norfolk St,Notre Dame,Notre Dame
+1845,0.5,0.5,0,1313,1326,Norfolk St,Ohio St,Ohio St
+1846,0.512,0.488,0,1313,1344,Norfolk St,Providence,Providence
+1847,0.472,0.528,1,1313,1345,Norfolk St,Purdue,Norfolk St
+1848,0.604,0.396,0,1313,1350,Norfolk St,Richmond,Richmond
+1849,0.616,0.384,0,1313,1353,Norfolk St,Rutgers,Rutgers
+1850,0.616,0.384,0,1313,1355,Norfolk St,S Dakota St,S Dakota St
+1851,0.504,0.496,0,1313,1361,Norfolk St,San Diego St,San Diego St
+1852,0.592,0.408,0,1313,1362,Norfolk St,San Francisco,San Francisco
+1853,0.488,0.512,1,1313,1371,Norfolk St,Seton Hall,Norfolk St
+1854,0.628,0.372,0,1313,1388,Norfolk St,St Mary's CA,St Mary's CA
+1855,0.464,0.536,1,1313,1389,Norfolk St,St Peter's,Norfolk St
+1856,0.464,0.536,1,1313,1394,Norfolk St,TAM C. Christi,Norfolk St
+1857,0.504,0.496,0,1313,1395,Norfolk St,TCU,TCU
+1858,0.576,0.424,0,1313,1397,Norfolk St,Tennessee,Tennessee
+1859,0.532,0.468,0,1313,1400,Norfolk St,Texas,Texas
+1860,0.532,0.468,0,1313,1403,Norfolk St,Texas Tech,Texas Tech
+1861,0.448,0.552,1,1313,1411,Norfolk St,TX Southern,Norfolk St
+1862,0.516,0.484,0,1313,1412,Norfolk St,UAB,UAB
+1863,0.584,0.416,0,1313,1417,Norfolk St,UCLA,UCLA
+1864,0.492,0.508,1,1313,1425,Norfolk St,USC,Norfolk St
+1865,0.488,0.512,1,1313,1436,Norfolk St,Vermont,Norfolk St
+1866,0.544,0.456,0,1313,1437,Norfolk St,Villanova,Villanova
+1867,0.508,0.492,0,1313,1439,Norfolk St,Virginia Tech,Virginia Tech
+1868,0.572,0.428,0,1313,1458,Norfolk St,Wisconsin,Wisconsin
+1869,0.388,0.612,1,1313,1460,Norfolk St,Wright St,Norfolk St
+1870,0.588,0.412,0,1313,1461,Norfolk St,Wyoming,Wyoming
+1871,0.44,0.56,1,1313,1463,Norfolk St,Yale,Norfolk St
+1872,0.516,0.484,0,1314,1323,North Carolina,Notre Dame,Notre Dame
+1873,0.388,0.612,1,1314,1326,North Carolina,Ohio St,North Carolina
+1874,0.472,0.528,1,1314,1344,North Carolina,Providence,North Carolina
+1875,0.452,0.548,1,1314,1345,North Carolina,Purdue,North Carolina
+1876,0.504,0.496,0,1314,1350,North Carolina,Richmond,Richmond
+1877,0.532,0.468,0,1314,1353,North Carolina,Rutgers,Rutgers
+1878,0.516,0.484,0,1314,1355,North Carolina,S Dakota St,S Dakota St
+1879,0.492,0.508,1,1314,1361,North Carolina,San Diego St,North Carolina
+1880,0.524,0.476,0,1314,1362,North Carolina,San Francisco,San Francisco
+1881,0.548,0.452,0,1314,1371,North Carolina,Seton Hall,Seton Hall
+1882,0.548,0.452,0,1314,1388,North Carolina,St Mary's CA,St Mary's CA
+1883,0.54,0.46,0,1314,1389,North Carolina,St Peter's,St Peter's
+1884,0.472,0.528,1,1314,1394,North Carolina,TAM C. Christi,North Carolina
+1885,0.48,0.52,1,1314,1395,North Carolina,TCU,North Carolina
+1886,0.536,0.464,0,1314,1397,North Carolina,Tennessee,Tennessee
+1887,0.54,0.46,0,1314,1400,North Carolina,Texas,Texas
+1888,0.584,0.416,0,1314,1403,North Carolina,Texas Tech,Texas Tech
+1889,0.54,0.46,0,1314,1411,North Carolina,TX Southern,TX Southern
+1890,0.524,0.476,0,1314,1412,North Carolina,UAB,UAB
+1891,0.44,0.56,1,1314,1417,North Carolina,UCLA,North Carolina
+1892,0.576,0.424,0,1314,1425,North Carolina,USC,USC
+1893,0.424,0.576,1,1314,1436,North Carolina,Vermont,North Carolina
+1894,0.448,0.552,1,1314,1437,North Carolina,Villanova,North Carolina
+1895,0.484,0.516,1,1314,1439,North Carolina,Virginia Tech,North Carolina
+1896,0.344,0.656,1,1314,1458,North Carolina,Wisconsin,North Carolina
+1897,0.512,0.488,0,1314,1460,North Carolina,Wright St,Wright St
+1898,0.496,0.504,1,1314,1461,North Carolina,Wyoming,North Carolina
+1899,0.544,0.456,0,1314,1463,North Carolina,Yale,Yale
+1900,0.468,0.532,1,1323,1326,Notre Dame,Ohio St,Notre Dame
+1901,0.472,0.528,1,1323,1344,Notre Dame,Providence,Notre Dame
+1902,0.428,0.572,1,1323,1345,Notre Dame,Purdue,Notre Dame
+1903,0.568,0.432,0,1323,1350,Notre Dame,Richmond,Richmond
+1904,0.456,0.544,1,1323,1353,Notre Dame,Rutgers,Notre Dame
+1905,0.452,0.548,1,1323,1355,Notre Dame,S Dakota St,Notre Dame
+1906,0.456,0.544,1,1323,1361,Notre Dame,San Diego St,Notre Dame
+1907,0.456,0.544,1,1323,1362,Notre Dame,San Francisco,Notre Dame
+1908,0.464,0.536,1,1323,1371,Notre Dame,Seton Hall,Notre Dame
+1909,0.576,0.424,0,1323,1388,Notre Dame,St Mary's CA,St Mary's CA
+1910,0.516,0.484,0,1323,1389,Notre Dame,St Peter's,St Peter's
+1911,0.54,0.46,0,1323,1394,Notre Dame,TAM C. Christi,TAM C. Christi
+1912,0.468,0.532,1,1323,1395,Notre Dame,TCU,Notre Dame
+1913,0.46,0.54,1,1323,1397,Notre Dame,Tennessee,Notre Dame
+1914,0.536,0.464,0,1323,1400,Notre Dame,Texas,Texas
+1915,0.42,0.58,1,1323,1403,Notre Dame,Texas Tech,Notre Dame
+1916,0.556,0.444,0,1323,1411,Notre Dame,TX Southern,TX Southern
+1917,0.524,0.476,0,1323,1412,Notre Dame,UAB,UAB
+1918,0.484,0.516,1,1323,1417,Notre Dame,UCLA,Notre Dame
+1919,0.552,0.448,0,1323,1425,Notre Dame,USC,USC
+1920,0.412,0.588,1,1323,1436,Notre Dame,Vermont,Notre Dame
+1921,0.464,0.536,1,1323,1437,Notre Dame,Villanova,Notre Dame
+1922,0.476,0.524,1,1323,1439,Notre Dame,Virginia Tech,Notre Dame
+1923,0.472,0.528,1,1323,1458,Notre Dame,Wisconsin,Notre Dame
+1924,0.452,0.548,1,1323,1460,Notre Dame,Wright St,Notre Dame
+1925,0.388,0.612,1,1323,1461,Notre Dame,Wyoming,Notre Dame
+1926,0.484,0.516,1,1323,1463,Notre Dame,Yale,Notre Dame
+1927,0.528,0.472,0,1326,1344,Ohio St,Providence,Providence
+1928,0.52,0.48,0,1326,1345,Ohio St,Purdue,Purdue
+1929,0.504,0.496,0,1326,1350,Ohio St,Richmond,Richmond
+1930,0.56,0.44,0,1326,1353,Ohio St,Rutgers,Rutgers
+1931,0.552,0.448,0,1326,1355,Ohio St,S Dakota St,S Dakota St
+1932,0.528,0.472,0,1326,1361,Ohio St,San Diego St,San Diego St
+1933,0.48,0.52,1,1326,1362,Ohio St,San Francisco,Ohio St
+1934,0.524,0.476,0,1326,1371,Ohio St,Seton Hall,Seton Hall
+1935,0.54,0.46,0,1326,1388,Ohio St,St Mary's CA,St Mary's CA
+1936,0.56,0.44,0,1326,1389,Ohio St,St Peter's,St Peter's
+1937,0.44,0.56,1,1326,1394,Ohio St,TAM C. Christi,Ohio St
+1938,0.616,0.384,0,1326,1395,Ohio St,TCU,TCU
+1939,0.532,0.468,0,1326,1397,Ohio St,Tennessee,Tennessee
+1940,0.544,0.456,0,1326,1400,Ohio St,Texas,Texas
+1941,0.544,0.456,0,1326,1403,Ohio St,Texas Tech,Texas Tech
+1942,0.536,0.464,0,1326,1411,Ohio St,TX Southern,TX Southern
+1943,0.496,0.504,1,1326,1412,Ohio St,UAB,Ohio St
+1944,0.612,0.388,0,1326,1417,Ohio St,UCLA,UCLA
+1945,0.536,0.464,0,1326,1425,Ohio St,USC,USC
+1946,0.492,0.508,1,1326,1436,Ohio St,Vermont,Ohio St
+1947,0.448,0.552,1,1326,1437,Ohio St,Villanova,Ohio St
+1948,0.54,0.46,0,1326,1439,Ohio St,Virginia Tech,Virginia Tech
+1949,0.484,0.516,1,1326,1458,Ohio St,Wisconsin,Ohio St
+1950,0.5,0.5,0,1326,1460,Ohio St,Wright St,Wright St
+1951,0.468,0.532,1,1326,1461,Ohio St,Wyoming,Ohio St
+1952,0.528,0.472,0,1326,1463,Ohio St,Yale,Yale
+1953,0.492,0.508,1,1344,1345,Providence,Purdue,Providence
+1954,0.568,0.432,0,1344,1350,Providence,Richmond,Richmond
+1955,0.58,0.42,0,1344,1353,Providence,Rutgers,Rutgers
+1956,0.46,0.54,1,1344,1355,Providence,S Dakota St,Providence
+1957,0.544,0.456,0,1344,1361,Providence,San Diego St,San Diego St
+1958,0.572,0.428,0,1344,1362,Providence,San Francisco,San Francisco
+1959,0.44,0.56,1,1344,1371,Providence,Seton Hall,Providence
+1960,0.508,0.492,0,1344,1388,Providence,St Mary's CA,St Mary's CA
+1961,0.564,0.436,0,1344,1389,Providence,St Peter's,St Peter's
+1962,0.384,0.616,1,1344,1394,Providence,TAM C. Christi,Providence
+1963,0.536,0.464,0,1344,1395,Providence,TCU,TCU
+1964,0.54,0.46,0,1344,1397,Providence,Tennessee,Tennessee
+1965,0.584,0.416,0,1344,1400,Providence,Texas,Texas
+1966,0.612,0.388,0,1344,1403,Providence,Texas Tech,Texas Tech
+1967,0.484,0.516,1,1344,1411,Providence,TX Southern,Providence
+1968,0.556,0.444,0,1344,1412,Providence,UAB,UAB
+1969,0.56,0.44,0,1344,1417,Providence,UCLA,UCLA
+1970,0.628,0.372,0,1344,1425,Providence,USC,USC
+1971,0.38,0.62,1,1344,1436,Providence,Vermont,Providence
+1972,0.496,0.504,1,1344,1437,Providence,Villanova,Providence
+1973,0.404,0.596,1,1344,1439,Providence,Virginia Tech,Providence
+1974,0.448,0.552,1,1344,1458,Providence,Wisconsin,Providence
+1975,0.48,0.52,1,1344,1460,Providence,Wright St,Providence
+1976,0.488,0.512,1,1344,1461,Providence,Wyoming,Providence
+1977,0.544,0.456,0,1344,1463,Providence,Yale,Yale
+1978,0.48,0.52,1,1345,1350,Purdue,Richmond,Purdue
+1979,0.492,0.508,1,1345,1353,Purdue,Rutgers,Purdue
+1980,0.44,0.56,1,1345,1355,Purdue,S Dakota St,Purdue
+1981,0.528,0.472,0,1345,1361,Purdue,San Diego St,San Diego St
+1982,0.588,0.412,0,1345,1362,Purdue,San Francisco,San Francisco
+1983,0.456,0.544,1,1345,1371,Purdue,Seton Hall,Purdue
+1984,0.492,0.508,1,1345,1388,Purdue,St Mary's CA,Purdue
+1985,0.464,0.536,1,1345,1389,Purdue,St Peter's,Purdue
+1986,0.468,0.532,1,1345,1394,Purdue,TAM C. Christi,Purdue
+1987,0.564,0.436,0,1345,1395,Purdue,TCU,TCU
+1988,0.584,0.416,0,1345,1397,Purdue,Tennessee,Tennessee
+1989,0.5,0.5,0,1345,1400,Purdue,Texas,Texas
+1990,0.676,0.324,0,1345,1403,Purdue,Texas Tech,Texas Tech
+1991,0.52,0.48,0,1345,1411,Purdue,TX Southern,TX Southern
+1992,0.516,0.484,0,1345,1412,Purdue,UAB,UAB
+1993,0.412,0.588,1,1345,1417,Purdue,UCLA,Purdue
+1994,0.548,0.452,0,1345,1425,Purdue,USC,USC
+1995,0.404,0.596,1,1345,1436,Purdue,Vermont,Purdue
+1996,0.444,0.556,1,1345,1437,Purdue,Villanova,Purdue
+1997,0.4,0.6,1,1345,1439,Purdue,Virginia Tech,Purdue
+1998,0.436,0.564,1,1345,1458,Purdue,Wisconsin,Purdue
+1999,0.5,0.5,0,1345,1460,Purdue,Wright St,Wright St
+2000,0.572,0.428,0,1345,1461,Purdue,Wyoming,Wyoming
+2001,0.472,0.528,1,1345,1463,Purdue,Yale,Purdue
+2002,0.436,0.564,1,1350,1353,Richmond,Rutgers,Richmond
+2003,0.416,0.584,1,1350,1355,Richmond,S Dakota St,Richmond
+2004,0.372,0.628,1,1350,1361,Richmond,San Diego St,Richmond
+2005,0.448,0.552,1,1350,1362,Richmond,San Francisco,Richmond
+2006,0.488,0.512,1,1350,1371,Richmond,Seton Hall,Richmond
+2007,0.508,0.492,0,1350,1388,Richmond,St Mary's CA,St Mary's CA
+2008,0.448,0.552,1,1350,1389,Richmond,St Peter's,Richmond
+2009,0.548,0.452,0,1350,1394,Richmond,TAM C. Christi,TAM C. Christi
+2010,0.488,0.512,1,1350,1395,Richmond,TCU,Richmond
+2011,0.424,0.576,1,1350,1397,Richmond,Tennessee,Richmond
+2012,0.476,0.524,1,1350,1400,Richmond,Texas,Richmond
+2013,0.436,0.564,1,1350,1403,Richmond,Texas Tech,Richmond
+2014,0.436,0.564,1,1350,1411,Richmond,TX Southern,Richmond
+2015,0.428,0.572,1,1350,1412,Richmond,UAB,Richmond
+2016,0.484,0.516,1,1350,1417,Richmond,UCLA,Richmond
+2017,0.388,0.612,1,1350,1425,Richmond,USC,Richmond
+2018,0.368,0.632,1,1350,1436,Richmond,Vermont,Richmond
+2019,0.452,0.548,1,1350,1437,Richmond,Villanova,Richmond
+2020,0.516,0.484,0,1350,1439,Richmond,Virginia Tech,Virginia Tech
+2021,0.544,0.456,0,1350,1458,Richmond,Wisconsin,Wisconsin
+2022,0.356,0.644,1,1350,1460,Richmond,Wright St,Richmond
+2023,0.436,0.564,1,1350,1461,Richmond,Wyoming,Richmond
+2024,0.472,0.528,1,1350,1463,Richmond,Yale,Richmond
+2025,0.484,0.516,1,1353,1355,Rutgers,S Dakota St,Rutgers
+2026,0.508,0.492,0,1353,1361,Rutgers,San Diego St,San Diego St
+2027,0.444,0.556,1,1353,1362,Rutgers,San Francisco,Rutgers
+2028,0.432,0.568,1,1353,1371,Rutgers,Seton Hall,Rutgers
+2029,0.424,0.576,1,1353,1388,Rutgers,St Mary's CA,Rutgers
+2030,0.544,0.456,0,1353,1389,Rutgers,St Peter's,St Peter's
+2031,0.544,0.456,0,1353,1394,Rutgers,TAM C. Christi,TAM C. Christi
+2032,0.504,0.496,0,1353,1395,Rutgers,TCU,TCU
+2033,0.564,0.436,0,1353,1397,Rutgers,Tennessee,Tennessee
+2034,0.492,0.508,1,1353,1400,Rutgers,Texas,Rutgers
+2035,0.408,0.592,1,1353,1403,Rutgers,Texas Tech,Rutgers
+2036,0.44,0.56,1,1353,1411,Rutgers,TX Southern,Rutgers
+2037,0.544,0.456,0,1353,1412,Rutgers,UAB,UAB
+2038,0.448,0.552,1,1353,1417,Rutgers,UCLA,Rutgers
+2039,0.468,0.532,1,1353,1425,Rutgers,USC,Rutgers
+2040,0.476,0.524,1,1353,1436,Rutgers,Vermont,Rutgers
+2041,0.408,0.592,1,1353,1437,Rutgers,Villanova,Rutgers
+2042,0.484,0.516,1,1353,1439,Rutgers,Virginia Tech,Rutgers
+2043,0.432,0.568,1,1353,1458,Rutgers,Wisconsin,Rutgers
+2044,0.372,0.628,1,1353,1460,Rutgers,Wright St,Rutgers
+2045,0.5,0.5,0,1353,1461,Rutgers,Wyoming,Wyoming
+2046,0.376,0.624,1,1353,1463,Rutgers,Yale,Rutgers
+2047,0.536,0.464,0,1355,1361,S Dakota St,San Diego St,San Diego St
+2048,0.48,0.52,1,1355,1362,S Dakota St,San Francisco,S Dakota St
+2049,0.512,0.488,0,1355,1371,S Dakota St,Seton Hall,Seton Hall
+2050,0.416,0.584,1,1355,1388,S Dakota St,St Mary's CA,S Dakota St
+2051,0.556,0.444,0,1355,1389,S Dakota St,St Peter's,St Peter's
+2052,0.448,0.552,1,1355,1394,S Dakota St,TAM C. Christi,S Dakota St
+2053,0.576,0.424,0,1355,1395,S Dakota St,TCU,TCU
+2054,0.572,0.428,0,1355,1397,S Dakota St,Tennessee,Tennessee
+2055,0.508,0.492,0,1355,1400,S Dakota St,Texas,Texas
+2056,0.48,0.52,1,1355,1403,S Dakota St,Texas Tech,S Dakota St
+2057,0.648,0.352,0,1355,1411,S Dakota St,TX Southern,TX Southern
+2058,0.444,0.556,1,1355,1412,S Dakota St,UAB,S Dakota St
+2059,0.516,0.484,0,1355,1417,S Dakota St,UCLA,UCLA
+2060,0.5,0.5,0,1355,1425,S Dakota St,USC,USC
+2061,0.492,0.508,1,1355,1436,S Dakota St,Vermont,S Dakota St
+2062,0.38,0.62,1,1355,1437,S Dakota St,Villanova,S Dakota St
+2063,0.328,0.672,1,1355,1439,S Dakota St,Virginia Tech,S Dakota St
+2064,0.48,0.52,1,1355,1458,S Dakota St,Wisconsin,S Dakota St
+2065,0.44,0.56,1,1355,1460,S Dakota St,Wright St,S Dakota St
+2066,0.476,0.524,1,1355,1461,S Dakota St,Wyoming,S Dakota St
+2067,0.532,0.468,0,1355,1463,S Dakota St,Yale,Yale
+2068,0.488,0.512,1,1361,1362,San Diego St,San Francisco,San Diego St
+2069,0.36,0.64,1,1361,1371,San Diego St,Seton Hall,San Diego St
+2070,0.48,0.52,1,1361,1388,San Diego St,St Mary's CA,San Diego St
+2071,0.452,0.548,1,1361,1389,San Diego St,St Peter's,San Diego St
+2072,0.496,0.504,1,1361,1394,San Diego St,TAM C. Christi,San Diego St
+2073,0.432,0.568,1,1361,1395,San Diego St,TCU,San Diego St
+2074,0.512,0.488,0,1361,1397,San Diego St,Tennessee,Tennessee
+2075,0.5,0.5,0,1361,1400,San Diego St,Texas,Texas
+2076,0.476,0.524,1,1361,1403,San Diego St,Texas Tech,San Diego St
+2077,0.496,0.504,1,1361,1411,San Diego St,TX Southern,San Diego St
+2078,0.504,0.496,0,1361,1412,San Diego St,UAB,UAB
+2079,0.512,0.488,0,1361,1417,San Diego St,UCLA,UCLA
+2080,0.528,0.472,0,1361,1425,San Diego St,USC,USC
+2081,0.46,0.54,1,1361,1436,San Diego St,Vermont,San Diego St
+2082,0.504,0.496,0,1361,1437,San Diego St,Villanova,Villanova
+2083,0.456,0.544,1,1361,1439,San Diego St,Virginia Tech,San Diego St
+2084,0.444,0.556,1,1361,1458,San Diego St,Wisconsin,San Diego St
+2085,0.516,0.484,0,1361,1460,San Diego St,Wright St,Wright St
+2086,0.472,0.528,1,1361,1461,San Diego St,Wyoming,San Diego St
+2087,0.524,0.476,0,1361,1463,San Diego St,Yale,Yale
+2088,0.4,0.6,1,1362,1371,San Francisco,Seton Hall,San Francisco
+2089,0.508,0.492,0,1362,1388,San Francisco,St Mary's CA,St Mary's CA
+2090,0.444,0.556,1,1362,1389,San Francisco,St Peter's,San Francisco
+2091,0.468,0.532,1,1362,1394,San Francisco,TAM C. Christi,San Francisco
+2092,0.408,0.592,1,1362,1395,San Francisco,TCU,San Francisco
+2093,0.488,0.512,1,1362,1397,San Francisco,Tennessee,San Francisco
+2094,0.464,0.536,1,1362,1400,San Francisco,Texas,San Francisco
+2095,0.576,0.424,0,1362,1403,San Francisco,Texas Tech,Texas Tech
+2096,0.484,0.516,1,1362,1411,San Francisco,TX Southern,San Francisco
+2097,0.528,0.472,0,1362,1412,San Francisco,UAB,UAB
+2098,0.468,0.532,1,1362,1417,San Francisco,UCLA,San Francisco
+2099,0.476,0.524,1,1362,1425,San Francisco,USC,San Francisco
+2100,0.44,0.56,1,1362,1436,San Francisco,Vermont,San Francisco
+2101,0.472,0.528,1,1362,1437,San Francisco,Villanova,San Francisco
+2102,0.468,0.532,1,1362,1439,San Francisco,Virginia Tech,San Francisco
+2103,0.388,0.612,1,1362,1458,San Francisco,Wisconsin,San Francisco
+2104,0.468,0.532,1,1362,1460,San Francisco,Wright St,San Francisco
+2105,0.52,0.48,0,1362,1461,San Francisco,Wyoming,Wyoming
+2106,0.424,0.576,1,1362,1463,San Francisco,Yale,San Francisco
+2107,0.42,0.58,1,1371,1388,Seton Hall,St Mary's CA,Seton Hall
+2108,0.668,0.332,0,1371,1389,Seton Hall,St Peter's,St Peter's
+2109,0.528,0.472,0,1371,1394,Seton Hall,TAM C. Christi,TAM C. Christi
+2110,0.608,0.392,0,1371,1395,Seton Hall,TCU,TCU
+2111,0.44,0.56,1,1371,1397,Seton Hall,Tennessee,Seton Hall
+2112,0.584,0.416,0,1371,1400,Seton Hall,Texas,Texas
+2113,0.464,0.536,1,1371,1403,Seton Hall,Texas Tech,Seton Hall
+2114,0.536,0.464,0,1371,1411,Seton Hall,TX Southern,TX Southern
+2115,0.516,0.484,0,1371,1412,Seton Hall,UAB,UAB
+2116,0.516,0.484,0,1371,1417,Seton Hall,UCLA,UCLA
+2117,0.484,0.516,1,1371,1425,Seton Hall,USC,Seton Hall
+2118,0.448,0.552,1,1371,1436,Seton Hall,Vermont,Seton Hall
+2119,0.484,0.516,1,1371,1437,Seton Hall,Villanova,Seton Hall
+2120,0.408,0.592,1,1371,1439,Seton Hall,Virginia Tech,Seton Hall
+2121,0.424,0.576,1,1371,1458,Seton Hall,Wisconsin,Seton Hall
+2122,0.528,0.472,0,1371,1460,Seton Hall,Wright St,Wright St
+2123,0.5,0.5,0,1371,1461,Seton Hall,Wyoming,Wyoming
+2124,0.536,0.464,0,1371,1463,Seton Hall,Yale,Yale
+2125,0.536,0.464,0,1388,1389,St Mary's CA,St Peter's,St Peter's
+2126,0.472,0.528,1,1388,1394,St Mary's CA,TAM C. Christi,St Mary's CA
+2127,0.584,0.416,0,1388,1395,St Mary's CA,TCU,TCU
+2128,0.496,0.504,1,1388,1397,St Mary's CA,Tennessee,St Mary's CA
+2129,0.584,0.416,0,1388,1400,St Mary's CA,Texas,Texas
+2130,0.556,0.444,0,1388,1403,St Mary's CA,Texas Tech,Texas Tech
+2131,0.5,0.5,0,1388,1411,St Mary's CA,TX Southern,TX Southern
+2132,0.492,0.508,1,1388,1412,St Mary's CA,UAB,St Mary's CA
+2133,0.58,0.42,0,1388,1417,St Mary's CA,UCLA,UCLA
+2134,0.54,0.46,0,1388,1425,St Mary's CA,USC,USC
+2135,0.376,0.624,1,1388,1436,St Mary's CA,Vermont,St Mary's CA
+2136,0.428,0.572,1,1388,1437,St Mary's CA,Villanova,St Mary's CA
+2137,0.392,0.608,1,1388,1439,St Mary's CA,Virginia Tech,St Mary's CA
+2138,0.432,0.568,1,1388,1458,St Mary's CA,Wisconsin,St Mary's CA
+2139,0.416,0.584,1,1388,1460,St Mary's CA,Wright St,St Mary's CA
+2140,0.408,0.592,1,1388,1461,St Mary's CA,Wyoming,St Mary's CA
+2141,0.44,0.56,1,1388,1463,St Mary's CA,Yale,St Mary's CA
+2142,0.512,0.488,0,1389,1394,St Peter's,TAM C. Christi,TAM C. Christi
+2143,0.452,0.548,1,1389,1395,St Peter's,TCU,St Peter's
+2144,0.612,0.388,0,1389,1397,St Peter's,Tennessee,Tennessee
+2145,0.592,0.408,0,1389,1400,St Peter's,Texas,Texas
+2146,0.596,0.404,0,1389,1403,St Peter's,Texas Tech,Texas Tech
+2147,0.384,0.616,1,1389,1411,St Peter's,TX Southern,St Peter's
+2148,0.492,0.508,1,1389,1412,St Peter's,UAB,St Peter's
+2149,0.576,0.424,0,1389,1417,St Peter's,UCLA,UCLA
+2150,0.528,0.472,0,1389,1425,St Peter's,USC,USC
+2151,0.472,0.528,1,1389,1436,St Peter's,Vermont,St Peter's
+2152,0.592,0.408,0,1389,1437,St Peter's,Villanova,Villanova
+2153,0.496,0.504,1,1389,1439,St Peter's,Virginia Tech,St Peter's
+2154,0.544,0.456,0,1389,1458,St Peter's,Wisconsin,Wisconsin
+2155,0.456,0.544,1,1389,1460,St Peter's,Wright St,St Peter's
+2156,0.472,0.528,1,1389,1461,St Peter's,Wyoming,St Peter's
+2157,0.452,0.548,1,1389,1463,St Peter's,Yale,St Peter's
+2158,0.468,0.532,1,1394,1395,TAM C. Christi,TCU,TAM C. Christi
+2159,0.516,0.484,0,1394,1397,TAM C. Christi,Tennessee,Tennessee
+2160,0.46,0.54,1,1394,1400,TAM C. Christi,Texas,TAM C. Christi
+2161,0.544,0.456,0,1394,1403,TAM C. Christi,Texas Tech,Texas Tech
+2162,0.432,0.568,1,1394,1411,TAM C. Christi,TX Southern,TAM C. Christi
+2163,0.448,0.552,1,1394,1412,TAM C. Christi,UAB,TAM C. Christi
+2164,0.48,0.52,1,1394,1417,TAM C. Christi,UCLA,TAM C. Christi
+2165,0.584,0.416,0,1394,1425,TAM C. Christi,USC,USC
+2166,0.596,0.404,0,1394,1436,TAM C. Christi,Vermont,Vermont
+2167,0.58,0.42,0,1394,1437,TAM C. Christi,Villanova,Villanova
+2168,0.512,0.488,0,1394,1439,TAM C. Christi,Virginia Tech,Virginia Tech
+2169,0.52,0.48,0,1394,1458,TAM C. Christi,Wisconsin,Wisconsin
+2170,0.484,0.516,1,1394,1460,TAM C. Christi,Wright St,TAM C. Christi
+2171,0.572,0.428,0,1394,1461,TAM C. Christi,Wyoming,Wyoming
+2172,0.472,0.528,1,1394,1463,TAM C. Christi,Yale,TAM C. Christi
+2173,0.512,0.488,0,1395,1397,TCU,Tennessee,Tennessee
+2174,0.528,0.472,0,1395,1400,TCU,Texas,Texas
+2175,0.544,0.456,0,1395,1403,TCU,Texas Tech,Texas Tech
+2176,0.392,0.608,1,1395,1411,TCU,TX Southern,TCU
+2177,0.484,0.516,1,1395,1412,TCU,UAB,TCU
+2178,0.544,0.456,0,1395,1417,TCU,UCLA,UCLA
+2179,0.452,0.548,1,1395,1425,TCU,USC,TCU
+2180,0.404,0.596,1,1395,1436,TCU,Vermont,TCU
+2181,0.508,0.492,0,1395,1437,TCU,Villanova,Villanova
+2182,0.428,0.572,1,1395,1439,TCU,Virginia Tech,TCU
+2183,0.476,0.524,1,1395,1458,TCU,Wisconsin,TCU
+2184,0.476,0.524,1,1395,1460,TCU,Wright St,TCU
+2185,0.492,0.508,1,1395,1461,TCU,Wyoming,TCU
+2186,0.444,0.556,1,1395,1463,TCU,Yale,TCU
+2187,0.344,0.656,1,1397,1400,Tennessee,Texas,Tennessee
+2188,0.444,0.556,1,1397,1403,Tennessee,Texas Tech,Tennessee
+2189,0.464,0.536,1,1397,1411,Tennessee,TX Southern,Tennessee
+2190,0.384,0.616,1,1397,1412,Tennessee,UAB,Tennessee
+2191,0.436,0.564,1,1397,1417,Tennessee,UCLA,Tennessee
+2192,0.364,0.636,1,1397,1425,Tennessee,USC,Tennessee
+2193,0.464,0.536,1,1397,1436,Tennessee,Vermont,Tennessee
+2194,0.476,0.524,1,1397,1437,Tennessee,Villanova,Tennessee
+2195,0.472,0.528,1,1397,1439,Tennessee,Virginia Tech,Tennessee
+2196,0.452,0.548,1,1397,1458,Tennessee,Wisconsin,Tennessee
+2197,0.4,0.6,1,1397,1460,Tennessee,Wright St,Tennessee
+2198,0.552,0.448,0,1397,1461,Tennessee,Wyoming,Wyoming
+2199,0.448,0.552,1,1397,1463,Tennessee,Yale,Tennessee
+2200,0.488,0.512,1,1400,1403,Texas,Texas Tech,Texas
+2201,0.452,0.548,1,1400,1411,Texas,TX Southern,Texas
+2202,0.448,0.552,1,1400,1412,Texas,UAB,Texas
+2203,0.504,0.496,0,1400,1417,Texas,UCLA,UCLA
+2204,0.416,0.584,1,1400,1425,Texas,USC,Texas
+2205,0.368,0.632,1,1400,1436,Texas,Vermont,Texas
+2206,0.424,0.576,1,1400,1437,Texas,Villanova,Texas
+2207,0.404,0.596,1,1400,1439,Texas,Virginia Tech,Texas
+2208,0.392,0.608,1,1400,1458,Texas,Wisconsin,Texas
+2209,0.388,0.612,1,1400,1460,Texas,Wright St,Texas
+2210,0.496,0.504,1,1400,1461,Texas,Wyoming,Texas
+2211,0.464,0.536,1,1400,1463,Texas,Yale,Texas
+2212,0.536,0.464,0,1403,1411,Texas Tech,TX Southern,TX Southern
+2213,0.448,0.552,1,1403,1412,Texas Tech,UAB,Texas Tech
+2214,0.472,0.528,1,1403,1417,Texas Tech,UCLA,Texas Tech
+2215,0.44,0.56,1,1403,1425,Texas Tech,USC,Texas Tech
+2216,0.424,0.576,1,1403,1436,Texas Tech,Vermont,Texas Tech
+2217,0.46,0.54,1,1403,1437,Texas Tech,Villanova,Texas Tech
+2218,0.448,0.552,1,1403,1439,Texas Tech,Virginia Tech,Texas Tech
+2219,0.476,0.524,1,1403,1458,Texas Tech,Wisconsin,Texas Tech
+2220,0.46,0.54,1,1403,1460,Texas Tech,Wright St,Texas Tech
+2221,0.432,0.568,1,1403,1461,Texas Tech,Wyoming,Texas Tech
+2222,0.404,0.596,1,1403,1463,Texas Tech,Yale,Texas Tech
+2223,0.58,0.42,0,1411,1412,TX Southern,UAB,UAB
+2224,0.508,0.492,0,1411,1417,TX Southern,UCLA,UCLA
+2225,0.54,0.46,0,1411,1425,TX Southern,USC,USC
+2226,0.472,0.528,1,1411,1436,TX Southern,Vermont,TX Southern
+2227,0.532,0.468,0,1411,1437,TX Southern,Villanova,Villanova
+2228,0.544,0.456,0,1411,1439,TX Southern,Virginia Tech,Virginia Tech
+2229,0.536,0.464,0,1411,1458,TX Southern,Wisconsin,Wisconsin
+2230,0.452,0.548,1,1411,1460,TX Southern,Wright St,TX Southern
+2231,0.56,0.44,0,1411,1461,TX Southern,Wyoming,Wyoming
+2232,0.476,0.524,1,1411,1463,TX Southern,Yale,TX Southern
+2233,0.46,0.54,1,1412,1417,UAB,UCLA,UAB
+2234,0.38,0.62,1,1412,1425,UAB,USC,UAB
+2235,0.444,0.556,1,1412,1436,UAB,Vermont,UAB
+2236,0.42,0.58,1,1412,1437,UAB,Villanova,UAB
+2237,0.512,0.488,0,1412,1439,UAB,Virginia Tech,Virginia Tech
+2238,0.324,0.676,1,1412,1458,UAB,Wisconsin,UAB
+2239,0.432,0.568,1,1412,1460,UAB,Wright St,UAB
+2240,0.44,0.56,1,1412,1461,UAB,Wyoming,UAB
+2241,0.484,0.516,1,1412,1463,UAB,Yale,UAB
+2242,0.456,0.544,1,1417,1425,UCLA,USC,UCLA
+2243,0.368,0.632,1,1417,1436,UCLA,Vermont,UCLA
+2244,0.404,0.596,1,1417,1437,UCLA,Villanova,UCLA
+2245,0.384,0.616,1,1417,1439,UCLA,Virginia Tech,UCLA
+2246,0.444,0.556,1,1417,1458,UCLA,Wisconsin,UCLA
+2247,0.508,0.492,0,1417,1460,UCLA,Wright St,Wright St
+2248,0.544,0.456,0,1417,1461,UCLA,Wyoming,Wyoming
+2249,0.44,0.56,1,1417,1463,UCLA,Yale,UCLA
+2250,0.472,0.528,1,1425,1436,USC,Vermont,USC
+2251,0.608,0.392,0,1425,1437,USC,Villanova,Villanova
+2252,0.48,0.52,1,1425,1439,USC,Virginia Tech,USC
+2253,0.388,0.612,1,1425,1458,USC,Wisconsin,USC
+2254,0.516,0.484,0,1425,1460,USC,Wright St,Wright St
+2255,0.412,0.588,1,1425,1461,USC,Wyoming,USC
+2256,0.56,0.44,0,1425,1463,USC,Yale,Yale
+2257,0.564,0.436,0,1436,1437,Vermont,Villanova,Villanova
+2258,0.396,0.604,1,1436,1439,Vermont,Virginia Tech,Vermont
+2259,0.46,0.54,1,1436,1458,Vermont,Wisconsin,Vermont
+2260,0.54,0.46,0,1436,1460,Vermont,Wright St,Wright St
+2261,0.456,0.544,1,1436,1461,Vermont,Wyoming,Vermont
+2262,0.496,0.504,1,1436,1463,Vermont,Yale,Vermont
+2263,0.464,0.536,1,1437,1439,Villanova,Virginia Tech,Villanova
+2264,0.592,0.408,0,1437,1458,Villanova,Wisconsin,Wisconsin
+2265,0.444,0.556,1,1437,1460,Villanova,Wright St,Villanova
+2266,0.476,0.524,1,1437,1461,Villanova,Wyoming,Villanova
+2267,0.584,0.416,0,1437,1463,Villanova,Yale,Yale
+2268,0.44,0.56,1,1439,1458,Virginia Tech,Wisconsin,Virginia Tech
+2269,0.448,0.552,1,1439,1460,Virginia Tech,Wright St,Virginia Tech
+2270,0.46,0.54,1,1439,1461,Virginia Tech,Wyoming,Virginia Tech
+2271,0.544,0.456,0,1439,1463,Virginia Tech,Yale,Yale
+2272,0.496,0.504,1,1458,1460,Wisconsin,Wright St,Wisconsin
+2273,0.404,0.596,1,1458,1461,Wisconsin,Wyoming,Wisconsin
+2274,0.528,0.472,0,1458,1463,Wisconsin,Yale,Yale
+2275,0.608,0.392,0,1460,1461,Wright St,Wyoming,Wyoming
+2276,0.476,0.524,1,1460,1463,Wright St,Yale,Wright St
+2277,0.528,0.472,0,1461,1463,Wyoming,Yale,Yale
