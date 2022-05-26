@@ -1,6 +1,6 @@
 regular_season_detailed_results
 --
-Season INT FK >- sag_system.season
+Season INT FK >- rankings.season
 DayNum INT
 WTeamID INT
 WScore INT
@@ -86,15 +86,15 @@ LFTpercent  DECIMAL
 
 conferences_with_team_names
 --
-season INT PK FK >- regular_season_detailed_results.Season
-teamname VARCHAR 
-teamid INT PK FK >- rankings_with_team_names.teamid
+season INT PK 
+teamname VARCHAR FK >- sag_system.teamname
+teamid INT PK 
 confabbrev VARCHAR
 
 rankings_with_team_names
 --
-ordinalrank INT
-teamname VARCHAR
+ordinalrank INT FK >- sag_system.ordinalrank
+teamname VARCHAR FK >- teams.teadid
 teamid INT PK
 season INT
 rankingdaynum INT PK
@@ -108,3 +108,24 @@ teamid INT PK FK >- rankings_with_team_names.teamid
 season INT FK >- all_game_results.Season
 rankingdaynum INT PK
 systemname VARCHAR 
+
+conferences
+--
+season 
+teamid 
+confabbrev VARCHAR
+
+rankings
+--
+ordinalrank INT
+teamid INT PK FK >- conferences.teamid
+season INT FK >- conferences.season
+rankingdaynum INT PK
+systemname 
+
+teams
+--
+teadid INT FK >- conferences_with_team_names.teamname
+teamname
+firstd1season
+lastd1season
