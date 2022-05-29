@@ -42,7 +42,7 @@ CREATE TABLE all_game_results (
 	WFGM3 INT NOT NULL,
 	WFGA3 INT NOT NULL,
 	WFTM INT NOT NULL,
-	WFTAINT INT NOT NULL,
+	WFTA INT NOT NULL,
 	WOR INT NOT NULL,
 	WDR INT NOT NULL,
 	WAst INT NOT NULL,
@@ -74,9 +74,10 @@ CREATE TABLE all_game_results (
 	WFG3percent  DECIMAL,
 	LFG3percent  DECIMAL,
 	WFTpercent  DECIMAL,
-	LFTpercent  DECIMAL 
+	LFTpercent  DECIMAL,
+	SeasonWeek VARCHAR,
+	OrdinalRank INT
 );
-
 -- Creating a table with rankings and team names 
 SELECT r.season,
 		r.rankingdaynum,
@@ -144,3 +145,40 @@ FROM rankings_with_team_names
 WHERE systemname = 'SAG'
 
 SELECT * FROM sag_system
+
+CREATE TABLE regular_season_detailed_results (
+	Season INT,
+	DayNum INT,
+	WTeamID INT,
+	WScore INT,
+	LTeamID INT,
+	LScore INT,
+	WLoc VARCHAR,
+	NumOT INT,
+	WFGM INT,
+	WFGA INT,
+	WFGM3 INT,
+	WFGA3 INT,
+	WFTM INT,
+	WFTA INT,
+	WOR INT,
+	WDR INT,
+	WAst INT,
+	WTO INT,
+	WStl INT,
+	WBlk INT,
+	WPF INT,
+	LFGM INT,
+	LFGA INT,
+	LFGM3 INT,
+	LFGA3 INT,
+	LFTM INT,
+	LFTA INT,
+	LOR INT,
+	LDR INT,
+	LAst INT,
+	LTO INT,
+	LStl INT,
+	LBlk INT,
+	LPF INT
+)
