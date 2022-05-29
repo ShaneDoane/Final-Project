@@ -51,6 +51,19 @@ Our model was then trained and tested using scikit-learn's train_test_split meth
 
 The model features are formatted as differentials because we will use season averages for teams in the tournament, then take the stat differentials between a given pair of teams, and predict the outcome with our model.
 
+### Model - Accuracy & Predictions
+
+Our model has a test accuracy score of 62% on the original test data. 
+
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/93338132/170891854-c437b8d6-b637-4c54-a3ef-5833f0afe7f3.png">
+
+This accuracy score deteriorates when predicting on this year's tourney games, being much closer to 50%. The primary reason is the model is trained on the margin of different stats in the form of: Winner_Stat - Loser_Stat = stat_diff. When predicting the tournament games, we do not have labeled outcomes, so the Stat_diff becomes much more random since it takes the form of: lower_id_team_stat - higher_id_team_stat = stat_diff. As a result, the current model is little better than a coin flip at ~51% accuracy.
+
+To fix this, we can retrain the model on high_id - low_id margins and low_id - high_id margins and take the average of the two models. We would then be accounting for randomness on both sides. Due to time constraints and the need to essentially double our training and testing, we will be proceeding with the model as is for our presentation, despite its shortcomings. We feel confident that, should we have another week to work on this, we could alleviate this flaw. Shown below is our final prediction output. Note probabilities are in a tight range from 40% to 60% on either side of a given matchup. 
+
+![image](https://user-images.githubusercontent.com/93338132/170892010-f497f3f3-d3d3-4276-8690-7a837273939c.png)
+
+
 ## Visualizations
 We will use a variety of tools, including Tableau, to make an interactive head to head matchup predictor for users. We will also show a variety of Exploratory Data Analysis (EDA) visuals to tell the story of the nation's greatest tournament!
 
