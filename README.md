@@ -11,7 +11,7 @@ Our [project roadmap](https://docs.google.com/presentation/d/1cj5roKmtqg1G50iBWT
 ## Database
 Our database will consist of the following tables: Teams, Team_Rankings, Compact Results (both Regular season and tourney versions) and Detailed Regular Season Results (both regular season and tourney versions). The database will be hosted through AWS's RDS. The current ERD is shown below.
 
-![image](https://user-images.githubusercontent.com/93338132/169716800-1ebe99e9-3e16-4120-a878-b948a25e0095.png)
+![image](https://user-images.githubusercontent.com/93338132/171299637-5b88ea56-ca7c-4dbb-a45f-220f43822798.png)
 
 ## Model
 Our model is a random forest algorithm that produces the probability that Team A will win against Team B for all possible 2,278 March Madness games. 
