@@ -1,0 +1,378 @@
+ConfAbbrev,Description,Season,TeamID,Season_x,LTeamID_x,WLoc,WTeamID-LTeamID,Season_y,DayNum,WTeamID_y,LTeamID_y,CRType,CityID
+a_sun,Atlantic Sun Conference,2022.0,1146.0,2022.0,1331.0,H,1146-1331,2022.0,19.0,1146.0,1331.0,Regular,4081.0
+a_sun,Atlantic Sun Conference,2022.0,1184.0,2022.0,1107.0,H,1184-1107,,,,,,
+a_sun,Atlantic Sun Conference,2022.0,1195.0,2022.0,1348.0,H,1195-1348,2022.0,22.0,1195.0,1348.0,Regular,4123.0
+a_sun,Atlantic Sun Conference,2022.0,1239.0,2022.0,1299.0,H,1239-1299,2022.0,12.0,1239.0,1299.0,Regular,4168.0
+a_sun,Atlantic Sun Conference,2022.0,1240.0,2022.0,1105.0,H,1240-1105,2022.0,12.0,1240.0,1105.0,Regular,4167.0
+a_sun,Atlantic Sun Conference,2022.0,1244.0,2022.0,1149.0,H,1244-1149,2022.0,27.0,1244.0,1149.0,Regular,4176.0
+a_sun,Atlantic Sun Conference,2022.0,1251.0,2022.0,1271.0,H,1251-1271,,,,,,
+a_sun,Atlantic Sun Conference,2022.0,1252.0,2022.0,1105.0,H,1252-1105,,,,,,
+a_sun,Atlantic Sun Conference,2022.0,1316.0,2022.0,1122.0,H,1316-1122,2022.0,40.0,1316.0,1122.0,Regular,4168.0
+a_sun,Atlantic Sun Conference,2022.0,1391.0,2022.0,1158.0,H,1391-1158,,,,,,
+a_sun,Atlantic Sun Conference,2022.0,1466.0,2022.0,1290.0,H,1466-1290,,,,,,
+a_sun,Atlantic Sun Conference,2022.0,1468.0,2022.0,1184.0,H,1468-1184,,,,,,
+a_ten,Atlantic 10 Conference,2022.0,1172.0,2022.0,1174.0,H,1172-1174,2022.0,8.0,1172.0,1174.0,Regular,4089.0
+a_ten,Atlantic 10 Conference,2022.0,1173.0,2022.0,1227.0,H,1173-1227,2022.0,8.0,1173.0,1227.0,Regular,4091.0
+a_ten,Atlantic 10 Conference,2022.0,1182.0,2022.0,1351.0,H,1182-1351,2022.0,8.0,1182.0,1351.0,Regular,4270.0
+a_ten,Atlantic 10 Conference,2022.0,1200.0,2022.0,1162.0,H,1200-1162,2022.0,8.0,1200.0,1162.0,Regular,4045.0
+a_ten,Atlantic 10 Conference,2022.0,1203.0,2022.0,1384.0,H,1203-1384,2022.0,8.0,1203.0,1384.0,Regular,4363.0
+a_ten,Atlantic 10 Conference,2022.0,1206.0,2022.0,1392.0,H,1206-1392,2022.0,8.0,1206.0,1392.0,Regular,4115.0
+a_ten,Atlantic 10 Conference,2022.0,1247.0,2022.0,1107.0,H,1247-1107,2022.0,12.0,1247.0,1107.0,Regular,4266.0
+a_ten,Atlantic 10 Conference,2022.0,1269.0,2022.0,1420.0,H,1269-1420,2022.0,8.0,1269.0,1420.0,Regular,4007.0
+a_ten,Atlantic 10 Conference,2022.0,1348.0,2022.0,1131.0,H,1348-1131,2022.0,8.0,1348.0,1131.0,Regular,4179.0
+a_ten,Atlantic 10 Conference,2022.0,1350.0,2022.0,1300.0,H,1350-1300,2022.0,8.0,1350.0,1300.0,Regular,4292.0
+a_ten,Atlantic 10 Conference,2022.0,1382.0,2022.0,1373.0,H,1382-1373,2022.0,8.0,1382.0,1373.0,Regular,4465.0
+a_ten,Atlantic 10 Conference,2022.0,1386.0,2022.0,1271.0,H,1386-1271,2022.0,8.0,1386.0,1271.0,Regular,4266.0
+a_ten,Atlantic 10 Conference,2022.0,1387.0,2022.0,1146.0,H,1387-1146,2022.0,8.0,1387.0,1146.0,Regular,4329.0
+a_ten,Atlantic 10 Conference,2022.0,1433.0,2022.0,1389.0,H,1433-1389,2022.0,8.0,1433.0,1389.0,Regular,4292.0
+aac,American Athletic Conference,2022.0,1153.0,2022.0,1191.0,H,1153-1191,2022.0,8.0,1153.0,1191.0,Regular,4072.0
+aac,American Athletic Conference,2022.0,1187.0,2022.0,1354.0,H,1187-1354,2022.0,8.0,1187.0,1354.0,Regular,4138.0
+aac,American Athletic Conference,2022.0,1222.0,2022.0,1220.0,H,1222-1220,2022.0,8.0,1222.0,1220.0,Regular,4157.0
+aac,American Athletic Conference,2022.0,1272.0,2022.0,1399.0,H,1272-1399,2022.0,8.0,1272.0,1399.0,Regular,4213.0
+aac,American Athletic Conference,2022.0,1374.0,2022.0,1270.0,H,1374-1270,2022.0,8.0,1374.0,1270.0,Regular,4001.0
+aac,American Athletic Conference,2022.0,1378.0,2022.0,1126.0,H,1378-1126,2022.0,8.0,1378.0,1126.0,Regular,4342.0
+aac,American Athletic Conference,2022.0,1396.0,2022.0,1271.0,H,1396-1271,2022.0,9.0,1396.0,1271.0,Regular,4266.0
+aac,American Athletic Conference,2022.0,1408.0,2022.0,1368.0,H,1408-1368,2022.0,8.0,1408.0,1368.0,Regular,4237.0
+aac,American Athletic Conference,2022.0,1409.0,2022.0,1322.0,H,1409-1322,2022.0,9.0,1409.0,1322.0,Regular,4351.0
+aac,American Athletic Conference,2022.0,1416.0,2022.0,1352.0,H,1416-1352,2022.0,9.0,1416.0,1352.0,Regular,4258.0
+aac,American Athletic Conference,2022.0,1455.0,2022.0,1240.0,H,1455-1240,2022.0,8.0,1455.0,1240.0,Regular,4368.0
+acc,Atlantic Coast Conference,2022.0,1130.0,2022.0,1171.0,H,1130-1171,2022.0,8.0,1130.0,1171.0,Regular,4070.0
+acc,Atlantic Coast Conference,2022.0,1155.0,2022.0,1342.0,H,1155-1342,2022.0,8.0,1155.0,1342.0,Regular,4139.0
+acc,Atlantic Coast Conference,2022.0,1181.0,2022.0,1119.0,H,1181-1119,,,,,,
+acc,Atlantic Coast Conference,2022.0,1199.0,2022.0,1335.0,H,1199-1335,2022.0,9.0,1199.0,1335.0,Regular,4341.0
+acc,Atlantic Coast Conference,2022.0,1210.0,2022.0,1391.0,H,1210-1391,2022.0,11.0,1210.0,1391.0,Regular,4016.0
+acc,Atlantic Coast Conference,2022.0,1257.0,2022.0,1380.0,H,1257-1380,2022.0,8.0,1257.0,1380.0,Regular,4203.0
+acc,Atlantic Coast Conference,2022.0,1274.0,2022.0,1145.0,H,1274-1145,2022.0,8.0,1274.0,1145.0,Regular,4084.0
+acc,Atlantic Coast Conference,2022.0,1301.0,2022.0,1137.0,H,1301-1137,2022.0,8.0,1301.0,1137.0,Regular,4287.0
+acc,Atlantic Coast Conference,2022.0,1314.0,2022.0,1259.0,H,1314-1259,2022.0,8.0,1314.0,1259.0,Regular,4061.0
+acc,Atlantic Coast Conference,2022.0,1323.0,2022.0,1169.0,H,1323-1169,2022.0,12.0,1323.0,1169.0,Regular,4250.0
+acc,Atlantic Coast Conference,2022.0,1338.0,2022.0,1423.0,H,1338-1423,2022.0,15.0,1338.0,1423.0,Regular,4270.0
+acc,Atlantic Coast Conference,2022.0,1393.0,2022.0,1248.0,H,1393-1248,2022.0,8.0,1393.0,1248.0,Regular,4340.0
+acc,Atlantic Coast Conference,2022.0,1438.0,2022.0,1347.0,H,1438-1347,2022.0,11.0,1438.0,1347.0,Regular,4067.0
+acc,Atlantic Coast Conference,2022.0,1439.0,2022.0,1263.0,H,1439-1263,2022.0,8.0,1439.0,1263.0,Regular,4031.0
+acc,Atlantic Coast Conference,2022.0,1448.0,2022.0,1456.0,H,1448-1456,2022.0,9.0,1448.0,1456.0,Regular,4371.0
+aec,America East Conference,2022.0,1107.0,2022.0,1162.0,H,1107-1162,,,,,,
+aec,America East Conference,2022.0,1127.0,2022.0,1262.0,H,1127-1262,,,,,,
+aec,America East Conference,2022.0,1216.0,2022.0,1306.0,H,1216-1306,,,,,,
+aec,America East Conference,2022.0,1262.0,2022.0,1357.0,H,1262-1357,,,,,,
+aec,America East Conference,2022.0,1263.0,2022.0,1306.0,H,1263-1306,2022.0,84.0,1263.0,1306.0,Regular,4023.0
+aec,America East Conference,2022.0,1306.0,2022.0,1346.0,H,1306-1346,2022.0,22.0,1306.0,1346.0,Regular,4102.0
+aec,America East Conference,2022.0,1312.0,2022.0,1192.0,H,1312-1192,,,,,,
+aec,America East Conference,2022.0,1392.0,2022.0,1357.0,H,1392-1357,2022.0,21.0,1392.0,1357.0,Regular,4337.0
+aec,America East Conference,2022.0,1420.0,2022.0,1110.0,H,1420-1110,,,,,,
+aec,America East Conference,2022.0,1436.0,2022.0,1463.0,H,1436-1463,,,,,,
+asc,American South Conference,,,,,,,,,,,,
+awc,American West Conference,,,,,,,,,,,,
+big_east,Big East Conference,2022.0,1139.0,2022.0,1237.0,H,1139-1237,2022.0,8.0,1139.0,1237.0,Regular,4161.0
+big_east,Big East Conference,2022.0,1163.0,2022.0,1148.0,H,1163-1148,2022.0,8.0,1163.0,1148.0,Regular,4149.0
+big_east,Big East Conference,2022.0,1166.0,2022.0,1115.0,H,1166-1115,2022.0,8.0,1166.0,1115.0,Regular,4255.0
+big_east,Big East Conference,2022.0,1177.0,2022.0,1164.0,H,1177-1164,2022.0,9.0,1177.0,1164.0,Regular,4298.0
+big_east,Big East Conference,2022.0,1207.0,2022.0,1110.0,H,1207-1110,2022.0,15.0,1207.0,1110.0,Regular,4363.0
+big_east,Big East Conference,2022.0,1266.0,2022.0,1188.0,H,1266-1188,2022.0,8.0,1266.0,1188.0,Regular,4215.0
+big_east,Big East Conference,2022.0,1344.0,2022.0,1193.0,H,1344-1193,2022.0,8.0,1344.0,1193.0,Regular,4281.0
+big_east,Big East Conference,2022.0,1371.0,2022.0,1192.0,H,1371-1192,2022.0,9.0,1371.0,1192.0,Regular,4241.0
+big_east,Big East Conference,2022.0,1385.0,2022.0,1290.0,H,1385-1290,2022.0,8.0,1385.0,1290.0,Regular,4285.0
+big_east,Big East Conference,2022.0,1437.0,2022.0,1291.0,H,1437-1291,2022.0,8.0,1437.0,1291.0,Regular,4361.0
+big_east,Big East Conference,2022.0,1462.0,2022.0,1310.0,H,1462-1310,2022.0,8.0,1462.0,1310.0,Regular,4072.0
+big_eight,Big Eight Conference,,,,,,,,,,,,
+big_sky,Big Sky Conference,2022.0,1170.0,2022.0,1413.0,H,1170-1413,,,,,,
+big_sky,Big Sky Conference,2022.0,1186.0,2022.0,1225.0,H,1186-1225,,,,,,
+big_sky,Big Sky Conference,2022.0,1225.0,2022.0,1355.0,H,1225-1355,2022.0,37.0,1225.0,1355.0,Regular,4225.0
+big_sky,Big Sky Conference,2022.0,1226.0,2022.0,1225.0,H,1226-1225,2022.0,75.0,1226.0,1225.0,Regular,4272.0
+big_sky,Big Sky Conference,2022.0,1285.0,2022.0,1303.0,H,1285-1303,2022.0,19.0,1285.0,1303.0,Regular,4217.0
+big_sky,Big Sky Conference,2022.0,1286.0,2022.0,1295.0,H,1286-1295,,,,,,
+big_sky,Big Sky Conference,2022.0,1294.0,2022.0,1286.0,H,1294-1286,,,,,,
+big_sky,Big Sky Conference,2022.0,1319.0,2022.0,1167.0,H,1319-1167,2022.0,17.0,1319.0,1167.0,Regular,4120.0
+big_sky,Big Sky Conference,2022.0,1340.0,2022.0,1294.0,H,1340-1294,,,,,,
+big_sky,Big Sky Conference,2022.0,1381.0,2022.0,1430.0,H,1381-1430,,,,,,
+big_sky,Big Sky Conference,2022.0,1451.0,2022.0,1319.0,H,1451-1319,,,,,,
+big_south,Big South Conference,2022.0,1144.0,2022.0,1216.0,H,1144-1216,2022.0,11.0,1144.0,1216.0,Regular,4101.0
+big_south,Big South Conference,2022.0,1149.0,2022.0,1219.0,H,1149-1219,,,,,,
+big_south,Big South Conference,2022.0,1205.0,2022.0,1441.0,H,1205-1441,2022.0,26.0,1205.0,1441.0,Regular,4034.0
+big_south,Big South Conference,2022.0,1214.0,2022.0,1313.0,H,1214-1313,2022.0,33.0,1214.0,1313.0,Regular,4146.0
+big_south,Big South Conference,2022.0,1219.0,2022.0,1224.0,H,1219-1224,2022.0,19.0,1219.0,1224.0,Regular,4152.0
+big_south,Big South Conference,2022.0,1255.0,2022.0,1110.0,H,1255-1110,2022.0,18.0,1255.0,1110.0,Regular,4118.0
+big_south,Big South Conference,2022.0,1299.0,2022.0,1342.0,H,1299-1342,,,,,,
+big_south,Big South Conference,2022.0,1342.0,2022.0,1440.0,H,1342-1440,2022.0,11.0,1342.0,1440.0,Regular,4076.0
+big_south,Big South Conference,2022.0,1347.0,2022.0,1456.0,H,1347-1456,2022.0,23.0,1347.0,1456.0,Regular,4286.0
+big_south,Big South Conference,2022.0,1367.0,2022.0,1219.0,H,1367-1219,,,,,,
+big_south,Big South Conference,2022.0,1421.0,2022.0,1399.0,H,1421-1399,2022.0,17.0,1421.0,1399.0,Regular,4013.0
+big_south,Big South Conference,2022.0,1457.0,2022.0,1273.0,H,1457-1273,2022.0,12.0,1457.0,1273.0,Regular,4297.0
+big_ten,Big Ten Conference,2022.0,1228.0,2022.0,1238.0,H,1228-1238,2022.0,8.0,1228.0,1238.0,Regular,4060.0
+big_ten,Big Ten Conference,2022.0,1231.0,2022.0,1185.0,H,1231-1185,2022.0,8.0,1231.0,1185.0,Regular,4032.0
+big_ten,Big Ten Conference,2022.0,1234.0,2022.0,1255.0,H,1234-1255,2022.0,8.0,1234.0,1255.0,Regular,4162.0
+big_ten,Big Ten Conference,2022.0,1268.0,2022.0,1346.0,H,1268-1346,2022.0,8.0,1268.0,1346.0,Regular,4077.0
+big_ten,Big Ten Conference,2022.0,1276.0,2022.0,1138.0,H,1276-1138,2022.0,9.0,1276.0,1138.0,Regular,4010.0
+big_ten,Big Ten Conference,2022.0,1277.0,2022.0,1444.0,H,1277-1444,2022.0,11.0,1277.0,1444.0,Regular,4103.0
+big_ten,Big Ten Conference,2022.0,1278.0,2022.0,1282.0,H,1278-1282,2022.0,8.0,1278.0,1282.0,Regular,4216.0
+big_ten,Big Ten Conference,2022.0,1304.0,2022.0,1358.0,H,1304-1358,2022.0,11.0,1304.0,1358.0,Regular,4195.0
+big_ten,Big Ten Conference,2022.0,1321.0,2022.0,1183.0,H,1321-1183,2022.0,8.0,1321.0,1183.0,Regular,4113.0
+big_ten,Big Ten Conference,2022.0,1326.0,2022.0,1103.0,H,1326-1103,2022.0,8.0,1326.0,1103.0,Regular,4080.0
+big_ten,Big Ten Conference,2022.0,1336.0,2022.0,1464.0,H,1336-1464,2022.0,9.0,1336.0,1464.0,Regular,4355.0
+big_ten,Big Ten Conference,2022.0,1345.0,2022.0,1468.0,H,1345-1468,2022.0,8.0,1345.0,1468.0,Regular,4365.0
+big_ten,Big Ten Conference,2022.0,1353.0,2022.0,1250.0,H,1353-1250,2022.0,9.0,1353.0,1250.0,Regular,4269.0
+big_ten,Big Ten Conference,2022.0,1458.0,2022.0,1383.0,H,1458-1383,2022.0,8.0,1458.0,1383.0,Regular,4209.0
+big_twelve,Big 12 Conference,2022.0,1124.0,2022.0,1230.0,H,1124-1230,2022.0,11.0,1124.0,1230.0,Regular,4362.0
+big_twelve,Big 12 Conference,2022.0,1235.0,2022.0,1244.0,H,1235-1244,2022.0,8.0,1235.0,1244.0,Regular,4006.0
+big_twelve,Big 12 Conference,2022.0,1242.0,2022.0,1470.0,H,1242-1470,,,,,,
+big_twelve,Big 12 Conference,2022.0,1243.0,2022.0,1197.0,H,1243-1197,2022.0,9.0,1243.0,1197.0,Regular,4211.0
+big_twelve,Big 12 Conference,2022.0,1328.0,2022.0,1322.0,H,1328-1322,2022.0,8.0,1328.0,1322.0,Regular,4247.0
+big_twelve,Big 12 Conference,2022.0,1329.0,2022.0,1426.0,H,1329-1426,2022.0,8.0,1329.0,1426.0,Regular,4335.0
+big_twelve,Big 12 Conference,2022.0,1395.0,2022.0,1270.0,H,1395-1270,2022.0,10.0,1395.0,1270.0,Regular,4125.0
+big_twelve,Big 12 Conference,2022.0,1400.0,2022.0,1223.0,H,1400-1223,2022.0,8.0,1400.0,1223.0,Regular,4020.0
+big_twelve,Big 12 Conference,2022.0,1403.0,2022.0,1316.0,H,1403-1316,2022.0,8.0,1403.0,1316.0,Regular,4205.0
+big_twelve,Big 12 Conference,2022.0,1452.0,2022.0,1324.0,H,1452-1324,2022.0,8.0,1452.0,1324.0,Regular,4224.0
+big_west,Big West Conference,2022.0,1142.0,2022.0,1413.0,H,1142-1413,,,,,,
+big_west,Big West Conference,2022.0,1167.0,2022.0,1225.0,H,1167-1225,,,,,,
+big_west,Big West Conference,2022.0,1168.0,2022.0,1203.0,H,1168-1203,2022.0,15.0,1168.0,1203.0,Regular,4127.0
+big_west,Big West Conference,2022.0,1169.0,2022.0,1469.0,H,1169-1469,2022.0,19.0,1169.0,1469.0,Regular,4249.0
+big_west,Big West Conference,2022.0,1218.0,2022.0,1334.0,H,1218-1334,2022.0,12.0,1218.0,1334.0,Regular,4155.0
+big_west,Big West Conference,2022.0,1253.0,2022.0,1364.0,H,1253-1364,,,,,,
+big_west,Big West Conference,2022.0,1364.0,2022.0,1152.0,H,1364-1152,2022.0,19.0,1364.0,1152.0,Regular,4310.0
+big_west,Big West Conference,2022.0,1413.0,2022.0,1186.0,H,1413-1186,,,,,,
+big_west,Big West Conference,2022.0,1414.0,2022.0,1129.0,H,1414-1129,2022.0,12.0,1414.0,1129.0,Regular,4163.0
+big_west,Big West Conference,2022.0,1415.0,2022.0,1197.0,H,1415-1197,,,,,,
+big_west,Big West Conference,2022.0,1471.0,2022.0,1203.0,H,1471-1203,,,,,,
+caa,Colonial Athletic Association,2022.0,1158.0,2022.0,1354.0,H,1158-1354,2022.0,10.0,1158.0,1354.0,Regular,4064.0
+caa,Colonial Athletic Association,2022.0,1174.0,2022.0,1247.0,H,1174-1247,,,,,,
+caa,Colonial Athletic Association,2022.0,1180.0,2022.0,1192.0,H,1180-1192,,,,,,
+caa,Colonial Athletic Association,2022.0,1189.0,2022.0,1457.0,H,1189-1457,2022.0,44.0,1189.0,1457.0,Regular,4109.0
+caa,Colonial Athletic Association,2022.0,1220.0,2022.0,1178.0,H,1220-1178,,,,,,
+caa,Colonial Athletic Association,2022.0,1241.0,2022.0,1330.0,H,1241-1330,2022.0,12.0,1241.0,1330.0,Regular,4148.0
+caa,Colonial Athletic Association,2022.0,1318.0,2022.0,1131.0,H,1318-1131,2022.0,15.0,1318.0,1131.0,Regular,4039.0
+caa,Colonial Athletic Association,2022.0,1406.0,2022.0,1214.0,H,1406-1214,,,,,,
+caa,Colonial Athletic Association,2022.0,1423.0,2022.0,1157.0,H,1423-1157,2022.0,17.0,1423.0,1157.0,Regular,4370.0
+caa,Colonial Athletic Association,2022.0,1456.0,2022.0,1220.0,H,1456-1220,2022.0,58.0,1456.0,1220.0,Regular,4369.0
+cusa,Conference USA,2022.0,1150.0,2022.0,1284.0,H,1150-1284,2022.0,8.0,1150.0,1284.0,Regular,4066.0
+cusa,Conference USA,2022.0,1194.0,2022.0,1404.0,H,1194-1404,2022.0,18.0,1194.0,1404.0,Regular,4033.0
+cusa,Conference USA,2022.0,1198.0,2022.0,1315.0,H,1198-1315,,,,,,
+cusa,Conference USA,2022.0,1256.0,2022.0,1238.0,H,1256-1238,2022.0,11.0,1256.0,1238.0,Regular,4299.0
+cusa,Conference USA,2022.0,1267.0,2022.0,1460.0,H,1267-1460,2022.0,11.0,1267.0,1460.0,Regular,4158.0
+cusa,Conference USA,2022.0,1292.0,2022.0,1126.0,H,1292-1126,2022.0,11.0,1292.0,1126.0,Regular,4228.0
+cusa,Conference USA,2022.0,1317.0,2022.0,1426.0,H,1317-1426,2022.0,17.0,1317.0,1426.0,Regular,4095.0
+cusa,Conference USA,2022.0,1330.0,2022.0,1264.0,H,1330-1264,2022.0,14.0,1330.0,1264.0,Regular,4244.0
+cusa,Conference USA,2022.0,1349.0,2022.0,1337.0,H,1349-1337,2022.0,8.0,1349.0,1337.0,Regular,4157.0
+cusa,Conference USA,2022.0,1379.0,2022.0,1249.0,H,1379-1249,2022.0,20.0,1379.0,1249.0,Regular,4150.0
+cusa,Conference USA,2022.0,1412.0,2022.0,1421.0,H,1412-1421,2022.0,8.0,1412.0,1421.0,Regular,4030.0
+cusa,Conference USA,2022.0,1427.0,2022.0,1176.0,H,1427-1176,2022.0,15.0,1427.0,1176.0,Regular,4302.0
+cusa,Conference USA,2022.0,1431.0,2022.0,1197.0,H,1431-1197,,,,,,
+cusa,Conference USA,2022.0,1443.0,2022.0,1106.0,H,1443-1106,2022.0,8.0,1443.0,1106.0,Regular,4041.0
+ecacm,Eastern Collegiate Athletic Conference Metro,,,,,,,,,,,,
+ecacn,Eastern Collegiate Athletic Conference North,,,,,,,,,,,,
+ecacs,Eastern Collegiate Athletic Conference South,,,,,,,,,,,,
+ecc,East Coast Conference,,,,,,,,,,,,
+gmwc,Great Midwest Conference,,,,,,,,,,,,
+gsc,Gulf Star Conference,,,,,,,,,,,,
+gwc,Great West Conference,,,,,,,,,,,,
+horizon,Horizon League,2022.0,1156.0,2022.0,1145.0,H,1156-1145,2022.0,19.0,1156.0,1145.0,Regular,4075.0
+horizon,Horizon League,2022.0,1178.0,2022.0,1444.0,H,1178-1444,,,,,,
+horizon,Horizon League,2022.0,1227.0,2022.0,1296.0,H,1227-1296,,,,,,
+horizon,Horizon League,2022.0,1236.0,2022.0,1122.0,H,1236-1122,2022.0,15.0,1236.0,1122.0,Regular,4124.0
+horizon,Horizon League,2022.0,1237.0,,,,,,,,,,
+horizon,Horizon League,2022.0,1297.0,2022.0,1185.0,H,1297-1185,2022.0,17.0,1297.0,1185.0,Regular,4153.0
+horizon,Horizon League,2022.0,1324.0,2022.0,1405.0,H,1324-1405,,,,,,
+horizon,Horizon League,2022.0,1352.0,2022.0,1297.0,H,1352-1297,,,,,,
+horizon,Horizon League,2022.0,1453.0,2022.0,1352.0,H,1453-1352,2022.0,31.0,1453.0,1352.0,Regular,4135.0
+horizon,Horizon League,2022.0,1454.0,2022.0,1352.0,H,1454-1352,,,,,,
+horizon,Horizon League,2022.0,1460.0,2022.0,1399.0,H,1460-1399,,,,,,
+horizon,Horizon League,2022.0,1464.0,2022.0,1472.0,H,1464-1472,,,,,,
+ind,Independent,,,,,,,,,,,,
+ivy,Ivy League,2022.0,1135.0,2022.0,1148.0,H,1135-1148,2022.0,13.0,1135.0,1148.0,Regular,4281.0
+ivy,Ivy League,2022.0,1162.0,2022.0,1127.0,H,1162-1127,2022.0,16.0,1162.0,1127.0,Regular,4239.0
+ivy,Ivy League,2022.0,1165.0,2022.0,1159.0,H,1165-1159,,,,,,
+ivy,Ivy League,2022.0,1171.0,2022.0,1135.0,H,1171-1135,,,,,,
+ivy,Ivy League,2022.0,1217.0,2022.0,1159.0,H,1217-1159,,,,,,
+ivy,Ivy League,2022.0,1335.0,2022.0,1248.0,H,1335-1248,,,,,,
+ivy,Ivy League,2022.0,1343.0,2022.0,1265.0,H,1343-1265,,,,,,
+ivy,Ivy League,2022.0,1463.0,2022.0,1269.0,H,1463-1269,2022.0,11.0,1463.0,1269.0,Regular,4236.0
+maac,Metro Atlantic Athletic Conference,2022.0,1145.0,2022.0,1164.0,H,1145-1164,2022.0,23.0,1145.0,1164.0,Regular,4049.0
+maac,Metro Atlantic Athletic Conference,2022.0,1193.0,2022.0,1392.0,H,1193-1392,,,,,,
+maac,Metro Atlantic Athletic Conference,2022.0,1233.0,2022.0,1111.0,H,1233-1111,2022.0,8.0,1233.0,1111.0,Regular,4238.0
+maac,Metro Atlantic Athletic Conference,2022.0,1264.0,2022.0,1200.0,H,1264-1200,2022.0,11.0,1264.0,1200.0,Regular,4045.0
+maac,Metro Atlantic Athletic Conference,2022.0,1265.0,2022.0,1440.0,H,1265-1440,,,,,,
+maac,Metro Atlantic Athletic Conference,2022.0,1284.0,2022.0,1250.0,H,1284-1250,,,,,,
+maac,Metro Atlantic Athletic Conference,2022.0,1310.0,2022.0,1346.0,H,1310-1346,,,,,,
+maac,Metro Atlantic Athletic Conference,2022.0,1346.0,2022.0,1221.0,H,1346-1221,2022.0,14.0,1346.0,1221.0,Regular,4143.0
+maac,Metro Atlantic Athletic Conference,2022.0,1351.0,2022.0,1164.0,H,1351-1164,2022.0,11.0,1351.0,1164.0,Regular,4190.0
+maac,Metro Atlantic Athletic Conference,2022.0,1373.0,2022.0,1217.0,H,1373-1217,2022.0,21.0,1373.0,1217.0,Regular,4003.0
+maac,Metro Atlantic Athletic Conference,2022.0,1389.0,2022.0,1254.0,H,1389-1254,2022.0,22.0,1389.0,1254.0,Regular,4169.0
+mac,Mid-American Conference,2022.0,1103.0,2022.0,1267.0,H,1103-1267,,,,,,
+mac,Mid-American Conference,2022.0,1123.0,2022.0,1303.0,H,1123-1303,2022.0,12.0,1123.0,1303.0,Regular,4227.0
+mac,Mid-American Conference,2022.0,1132.0,2022.0,1152.0,H,1132-1152,,,,,,
+mac,Mid-American Conference,2022.0,1138.0,2022.0,1351.0,H,1138-1351,,,,,,
+mac,Mid-American Conference,2022.0,1141.0,2022.0,1132.0,H,1141-1132,,,,,,
+mac,Mid-American Conference,2022.0,1185.0,2022.0,1229.0,H,1185-1229,2022.0,11.0,1185.0,1229.0,Regular,4374.0
+mac,Mid-American Conference,2022.0,1245.0,2022.0,1178.0,H,1245-1178,,,,,,
+mac,Mid-American Conference,2022.0,1275.0,2022.0,1249.0,H,1275-1249,,,,,,
+mac,Mid-American Conference,2022.0,1296.0,2022.0,1183.0,H,1296-1183,,,,,,
+mac,Mid-American Conference,2022.0,1325.0,2022.0,1125.0,H,1325-1125,2022.0,8.0,1325.0,1125.0,Regular,4015.0
+mac,Mid-American Conference,2022.0,1405.0,2022.0,1178.0,H,1405-1178,,,,,,
+mac,Mid-American Conference,2022.0,1444.0,2022.0,1141.0,H,1444-1141,,,,,,
+meac,Mid-Eastern Athletic Conference,2022.0,1164.0,2022.0,1259.0,H,1164-1259,2022.0,16.0,1164.0,1259.0,Regular,4022.0
+meac,Mid-Eastern Athletic Conference,2022.0,1175.0,,,,,,,,,,
+meac,Mid-Eastern Athletic Conference,2022.0,1224.0,2022.0,1110.0,H,1224-1110,,,,,,
+meac,Mid-Eastern Athletic Conference,2022.0,1271.0,2022.0,1288.0,H,1271-1288,,,,,,
+meac,Mid-Eastern Athletic Conference,2022.0,1288.0,2022.0,1175.0,H,1288-1175,,,,,,
+meac,Mid-Eastern Athletic Conference,2022.0,1300.0,2022.0,1205.0,H,1300-1205,,,,,,
+meac,Mid-Eastern Athletic Conference,2022.0,1313.0,2022.0,1456.0,H,1313-1456,,,,,,
+meac,Mid-Eastern Athletic Conference,2022.0,1354.0,2022.0,1398.0,H,1354-1398,,,,,,
+metro,Metropolitan Collegiate Athletic Conference,,,,,,,,,,,,
+mid_cont,Mid-Continent Conference,,,,,,,,,,,,
+mvc,Missouri Valley Conference,2022.0,1133.0,2022.0,1263.0,H,1133-1263,2022.0,26.0,1133.0,1263.0,Regular,4265.0
+mvc,Missouri Valley Conference,2022.0,1179.0,2022.0,1377.0,H,1179-1377,2022.0,13.0,1179.0,1377.0,Regular,4097.0
+mvc,Missouri Valley Conference,2022.0,1191.0,2022.0,1237.0,H,1191-1237,2022.0,10.0,1191.0,1237.0,Regular,4114.0
+mvc,Missouri Valley Conference,2022.0,1229.0,2022.0,1423.0,H,1229-1423,2022.0,8.0,1229.0,1423.0,Regular,4246.0
+mvc,Missouri Valley Conference,2022.0,1232.0,2022.0,1275.0,H,1232-1275,,,,,,
+mvc,Missouri Valley Conference,2022.0,1260.0,2022.0,1164.0,H,1260-1164,2022.0,8.0,1260.0,1164.0,Regular,4071.0
+mvc,Missouri Valley Conference,2022.0,1283.0,2022.0,1106.0,H,1283-1106,2022.0,12.0,1283.0,1106.0,Regular,4327.0
+mvc,Missouri Valley Conference,2022.0,1320.0,2022.0,1238.0,H,1320-1238,,,,,,
+mvc,Missouri Valley Conference,2022.0,1356.0,2022.0,1122.0,H,1356-1122,2022.0,11.0,1356.0,1122.0,Regular,4055.0
+mvc,Missouri Valley Conference,2022.0,1434.0,2022.0,1185.0,H,1434-1185,,,,,,
+mw_city,Midwestern City Conference,,,,,,,,,,,,
+mw_coll,Midwestern Collegiate Conference,,,,,,,,,,,,
+mwc,Mountain West Conference,2022.0,1102.0,2022.0,1411.0,H,1102-1411,,,,,,
+mwc,Mountain West Conference,2022.0,1129.0,2022.0,1430.0,H,1129-1430,2022.0,8.0,1129.0,1430.0,Regular,4035.0
+mwc,Mountain West Conference,2022.0,1161.0,2022.0,1331.0,H,1161-1331,2022.0,8.0,1161.0,1331.0,Regular,4121.0
+mwc,Mountain West Conference,2022.0,1201.0,2022.0,1254.0,H,1201-1254,2022.0,11.0,1201.0,1254.0,Regular,4126.0
+mwc,Mountain West Conference,2022.0,1305.0,2022.0,1186.0,H,1305-1186,2022.0,8.0,1305.0,1186.0,Regular,4290.0
+mwc,Mountain West Conference,2022.0,1307.0,2022.0,1194.0,H,1307-1194,2022.0,9.0,1307.0,1194.0,Regular,4004.0
+mwc,Mountain West Conference,2022.0,1361.0,2022.0,1415.0,H,1361-1415,2022.0,8.0,1361.0,1415.0,Regular,4303.0
+mwc,Mountain West Conference,2022.0,1363.0,2022.0,1168.0,H,1363-1168,2022.0,10.0,1363.0,1168.0,Regular,4305.0
+mwc,Mountain West Conference,2022.0,1424.0,2022.0,1205.0,H,1424-1205,2022.0,9.0,1424.0,1205.0,Regular,4188.0
+mwc,Mountain West Conference,2022.0,1429.0,2022.0,1426.0,H,1429-1426,,,,,,
+mwc,Mountain West Conference,2022.0,1461.0,2022.0,1178.0,H,1461-1178,2022.0,9.0,1461.0,1178.0,Regular,4186.0
+nac,North Atlantic Conference,,,,,,,,,,,,
+nec,Northeast Conference,2022.0,1136.0,2022.0,1306.0,H,1136-1306,,,,,,
+nec,Northeast Conference,2022.0,1148.0,2022.0,1221.0,H,1148-1221,,,,,,
+nec,Northeast Conference,2022.0,1192.0,2022.0,1148.0,H,1192-1148,,,,,,
+nec,Northeast Conference,2022.0,1254.0,2022.0,1175.0,H,1254-1175,2022.0,26.0,1254.0,1175.0,Regular,4047.0
+nec,Northeast Conference,2022.0,1291.0,2022.0,1224.0,H,1291-1224,,,,,,
+nec,Northeast Conference,2022.0,1357.0,2022.0,1254.0,H,1357-1254,,,,,,
+nec,Northeast Conference,2022.0,1383.0,2022.0,1384.0,H,1383-1384,,,,,,
+nec,Northeast Conference,2022.0,1384.0,2022.0,1137.0,H,1384-1137,,,,,,
+nec,Northeast Conference,2022.0,1447.0,2022.0,1216.0,H,1447-1216,2022.0,8.0,1447.0,1216.0,Regular,4333.0
+nec,Northeast Conference,2022.0,1467.0,2022.0,1250.0,H,1467-1250,,,,,,
+ovc,Ohio Valley Conference,2022.0,1122.0,2022.0,1188.0,H,1122-1188,,,,,,
+ovc,Ohio Valley Conference,2022.0,1125.0,2022.0,1191.0,H,1125-1191,2022.0,12.0,1125.0,1191.0,Regular,4233.0
+ovc,Ohio Valley Conference,2022.0,1183.0,2022.0,1398.0,H,1183-1398,,,,,,
+ovc,Ohio Valley Conference,2022.0,1188.0,2022.0,1236.0,H,1188-1236,,,,,,
+ovc,Ohio Valley Conference,2022.0,1287.0,2022.0,1204.0,H,1287-1204,,,,,,
+ovc,Ohio Valley Conference,2022.0,1293.0,2022.0,1468.0,H,1293-1468,2022.0,12.0,1293.0,1468.0,Regular,4229.0
+ovc,Ohio Valley Conference,2022.0,1369.0,2022.0,1191.0,H,1369-1191,,,,,,
+ovc,Ohio Valley Conference,2022.0,1398.0,2022.0,1237.0,H,1398-1237,2022.0,39.0,1398.0,1237.0,Regular,4233.0
+ovc,Ohio Valley Conference,2022.0,1399.0,2022.0,1252.0,H,1399-1252,2022.0,22.0,1399.0,1252.0,Regular,4083.0
+ovc,Ohio Valley Conference,2022.0,1404.0,2022.0,1421.0,H,1404-1421,,,,,,
+pac_ten,Pacific-10 Conference,,,,,,,,,,,,
+pac_twelve,Pacific-12 Conference,2022.0,1112.0,2022.0,1319.0,H,1112-1319,2022.0,8.0,1112.0,1319.0,Regular,4350.0
+pac_twelve,Pacific-12 Conference,2022.0,1113.0,2022.0,1339.0,H,1113-1339,2022.0,8.0,1113.0,1339.0,Regular,4343.0
+pac_twelve,Pacific-12 Conference,2022.0,1143.0,2022.0,1360.0,H,1143-1360,2022.0,14.0,1143.0,1360.0,Regular,4027.0
+pac_twelve,Pacific-12 Conference,2022.0,1160.0,2022.0,1286.0,H,1160-1286,2022.0,8.0,1160.0,1286.0,Regular,4040.0
+pac_twelve,Pacific-12 Conference,2022.0,1332.0,2022.0,1411.0,H,1332-1411,2022.0,8.0,1332.0,1411.0,Regular,4112.0
+pac_twelve,Pacific-12 Conference,2022.0,1333.0,2022.0,1340.0,H,1333-1340,2022.0,8.0,1333.0,1340.0,Regular,4086.0
+pac_twelve,Pacific-12 Conference,2022.0,1390.0,2022.0,1470.0,H,1390-1470,2022.0,8.0,1390.0,1470.0,Regular,4331.0
+pac_twelve,Pacific-12 Conference,2022.0,1417.0,2022.0,1167.0,H,1417-1167,2022.0,8.0,1417.0,1167.0,Regular,4201.0
+pac_twelve,Pacific-12 Conference,2022.0,1425.0,2022.0,1169.0,H,1425-1169,2022.0,8.0,1425.0,1169.0,Regular,4201.0
+pac_twelve,Pacific-12 Conference,2022.0,1428.0,2022.0,1101.0,H,1428-1101,2022.0,8.0,1428.0,1101.0,Regular,4301.0
+pac_twelve,Pacific-12 Conference,2022.0,1449.0,2022.0,1319.0,H,1449-1319,2022.0,10.0,1449.0,1319.0,Regular,4313.0
+pac_twelve,Pacific-12 Conference,2022.0,1450.0,2022.0,1108.0,H,1450-1108,2022.0,8.0,1450.0,1108.0,Regular,4284.0
+patriot,Patriot League,2022.0,1110.0,2022.0,1265.0,H,1110-1265,2022.0,8.0,1110.0,1265.0,Regular,4363.0
+patriot,Patriot League,2022.0,1119.0,2022.0,1467.0,H,1119-1467,,,,,,
+patriot,Patriot League,2022.0,1131.0,2022.0,1467.0,H,1131-1467,,,,,,
+patriot,Patriot League,2022.0,1137.0,2022.0,1351.0,H,1137-1351,2022.0,16.0,1137.0,1351.0,Regular,4191.0
+patriot,Patriot League,2022.0,1159.0,2022.0,1318.0,H,1159-1318,2022.0,8.0,1159.0,1318.0,Regular,4144.0
+patriot,Patriot League,2022.0,1221.0,2022.0,1248.0,H,1221-1248,2022.0,67.0,1221.0,1248.0,Regular,4372.0
+patriot,Patriot League,2022.0,1248.0,2022.0,1119.0,H,1248-1119,,,,,,
+patriot,Patriot League,2022.0,1250.0,2022.0,1162.0,H,1250-1162,2022.0,22.0,1250.0,1162.0,Regular,4028.0
+patriot,Patriot League,2022.0,1259.0,2022.0,1354.0,H,1259-1354,2022.0,11.0,1259.0,1354.0,Regular,4064.0
+patriot,Patriot League,2022.0,1298.0,2022.0,1456.0,H,1298-1456,,,,,,
+pcaa,Pacific Coast Athletic Association,,,,,,,,,,,,
+sec,Southeastern Conference,2022.0,1104.0,2022.0,1256.0,H,1104-1256,2022.0,8.0,1104.0,1256.0,Regular,4353.0
+sec,Southeastern Conference,2022.0,1116.0,2022.0,1273.0,H,1116-1273,2022.0,8.0,1116.0,1273.0,Regular,4119.0
+sec,Southeastern Conference,2022.0,1120.0,2022.0,1287.0,H,1120-1287,2022.0,8.0,1120.0,1287.0,Regular,4018.0
+sec,Southeastern Conference,2022.0,1196.0,2022.0,1189.0,H,1196-1189,2022.0,8.0,1196.0,1189.0,Regular,4128.0
+sec,Southeastern Conference,2022.0,1208.0,2022.0,1198.0,H,1208-1198,2022.0,8.0,1208.0,1198.0,Regular,4014.0
+sec,Southeastern Conference,2022.0,1246.0,2022.0,1352.0,H,1246-1352,2022.0,11.0,1246.0,1352.0,Regular,4193.0
+sec,Southeastern Conference,2022.0,1261.0,2022.0,1419.0,H,1261-1419,2022.0,8.0,1261.0,1419.0,Regular,4024.0
+sec,Southeastern Conference,2022.0,1279.0,2022.0,1309.0,H,1279-1309,2022.0,8.0,1279.0,1309.0,Regular,4260.0
+sec,Southeastern Conference,2022.0,1280.0,2022.0,1466.0,H,1280-1466,2022.0,9.0,1280.0,1466.0,Regular,4332.0
+sec,Southeastern Conference,2022.0,1281.0,2022.0,1141.0,H,1281-1141,2022.0,8.0,1281.0,1141.0,Regular,4463.0
+sec,Southeastern Conference,2022.0,1376.0,2022.0,1367.0,H,1376-1367,2022.0,8.0,1376.0,1367.0,Regular,4079.0
+sec,Southeastern Conference,2022.0,1397.0,2022.0,1404.0,H,1397-1404,2022.0,8.0,1397.0,1404.0,Regular,4180.0
+sec,Southeastern Conference,2022.0,1401.0,2022.0,1316.0,H,1401-1316,2022.0,9.0,1401.0,1316.0,Regular,4078.0
+sec,Southeastern Conference,2022.0,1435.0,2022.0,1106.0,H,1435-1106,2022.0,9.0,1435.0,1106.0,Regular,4233.0
+southern,Southern Conference,2022.0,1151.0,2022.0,1421.0,H,1151-1421,,,,,,
+southern,Southern Conference,2022.0,1154.0,2022.0,1300.0,H,1154-1300,,,,,,
+southern,Southern Conference,2022.0,1190.0,2022.0,1367.0,H,1190-1367,2022.0,17.0,1190.0,1367.0,Regular,4170.0
+southern,Southern Conference,2022.0,1202.0,2022.0,1347.0,H,1202-1347,,,,,,
+southern,Southern Conference,2022.0,1273.0,2022.0,1209.0,H,1273-1209,,,,,,
+southern,Southern Conference,2022.0,1359.0,2022.0,1105.0,H,1359-1105,,,,,,
+southern,Southern Conference,2022.0,1422.0,2022.0,1299.0,H,1422-1299,2022.0,8.0,1422.0,1299.0,Regular,4136.0
+southern,Southern Conference,2022.0,1440.0,2022.0,1205.0,H,1440-1205,,,,,,
+southern,Southern Conference,2022.0,1441.0,2022.0,1132.0,H,1441-1132,2022.0,8.0,1441.0,1132.0,Regular,4087.0
+southern,Southern Conference,2022.0,1459.0,2022.0,1214.0,H,1459-1214,2022.0,18.0,1459.0,1214.0,Regular,4323.0
+southland,Southland Conference,2022.0,1223.0,2022.0,1368.0,H,1223-1368,,,,,,
+southland,Southland Conference,2022.0,1230.0,2022.0,1212.0,H,1230-1212,2022.0,40.0,1230.0,1212.0,Regular,4302.0
+southland,Southland Conference,2022.0,1270.0,2022.0,1223.0,H,1270-1223,,,,,,
+southland,Southland Conference,2022.0,1309.0,2022.0,1146.0,H,1309-1146,2022.0,23.0,1309.0,1146.0,Regular,4237.0
+southland,Southland Conference,2022.0,1311.0,2022.0,1290.0,H,1311-1290,,,,,,
+southland,Southland Conference,2022.0,1322.0,2022.0,1230.0,H,1322-1230,2022.0,67.0,1322.0,1230.0,Regular,4175.0
+southland,Southland Conference,2022.0,1368.0,2022.0,1322.0,H,1368-1322,,,,,,
+southland,Southland Conference,2022.0,1394.0,2022.0,1176.0,H,1394-1176,,,,,,
+summit,Summit League,2022.0,1176.0,2022.0,1223.0,H,1176-1223,,,,,,
+summit,Summit League,2022.0,1282.0,2022.0,1453.0,H,1282-1453,,,,,,
+summit,Summit League,2022.0,1295.0,2022.0,1470.0,H,1295-1470,,,,,,
+summit,Summit League,2022.0,1303.0,2022.0,1442.0,H,1303-1442,2022.0,51.0,1303.0,1442.0,Regular,4255.0
+summit,Summit League,2022.0,1315.0,2022.0,1285.0,H,1315-1285,2022.0,14.0,1315.0,1285.0,Regular,4133.0
+summit,Summit League,2022.0,1331.0,2022.0,1409.0,H,1331-1409,2022.0,28.0,1331.0,1409.0,Regular,4351.0
+summit,Summit League,2022.0,1355.0,2022.0,1133.0,H,1355-1133,2022.0,8.0,1355.0,1133.0,Regular,4046.0
+summit,Summit League,2022.0,1377.0,2022.0,1102.0,H,1377-1102,2022.0,10.0,1377.0,1102.0,Regular,4316.0
+summit,Summit League,2022.0,1442.0,2022.0,1275.0,H,1442-1275,,,,,,
+summit,Summit League,2022.0,1472.0,2022.0,1442.0,H,1472-1442,,,,,,
+sun_belt,Sun Belt Conference,2022.0,1111.0,2022.0,1190.0,H,1111-1190,2022.0,11.0,1111.0,1190.0,Regular,4036.0
+sun_belt,Sun Belt Conference,2022.0,1114.0,2022.0,1356.0,H,1114-1356,2022.0,8.0,1114.0,1356.0,Regular,4248.0
+sun_belt,Sun Belt Conference,2022.0,1117.0,2022.0,1282.0,H,1117-1282,,,,,,
+sun_belt,Sun Belt Conference,2022.0,1157.0,2022.0,1376.0,H,1157-1376,,,,,,
+sun_belt,Sun Belt Conference,2022.0,1204.0,2022.0,1123.0,H,1204-1123,2022.0,8.0,1204.0,1123.0,Regular,4334.0
+sun_belt,Sun Belt Conference,2022.0,1209.0,2022.0,1318.0,H,1209-1318,2022.0,11.0,1209.0,1318.0,Regular,4016.0
+sun_belt,Sun Belt Conference,2022.0,1375.0,2022.0,1379.0,H,1375-1379,,,,,,
+sun_belt,Sun Belt Conference,2022.0,1402.0,2022.0,1176.0,H,1402-1176,,,,,,
+sun_belt,Sun Belt Conference,2022.0,1407.0,2022.0,1240.0,H,1407-1240,2022.0,15.0,1407.0,1240.0,Regular,4349.0
+sun_belt,Sun Belt Conference,2022.0,1418.0,2022.0,1309.0,H,1418-1309,,,,,,
+sun_belt,Sun Belt Conference,2022.0,1419.0,2022.0,1322.0,H,1419-1322,2022.0,21.0,1419.0,1322.0,Regular,4299.0
+sun_belt,Sun Belt Conference,2022.0,1426.0,2022.0,1249.0,H,1426-1249,,,,,,
+swac,Southwest Athletic Conference,2022.0,1105.0,2022.0,1398.0,H,1105-1398,2022.0,8.0,1105.0,1398.0,Regular,4159.0
+swac,Southwest Athletic Conference,2022.0,1106.0,2022.0,1300.0,H,1106-1300,2022.0,19.0,1106.0,1300.0,Regular,4220.0
+swac,Southwest Athletic Conference,2022.0,1108.0,2022.0,1411.0,H,1108-1411,,,,,,
+swac,Southwest Athletic Conference,2022.0,1115.0,2022.0,1106.0,H,1115-1106,2022.0,65.0,1115.0,1106.0,Regular,4268.0
+swac,Southwest Athletic Conference,2022.0,1126.0,2022.0,1197.0,H,1126-1197,,,,,,
+swac,Southwest Athletic Conference,2022.0,1197.0,2022.0,1212.0,H,1197-1212,2022.0,70.0,1197.0,1212.0,Regular,4341.0
+swac,Southwest Athletic Conference,2022.0,1212.0,2022.0,1380.0,H,1212-1380,,,,,,
+swac,Southwest Athletic Conference,2022.0,1238.0,2022.0,1341.0,H,1238-1341,,,,,,
+swac,Southwest Athletic Conference,2022.0,1290.0,,,,,,,,,,
+swac,Southwest Athletic Conference,2022.0,1341.0,2022.0,1115.0,H,1341-1115,2022.0,70.0,1341.0,1115.0,Regular,4276.0
+swac,Southwest Athletic Conference,2022.0,1380.0,2022.0,1368.0,H,1380-1368,,,,,,
+swac,Southwest Athletic Conference,2022.0,1411.0,2022.0,1115.0,H,1411-1115,,,,,,
+swc,Southwest Conference,,,,,,,,,,,,
+wac,Western Athletic Conference,2022.0,1101.0,2022.0,1230.0,H,1101-1230,,,,,,
+wac,Western Athletic Conference,2022.0,1152.0,2022.0,1472.0,H,1152-1472,2022.0,8.0,1152.0,1472.0,Regular,4071.0
+wac,Western Athletic Conference,2022.0,1213.0,2022.0,1212.0,H,1213-1212,2022.0,8.0,1213.0,1212.0,Regular,4267.0
+wac,Western Athletic Conference,2022.0,1249.0,,,,,,,,,,
+wac,Western Athletic Conference,2022.0,1308.0,2022.0,1414.0,H,1308-1414,2022.0,8.0,1308.0,1414.0,Regular,4187.0
+wac,Western Athletic Conference,2022.0,1358.0,2022.0,1300.0,H,1358-1300,,,,,,
+wac,Western Athletic Conference,2022.0,1370.0,2022.0,1108.0,H,1370-1108,2022.0,9.0,1370.0,1108.0,Regular,4313.0
+wac,Western Athletic Conference,2022.0,1372.0,2022.0,1292.0,H,1372-1292,2022.0,18.0,1372.0,1292.0,Regular,4231.0
+wac,Western Athletic Conference,2022.0,1410.0,2022.0,1152.0,H,1410-1152,,,,,,
+wac,Western Athletic Conference,2022.0,1430.0,2022.0,1176.0,H,1430-1176,,,,,,
+wac,Western Athletic Conference,2022.0,1465.0,2022.0,1290.0,H,1465-1290,2022.0,12.0,1465.0,1290.0,Regular,4294.0
+wac,Western Athletic Conference,2022.0,1469.0,2022.0,1381.0,H,1469-1381,2022.0,11.0,1469.0,1381.0,Regular,4476.0
+wac,Western Athletic Conference,2022.0,1470.0,2022.0,1375.0,H,1470-1375,2022.0,46.0,1470.0,1375.0,Regular,4477.0
+wcc,West Coast Conference,2022.0,1140.0,2022.0,1156.0,H,1140-1156,2022.0,8.0,1140.0,1156.0,Regular,4282.0
+wcc,West Coast Conference,2022.0,1211.0,2022.0,1469.0,H,1211-1469,2022.0,8.0,1211.0,1469.0,Regular,4324.0
+wcc,West Coast Conference,2022.0,1258.0,2022.0,1114.0,H,1258-1114,2022.0,16.0,1258.0,1114.0,Regular,4201.0
+wcc,West Coast Conference,2022.0,1334.0,2022.0,1152.0,H,1334-1152,2022.0,21.0,1334.0,1152.0,Regular,4336.0
+wcc,West Coast Conference,2022.0,1337.0,2022.0,1226.0,H,1337-1226,2022.0,11.0,1337.0,1226.0,Regular,4210.0
+wcc,West Coast Conference,2022.0,1339.0,2022.0,1108.0,H,1339-1108,2022.0,12.0,1339.0,1108.0,Regular,4274.0
+wcc,West Coast Conference,2022.0,1360.0,2022.0,1415.0,H,1360-1415,,,,,,
+wcc,West Coast Conference,2022.0,1362.0,2022.0,1254.0,H,1362-1254,2022.0,8.0,1362.0,1254.0,Regular,4304.0
+wcc,West Coast Conference,2022.0,1365.0,2022.0,1168.0,H,1365-1168,2022.0,8.0,1365.0,1168.0,Regular,4311.0
+wcc,West Coast Conference,2022.0,1388.0,2022.0,1341.0,H,1388-1341,2022.0,8.0,1388.0,1341.0,Regular,4222.0

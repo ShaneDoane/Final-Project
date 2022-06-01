@@ -1,0 +1,359 @@
+TeamName,City,State
+Abilene Chr,Abilene,TX
+Air Force,USAFA,CO
+Akron,Akron,OH
+Alabama,Tuscaloosa,AL
+Alabama A&M,Normal,AL
+Alabama St,Montgomery,AL
+SUNY Albany,Albany,NY
+Alcorn St,Alcorn State,MS
+American Univ,Washington,DC
+Appalachian St,Boone,NC
+Arizona,Tucson,AZ
+Arizona St,Tempe,AZ
+Ark Little Rock,Little Rock,AR
+Ark Pine Bluff,Pine Bluff,AR
+Arkansas,Fayetteville,AR
+Arkansas St,Jonesboro,AR
+Army,West Point,NY
+Auburn,Auburn,AL
+Austin Peay,Clarksville,TN
+Ball St,Muncie,IN
+Baylor,Waco,TX
+Belmont,Nashville,TN
+Bethune-Cookman,Daytona Beach,FL
+Binghamton,Vestal,NY
+Boise St,Boise,ID
+Boston College,Chestnut Hill,MA
+Boston Univ,Boston,MA
+Bowling Green,Bowling Green,OH
+Bradley,Peoria,IL
+Brown,Providence,RI
+Bryant,Smithfield,RI
+Bucknell,Lewisburg,PA
+Buffalo,Buffalo,NY
+Butler,Indianapolis,IN
+BYU,Provo,UT
+C Michigan,Mount Pleasant,MI
+Cal Poly,San Luis Obispo,CA
+California,Berkeley,CA
+Campbell,Buies Creek,NC
+Canisius,Buffalo,NY
+Cent Arkansas,Conway,AR
+Central Conn,New Britain,CT
+Charleston So,Charleston,SC
+Charlotte,Charlotte,NC
+Chattanooga,Chattanooga,TN
+Chicago St,Chicago,IL
+Cincinnati,Cincinnati,OH
+Citadel,Charleston,SC
+Clemson,Clemson,SC
+Cleveland St,Cleveland,OH
+Coastal Car,Conway,SC
+Col Charleston,Charleston,SC
+Colgate,Hamilton,NY
+Colorado,Boulder,CO
+Colorado St,Fort Collins,CO
+Columbia,New York,NY
+Connecticut,Storrs,CT
+Coppin St,Baltimore,MD
+Cornell,Ithaca,NY
+Creighton,Omaha,NE
+CS Bakersfield,Bakersfield,CA
+CS Fullerton,Fullerton,CA
+CS Northridge,Northridge,CA
+CS Sacramento,Sacramento,CA
+Dartmouth,Hanover,NH
+Davidson,Davidson,NC
+Dayton,Dayton,OH
+Delaware,Newark,DE
+Delaware St,Dover,DE
+Denver,Denver,CO
+DePaul,Chicago,IL
+Detroit,Detroit,MI
+Drake,Des Moines,IA
+Drexel,Philadelphia,PA
+Duke,Durham,NC
+Duquesne,Pittsburgh,PA
+E Illinois,Charleston,IL
+E Kentucky,Richmond,KY
+E Michigan,Ypsilanti,MI
+E Washington,Cheney,WA
+East Carolina,Greenville,NC
+SIUE,Edwardsville,IL
+Elon,Elon,NC
+ETSU,Johnson City,TN
+Evansville,Evansville,IN
+F Dickinson,Hackensack,NJ
+Fairfield,Fairfield,CT
+FL Atlantic,Boca Raton,FL
+FL Gulf Coast,Fort Myers,FL
+Florida,Gainesville,FL
+Florida A&M,Tallahassee,FL
+Florida Intl,Miami,FL
+Florida St,Tallahassee,FL
+Fordham,Bronx,NY
+Fresno St,Fresno,CA
+Furman,Greenville,SC
+G Washington,Washington,DC
+Ga Southern,Statesboro,GA
+Gardner Webb,Boiling Springs,NC
+George Mason,Fairfax,VA
+Georgetown,Washington,DC
+Georgia,Athens,GA
+Georgia St,Atlanta,GA
+Georgia Tech,Atlanta,GA
+Gonzaga,Spokane,WA
+Grambling,Grambling,LA
+Grand Canyon,Phoenix,AZ
+Hampton,Hampton,VA
+Hartford,West Hartford,CT
+Harvard,Cambridge,MA
+Hawaii,Honolulu,HI
+High Point,High Point,NC
+Hofstra,Hempstead,NY
+Holy Cross,Worcester,MA
+Houston,Houston,TX
+Houston Bap,Houston,TX
+Howard,Washington,DC
+Idaho,Moscow,ID
+Idaho St,Pocatello,ID
+IL Chicago,Chicago,IL
+Illinois,Champaign,IL
+Illinois St,Normal,IL
+Incarnate Word,San Antonio,TX
+Indiana,Bloomington,IN
+Indiana St,Terre Haute,IN
+Iona,New Rochelle,NY
+Iowa,Iowa City,IA
+Iowa St,Ames,IA
+PFW,Fort Wayne,IN
+IUPUI,Indianapolis,IN
+Jackson St,Jackson,MS
+Jacksonville,Jacksonville,FL
+Jacksonville St,Jacksonville,AL
+James Madison,Harrisonburg,VA
+Kansas,Lawrence,KS
+Kansas St,Manhattan,KS
+Kennesaw,Kennesaw,GA
+Kent,Kent,OH
+Kentucky,Lexington,KY
+La Salle,Philadelphia,PA
+Lafayette,Easton,PA
+Lamar,Beaumont,TX
+Lehigh,Bethlehem,PA
+Liberty,Lynchburg,VA
+Lipscomb,Nashville,TN
+Long Beach St,Long Beach,CA
+LIU Brooklyn,Brooklyn,NY
+Longwood,Farmville,VA
+Louisiana Tech,Ruston,LA
+Louisville,Louisville,KY
+Loy Marymount,Los Angeles,CA
+Loyola MD,Baltimore,MD
+Loyola-Chicago,Chicago,IL
+LSU,Baton Rouge,LA
+MA Lowell,Lowell,MA
+Maine,Orono,ME
+Manhattan,Riverdale,NY
+Marist,Poughkeepsie,NY
+Marquette,Milwaukee,WI
+Marshall,Huntington,WV
+Maryland,College Park,MD
+Massachusetts,Amherst,MA
+McNeese St,Lake Charles,LA
+MD E Shore,Princess Anne,MD
+Memphis,Memphis,TN
+Mercer,Macon,GA
+Miami FL,Coral Gables,FL
+Miami OH,Oxford,OH
+Michigan,Ann Arbor,MI
+Michigan St,East Lansing,MI
+Minnesota,Minneapolis,MN
+Mississippi,University,MS
+Mississippi St,Mississippi State,MS
+Missouri,Columbia,MO
+Missouri KC,Kansas City,MO
+Missouri St,Springfield,MO
+Monmouth NJ,West Long Branch,NJ
+Montana,Missoula,MT
+Montana St,Bozeman,MT
+Morehead St,Morehead,KY
+Morgan St,Baltimore,MD
+MS Valley St,Itta Bena,MS
+Mt St Mary's,Emmitsburg,MD
+MTSU,Murfreesboro,TN
+Murray St,Murray,KY
+N Colorado,Greeley,CO
+N Dakota St,Fargo,ND
+N Illinois,Dekalb,IL
+N Kentucky,Highland Heights,KY
+Navy,Annapolis,MD
+NC A&T,Greensboro,NC
+NC Central,Durham,NC
+NC State,Raleigh,NC
+NE Omaha,Omaha,NE
+Nebraska,Lincoln,NE
+Nevada,Reno,NV
+New Hampshire,Durham,NH
+New Mexico,Albuquerque,NM
+New Mexico St,Las Cruces,NM
+New Orleans,New Orleans,LA
+Niagara,Niagara University,NY
+Nicholls St,Thibodaux,LA
+NJIT,Newark,NJ
+Norfolk St,Norfolk,VA
+North Carolina,Chapel Hill,NC
+North Dakota,Grand Forks,ND
+North Florida,Jacksonville,FL
+North Texas,Denton,TX
+Northeastern,Boston,MA
+Northern Arizona,Flagstaff,AZ
+Northern Iowa,Cedar Falls,IA
+Northwestern,Evanston,IL
+Northwestern LA,Natchitoches,LA
+Notre Dame,South Bend,IN
+Oakland,Rochester,MI
+Ohio,Athens,OH
+Ohio St,Columbus,OH
+Oklahoma,Norman,OK
+Oklahoma St,Stillwater,OK
+Old Dominion,Norfolk,VA
+Oral Roberts,Tulsa,OK
+Oregon,Eugene,OR
+Oregon St,Corvallis,OR
+Pacific,Stockton,CA
+Penn,Philadelphia,PA
+Penn St,University Park,PA
+Pepperdine,Malibu,CA
+Pittsburgh,Pittsburgh,PA
+Portland,Portland,OR
+Portland St,Portland,OR
+Prairie View,Prairie View,TX
+Presbyterian,Clinton,SC
+Princeton,Princeton,NJ
+Providence,Providence,RI
+Purdue,West Lafayette,IN
+Quinnipiac,Hamden,CT
+Radford,Radford,VA
+Rhode Island,Kingston,RI
+Rice,Houston,TX
+Richmond,University of Richmond,VA
+Rider,Lawrenceville,NJ
+Robert Morris,Moon Township,PA
+Rutgers,New Brunswick,NJ
+S Carolina St,Orangeburg,SC
+S Dakota St,Brookings,SD
+S Illinois,Carbondale,IL
+Sacred Heart,Fairfield,CT
+Sam Houston St,Huntsville,TX
+Samford,Birmingham,AL
+San Diego,San Diego,CA
+San Diego St,San Diego,CA
+San Francisco,San Francisco,CA
+San Jose St,San Jose,CA
+UC Santa Barbara,Santa Barbara,CA
+Santa Clara,Santa Clara,CA
+SC Upstate,Spartanburg,SC
+SE Louisiana,Hammond,LA
+SE Missouri St,Cape Girardeau,MO
+Seattle,Seattle,WA
+Seton Hall,South Orange,NJ
+SF Austin,Nacogdoches,TX
+Siena,Loudonville,NY
+SMU,Dallas,TX
+South Alabama,Mobile,AL
+South Carolina,Columbia,SC
+South Dakota,Vermillion,SD
+South Florida,Tampa,FL
+Southern Miss,Hattiesburg,MS
+Southern Univ,Baton Rouge,LA
+Southern Utah,Cedar City,UT
+St Bonaventure,Saint Bonaventure,NY
+St Francis NY,Brooklyn Heights,NY
+St Francis PA,Loretto,PA
+St John's,Queens,NY
+St Joseph's PA,Philadelphia,PA
+St Louis,Saint Louis,MO
+St Mary's CA,Moraga,CA
+St Peter's,Jersey City,NJ
+Stanford,Stanford,CA
+Stetson,DeLand,FL
+Stony Brook,Stony Brook,NY
+Syracuse,Syracuse,NY
+TAM C. Christi,Corpus Christi,TX
+TCU,Fort Worth,TX
+Temple,Philadelphia,PA
+Tennessee,Knoxville,TN
+Tennessee St,Nashville,TN
+Tennessee Tech,Cookeville,TN
+Texas,Austin,TX
+Texas A&M,College Station,TX
+Texas St,San Marcos,TX
+Texas Tech,Lubbock,TX
+TN Martin,Martin,TN
+Toledo,Toledo,OH
+Towson,Towson,MD
+Troy,Troy,AL
+Tulane,New Orleans,LA
+Tulsa,Tulsa,OK
+UTRGV,Edinburg,TX
+TX Southern,Houston,TX
+UAB,Birmingham,AL
+UC Davis,Davis,CA
+UC Irvine,Irvine,CA
+UC Riverside,Riverside,CA
+UCF,Orlando,FL
+UCLA,Los Angeles,CA
+Louisiana,Lafayette,LA
+ULM,Monroe,LA
+UMBC,Baltimore,MD
+UNC Asheville,Asheville,NC
+UNC Greensboro,Greensboro,NC
+UNC Wilmington,Wilmington,NC
+UNLV,Las Vegas,NV
+USC,Los Angeles,CA
+UT Arlington,Arlington,TX
+UT San Antonio,San Antonio,TX
+Utah,Salt Lake City,UT
+Utah St,Logan,UT
+Utah Valley,Orem,UT
+UTEP,El Paso,TX
+VCU,Richmond,VA
+Valparaiso,Valparaiso,IN
+Vanderbilt,Nashville,TN
+Vermont,Burlington,VT
+Villanova,Villanova,PA
+Virginia,Charlottesville,VA
+Virginia Tech,Blacksburg,VA
+VMI,Lexington,VA
+W Carolina,Cullowhee,NC
+W Illinois,Macomb,IL
+WKU,Bowling Green,KY
+W Michigan,Kalamazoo,MI
+Wagner,Staten Island,NY
+Wake Forest,Winston Salem,NC
+Washington,Seattle,WA
+Washington St,Pullman,WA
+Weber St,Ogden,UT
+West Virginia,Morgantown,WV
+WI Green Bay,Green Bay,WI
+WI Milwaukee,Milwaukee,WI
+Wichita St,Wichita,KS
+William & Mary,Williamsburg,VA
+Winthrop,Rock Hill,SC
+Wisconsin,Madison,WI
+Wofford,Spartanburg,SC
+Wright St,Dayton,OH
+Wyoming,Laramie,WY
+Xavier,Cincinnati,OH
+Yale,New Haven,CT
+Youngstown St,Youngstown,OH
+Cal Baptist,Riverside,CA
+North Alabama,Florence,AL
+Merrimack,North Andover,MA
+Bellarmine,Louisville,KY
+Dixie St,St. George,UT
+Tarleton St,Stephenville,TX
+UC San Diego,La Jolla,CA
+St Thomas MN,St. Paul,MN
